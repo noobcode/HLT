@@ -3,20 +3,7 @@ import pandas as pd
 import fnmatch
 from xml import etree
 from xml.etree import ElementTree as ET
-
-
-FILE_PATH = os.path.dirname(os.path.realpath(__file__)) #this file's path
-ROOT_DIR = os.path.dirname(FILE_PATH) #Project root dir - '.../HLT'
-
-DrugBank_DIR_train = os.path.join(ROOT_DIR, 'Train', 'DrugBank')
-MedLine_DIR_train = os.path.join(ROOT_DIR, 'Train', 'MedLine')
-DATA_DIRS = [DrugBank_DIR_train, MedLine_DIR_train]
-
-# Check directory paths
-#print(ROOT_DIR)
-#print(DrugBank_DIR_train, MedLine_DIR_train)
-
-
+from paths import *
 
 def parse(xml):
   ''' This function parses all needed information from given xml and returns two data frames
@@ -46,6 +33,11 @@ def parse(xml):
   #print(entities_df)
   return (sentences_df, entities_df)
 
+# TODO move this where it will be useful
+def get_sentenceID(entityID):
+  ''' Gets entityID and returns sentenceID of a sentence that the drug was mentioned in. '''
+  return '.'.join(entityID.split('.')[:-1])
+
 
 if __name__ == "__main__":
   frames_sentences = list()
@@ -60,19 +52,24 @@ if __name__ == "__main__":
       frames_entities.append(entities_df)
   sentences_df = pd.concat(frames_sentences).drop_duplicates().reset_index(drop=True)
   entities_df = pd.concat(frames_entities).drop_duplicates().reset_index(drop=True)
-  print(sentences_df)
+
+  print(sentences_df.head())
   print()
-  print(entities_df)
+  print(entities_df.head())
 
+  print (sentences_df.describe())
+  print()
+  print (entities_df.describe())  ## from here we can see that there are mostly drugs (9425 out of 14765 entities)
+                                  ## the most common name is 'digoxin'
+  sentences_df.info()
+  print ()
+  entities_df.info()
 
+  # check if get_sentenceID works
+  print(get_sentenceID("DDI-DrugBank.d157.s0.e0") == "DDI-DrugBank.d157.s0")
 
-def get_sentenceID(entityID):
-  ''' Gets entityID and returns sentenceID of a sentence that the drug was mentioned in. '''
-  return '.'.join(entityID.split('.')[:-1])
+  # save DataFrames to .csv files
+  sentences_df.to_csv(SENTENCE_PATH, index=False)
+  entities_df.to_csv(ENTITY_PATH, index=False)
 
-
-
-
-#raw_data = [["d519.s3", "this text contains drugs", "d519.s3.e0", "29-36", "brand", "plenaxis"],
-#            ["d519.s3", "this text contains drugs", "d519.s3.e1", "83-94", "drug", "testosterone"]]
 
