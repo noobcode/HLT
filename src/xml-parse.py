@@ -33,11 +33,6 @@ def parse(xml):
   #print(entities_df)
   return (sentences_df, entities_df)
 
-# TODO move this where it will be useful
-def get_sentenceID(entityID):
-  ''' Gets entityID and returns sentenceID of a sentence that the drug was mentioned in. '''
-  return '.'.join(entityID.split('.')[:-1])
-
 
 if __name__ == "__main__":
   frames_sentences = list()
@@ -52,6 +47,7 @@ if __name__ == "__main__":
       frames_entities.append(entities_df)
   sentences_df = pd.concat(frames_sentences).drop_duplicates().reset_index(drop=True)
   entities_df = pd.concat(frames_entities).drop_duplicates().reset_index(drop=True)
+  
 
   print(sentences_df.head())
   print()
