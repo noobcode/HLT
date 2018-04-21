@@ -18,35 +18,35 @@ label_dict = dict()
 #for index, row in sentences_df.iterrows():
  # print(row['sentenceText'])
 
+#iterate over all entities
 for index, row in entities_df.iterrows():
+  #get the sentence ID to reach the sentence
   sentenceID = get_sentenceID(row['entityID'])
-#  print(sentenceID)
-#  sentence = sentences_df[sentences_df['sentenceID'] == sentenceID]['sentenceText']
+  #print(sentenceID)
   sentence = str(sentences_df.loc[sentences_df.sentenceID==sentenceID]['sentenceText'].values[0])
-  print(sentence)
+  #print(sentence)
+
+  #skip all entities that have discontinued names
   if ';' in row['position']:
     continue
   position = row['position'].split('-')
-  words = sentence.split()
-  entity_words = sentence[int(position[0]):int(position[1]) + 1]
- # print(words)
-  print(entity_words)
+  words = sentence.lower().split()
+  entity_words = sentence[int(position[0]):int(position[1]) + 1].lower().split()
+  #print(words)
+  #print(entity_words)
   
-  labels = ['O' for w in words]
-  if sentenceID not in label_dict:
- #   print(sentenceID)
-    label_dict['sentenceID'] = labels
-  else:
-    labels = label_dict['sentenceID']
 
-  first_word = True
+  if sentenceID not in label_dict:
+    labels = ['O' for w in words] #label everything with O
+  else:
+    labels = label_dict[sentenceID] #load previous labels
+
   for l in range(len(labels)):
-    if labels[l] == 'O':
-      if words[l].lower() in entity_words.lower().split():
-        print(entity_words.split()[0], words[l])
-        if words[l].lower() == entity_words.split()[0].lower():
+    if labels[l] == 'O': #dont touch the labels that are already defined
+      if words[l] in entity_words:
+        print(entity_words[0], words[l])
+        if words[l] == entity_words[0]:
           labels[l] = 'B'
-          first_word = False
         else:
           labels[l] = 'I'
   label_dict[sentenceID] = labels
