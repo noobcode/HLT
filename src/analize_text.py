@@ -10,8 +10,8 @@ def get_sentenceID(entityID):
 
 sentences_df = pd.read_csv(SENTENCE_PATH)
 entities_df = pd.read_csv(ENTITY_PATH)
-#print (sentences_df.head())
-#print (entities_df.head())
+print (sentences_df.head())
+print (entities_df.head())
 
 label_dict = dict()
 
@@ -44,11 +44,13 @@ for index, row in entities_df.iterrows():
   for l in range(len(labels)):
     if labels[l] == 'O': #dont touch the labels that are already defined
       if words[l] in entity_words:
-        print(entity_words[0], words[l])
+        #print(entity_words[0], words[l])
         if words[l] == entity_words[0]:
           labels[l] = 'B'
         else:
           labels[l] = 'I'
   label_dict[sentenceID] = labels
-  print(labels)
+  #print(labels)
   
+print sentences_df.loc[sentences_df.sentenceID =='DDI-DrugBank.d178.s13']['sentenceText'].values
+print label_dict['DDI-DrugBank.d178.s13']
