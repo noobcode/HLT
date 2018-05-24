@@ -10,8 +10,8 @@ def get_sentenceID(entityID):
 
 sentences_df = pd.read_csv(SENTENCE_PATH)
 entities_df = pd.read_csv(ENTITY_PATH)
-print (sentences_df.head())
-print (entities_df.head())
+print(sentences_df.head())
+print(entities_df.head())
 
 label_dict = dict()
 
@@ -52,5 +52,5 @@ for index, row in entities_df.iterrows():
   label_dict[sentenceID] = labels
   #print(labels)
   
-print sentences_df.loc[sentences_df.sentenceID =='DDI-DrugBank.d178.s13']['sentenceText'].values
-print label_dict['DDI-DrugBank.d178.s13']
+print(sentences_df.loc[sentences_df.sentenceID =='DDI-DrugBank.d178.s13']['sentenceText'].values)
+print(label_dict['DDI-DrugBank.d178.s13'])
