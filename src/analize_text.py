@@ -15,8 +15,8 @@ def get_sentenceID(entityID):
 if __name__ == '__main__':
   sentences_df = pd.read_csv(SENTENCE_PATH)
   entities_df = pd.read_csv(ENTITY_PATH)
-  print (sentences_df.head())
-  print (entities_df.head())
+  print(sentences_df.head())
+  print(entities_df.head())
 
   label_dict = dict()
 
@@ -53,13 +53,13 @@ if __name__ == '__main__':
             labels[l] = 'I'
     label_dict[sentenceID] = labels
 
-  print sentences_df.loc[sentences_df.sentenceID =='DDI-DrugBank.d178.s13']['sentenceText'].values
-  print label_dict['DDI-DrugBank.d178.s13']
+  print(sentences_df.loc[sentences_df.sentenceID =='DDI-DrugBank.d178.s13']['sentenceText'].values)
+  print(label_dict['DDI-DrugBank.d178.s13'])
 
   # save labels to csv
   label_dict_path = os.path.join(ROOT_DIR, 'Train', 'bio_labels')
   np.save(label_dict_path, label_dict)
   read_dictionary = np.load(label_dict_path + '.npy').item()
 
-  print label_dict['DDI-DrugBank.d178.s13']
-  print read_dictionary['DDI-DrugBank.d178.s13']
+  print(label_dict['DDI-DrugBank.d178.s13'])
+  print(read_dictionary['DDI-DrugBank.d178.s13'])
