@@ -13,11 +13,23 @@ def get_sentenceID(entityID):
   return '.'.join(entityID.split('.')[:-1])
 
 if __name__ == '__main__':
-  sentences_df = pd.read_csv(SENTENCE_PATH)
-  entities_df = pd.read_csv(ENTITY_PATH)
-  print(sentences_df.head())
-  print(entities_df.head())
+  # read dataframes of sentences and entities
+  sentences_df_train = pd.read_csv(SENTENCE_PATH_train)
+  entities_df_train = pd.read_csv(ENTITY_PATH_train)
 
+  sentences_df_test1 = pd.read_csv(SENTENCE_PATH_test1)
+  entities_df_test1 = pd.read_csv(ENTITY_PATH_test1)
+
+  sentences_df_test2 = pd.read_csv(SENTENCE_PATH_test2)
+  entities_df_test2 = pd.read_csv(ENTITY_PATH_test2)
+  # Concatenating training and test data for the word2vec training!
+  sentences_df = pd.concat([sentences_df_train,
+                            sentences_df_test1,
+                            sentences_df_test2]).drop_duplicates().reset_index(drop=True)
+
+  entities_df = pd.concat([entities_df_train,
+                           entities_df_test1,
+                           entities_df_test2]).drop_duplicates().reset_index(drop=True)
   label_dict = dict()
 
   #for index, row in sentences_df.iterrows():

@@ -117,8 +117,6 @@ DDI-DrugBank.d216.s13,"therefore, the disposition of eszopiclone is not expected
 DDI-DrugBank.d216.s14,Administration of eszopiclone 3 mg to a patient taking another drug that is highly protein-bound would not be expected to cause an alteration in the free concentration of either drug.
 DDI-DrugBank.d216.s15,Drugs With A Narrow Therapeutic Index Digoxin A single dose of eszopiclone 3 mg did not affect the pharmacokinetics of digoxin measured at steady state following dosing of 0.5 mg twice daily for one day and 0.25 mg daily for the next 6 days.
 DDI-DrugBank.d216.s16,"Warfarin: Eszopiclone 3 mg administered daily for 5 days did not affect the pharmacokinetics of (R)- or (S)-warfarin, nor were there any changes in the pharmacodynamic profile (prothrombin time) following a single 25 mg oral dose of warfarin"
-DDI-DrugBank.d216.s17,.
-DDI-DrugBank.d216.s18,
 DDI-DrugBank.d381.s0,ERGAMISOL  (levamisole hydrochloride) has been reported to produce ANTABUSE-like side effects when given concomitantly with alcohol.
 DDI-DrugBank.d381.s1,The physician is advised to monitor plasma levels of phenytoin and to decrease the dose if necessary.
 DDI-DrugBank.d381.s2,"Because of reports of prolongation of the prothrombin time beyond the therapeutic range in patients taking concurrent levamisole and warfarin sodium, it is suggested that the prothrombin time be monitored carefully, and the dose of warfarin sodium or other coumarin-like drugs should be adjusted accordingly, in patients taking both drugs."
@@ -172,9 +170,6 @@ DDI-DrugBank.d167.s1,"Anticholinesterases (neostgmine, physostigmine), lignocain
 DDI-DrugBank.d167.s2,"In addition, neuromuscular blocking action is enhanced by general anesthetics, local anesthetics like lidocaine, procaine, beta-blockers, metaclopramide, lithium carbonate, and terbutaline."
 DDI-DrugBank.d285.s0,Reduced efficacy and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.
 DDI-DrugBank.d285.s1,"A similar association, though less marked, has been suggested with barbiturates, phenyl-butazone, phenytoin sodium, carbamazepine and possibly with griseofulvin, ampicillin, and tetracyclines (72)"
-DDI-DrugBank.d285.s2,.
-DDI-DrugBank.d285.s3,
-DDI-DrugBank.d285.s4,
 DDI-DrugBank.d93.s0,"Clinical trials have indicated that Pulmozyme can be effectively and safely used in conjunction with standard cystic fibrosis therapies including oral, inhaled and/or parenteral antibiotics, bronchodilators, enzyme supplements, vitamins, oral or inhaled corticosteroids, and analgesics."
 DDI-DrugBank.d93.s1,No formal drug interaction studies have been performed.
 DDI-DrugBank.d112.s0,Concurrent use with probenecid or other drugs significantly eliminated by active renal tubular secretion may result in increased plasma concentrations of penciclovir.
@@ -414,7 +409,6 @@ DDI-DrugBank.d556.s2,Serum samples from patients treated with cefoxitin should n
 DDI-DrugBank.d556.s3,"High concentrations of cefoxitin in the urine may interfere with measurement of urinary 17-hydroxy-corticosteroids by the Porter-Silber reaction, and produce false increases of modest degree in the levels reported."
 DDI-DrugBank.d556.s4,A false-positive reaction for glucose in the urine may occur.
 DDI-DrugBank.d556.s5,This has been observed with CLINITEST  reagent tablets
-DDI-DrugBank.d556.s6,.
 DDI-DrugBank.d556.s7,"Registered trademark of Ames Company, Division of Miles Laboratories, Inc."
 DDI-DrugBank.d315.s0,"Digoxin: Coadministration of digoxin, a P-glycoprotein substrate, with oral conivaptan resulted in a reduction in clearance and an increase in digoxin Cmax and AUC values."
 DDI-DrugBank.d315.s1,"Therefore, if digoxin is administered with VAPRISOL, the clinician should be alert to the possibility of increases in digoxin levels."
@@ -462,8 +456,6 @@ DDI-DrugBank.d185.s3,"Exposure from the proposed topical dose is about 1% of tha
 DDI-DrugBank.d185.s4,"Certain concomitant medications (such as rifampin, anticonvulsants, St."
 DDI-DrugBank.d185.s5,"John s wort) may increase the formation of dapsone hydroxylamine, a metabolite of dapsone associated with hemolysis."
 DDI-DrugBank.d185.s6,"With oral dapsone treatment, folic acid antagonists such as pyrimethamine have been noted to possibly increase the likelihood of hematologic reactions"
-DDI-DrugBank.d185.s7,.
-DDI-DrugBank.d185.s8,
 DDI-DrugBank.d521.s0,Many other medicines may increase or decrease the effects of glimepiride or affect your condition.
 DDI-DrugBank.d521.s1,"Before taking glimepiride, tell your doctor if you are taking any of the following medicines: - aspirin or another salicylate such as magnesium/choline salicylate (Trilisate), salsalate (Disalcid, others), choline salicylate (Arthropan), magnesium salicylate (Magan), or bismuth subsalicylate (Pepto-Bismol);"
 DDI-DrugBank.d521.s2,"- a nonsteroidal anti-inflammatory drug (NSAID) such as ibuprofen (Motrin, Advil, Nuprin, others), ketoprofen (Orudis, Orudis KT, Oruvail), diclofenac (Voltaren, Cataflam), etodolac (Lodine), indomethacin (Indocin), nabumetone (Relafen), oxaprozin (Daypro), and naproxen (Anaprox, Naprosyn, Aleve);"
@@ -546,21 +538,17 @@ DDI-DrugBank.d284.s15,"However, under certain circumstances, e.g., as prophylaxi
 DDI-DrugBank.d284.s16,"In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution."
 DDI-DrugBank.d348.s0,"Although the pressor activity of Desmopressin is very low compared to its antidiuretic activity, large doses of Desmopressin Tablets should be used with other pressor agents only with careful patient monitoring."
 DDI-DrugBank.d163.s0,"Vitamin A: Because of the relationship of Accutane to vitamin A, patients should be advised against taking vitamin supplements containing vitamin A to avoid additive toxic effects"
-DDI-DrugBank.d163.s1,.
 DDI-DrugBank.d163.s2,"Tetracyclines: Concomitant treatment with Accutane and tetracyclines should be avoided because Accutane use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines"
-DDI-DrugBank.d163.s3,.
 DDI-DrugBank.d163.s4,Micro-dosed Progesterone Preparations: Micro-dosed progesterone preparations (minipills that do not contain an estrogen) may be an inadequate method of contraception during Accutane therapy.
 DDI-DrugBank.d163.s5,"Although other hormonal contraceptives are highly effective, there have been reports of pregnancy from women who have used combined oral contraceptives, as well as topical/injectable/implantable/insertable hormonal birth control products."
 DDI-DrugBank.d163.s6,These reports are more frequent for women who use only a single method of contraception.
 DDI-DrugBank.d163.s7,It is not known if hormonal contraceptives differ in their effectiveness when used with Accutane.
 DDI-DrugBank.d163.s8,"Therefore, it is critically important for women of childbearing potential to select and commit to use 2 forms of effective contraception simultaneously, at least 1 of which must be a primary form, unless absolute abstinence is the chosen method, or the patient has undergone a hysterectomy"
-DDI-DrugBank.d163.s9,.
 DDI-DrugBank.d163.s10,Phenytoin: Accutane has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
 DDI-DrugBank.d163.s11,These results are consistent with the in vitro finding that neither isotretinoin nor its metabolites induce or inhibit the activity of the CYP 2C9 human hepatic P450 enzyme.
 DDI-DrugBank.d163.s12,Phenytoin is known to cause osteomalacia.
 DDI-DrugBank.d163.s13,No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between phenytoin and Accutane.
 DDI-DrugBank.d163.s14,"Therefore, caution should be exercised when using these drugs together"
-DDI-DrugBank.d163.s15,.
 DDI-DrugBank.d163.s16,Systemic Corticosteroids: Systemic corticosteroids are known to cause osteoporosis.
 DDI-DrugBank.d163.s17,No formal clinical studies have been conducted to assess if there is an interactive effect on bone loss between systemic corticosteroids and Accutane.
 DDI-DrugBank.d163.s18,"Therefore, caution should be exercised when using these drugs together."
@@ -573,17 +561,13 @@ DDI-DrugBank.d163.s24,The second pregnancy test (a confirmation test) should be 
 DDI-DrugBank.d163.s25,"For patients with amenorrhea, the second test should be done at least 11 days after the last act of unprotected sexual intercourse (without using 2 effective forms of contraception)."
 DDI-DrugBank.d163.s26,"Each month of therapy, the patient must have a negative result from a urine or serum pregnancy test."
 DDI-DrugBank.d163.s27,A pregnancy test must be repeated each month prior to the female patient receiving each prescription
-DDI-DrugBank.d163.s28,.
 DDI-DrugBank.d163.s29,Lipids: Pretreatment and follow-up blood lipids should be obtained under fasting conditions.
 DDI-DrugBank.d163.s30,"After consumption of alcohol, at least 36 hours should elapse before these determinations are made."
 DDI-DrugBank.d163.s31,It is recommended that these tests be performed at weekly or biweekly intervals until the lipid response to Accutane is established.
 DDI-DrugBank.d163.s32,The incidence of hypertriglyceridemia is 1 patient in 4 on Accutane therapy
-DDI-DrugBank.d163.s33,.
 DDI-DrugBank.d163.s34,"Liver Function Tests: Since elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported, pretreatment and follow-up liver function tests should be performed at weekly or biweekly intervals until the response to Accutane has been established"
-DDI-DrugBank.d163.s35,.
 DDI-DrugBank.d163.s36,Glucose: Some patients receiving Accutane have experienced problems in the control of their blood sugar.
 DDI-DrugBank.d163.s37,"In addition, new cases of diabetes have been diagnosed during Accutane therapy, although no causal relationship has been established"
-DDI-DrugBank.d163.s38,.
 DDI-DrugBank.d163.s39,CPK: Some patients undergoing vigorous physical activity while on Accutane therapy have experienced elevated CPK levels;
 DDI-DrugBank.d163.s40,"however, the clinical significance is unknown."
 DDI-DrugBank.d163.s41,"There have been rare postmarketing reports of rhabdomyolysis, some associated with strenuous physical activity."
@@ -615,7 +599,6 @@ DDI-DrugBank.d115.s14,No specific studies have been performed and caution is rec
 DDI-DrugBank.d115.s15,"in vitro, Gleevec inhibits acetaminophen O-glucuronidation (Ki value of 58.5  M) at therapeutic levels."
 DDI-DrugBank.d115.s16,Systemic exposure to acetaminophen is expected to be increased when coadministered with Gleevec.
 DDI-DrugBank.d115.s17,No specific studies in humans have been performed and caution is recommended.
-DDI-DrugBank.d115.s18,
 DDI-DrugBank.d1.s0,Drug interactions between NEUPOGEN  and other drugs have not been fully evaluated.
 DDI-DrugBank.d1.s1,"Drugs which may potentiate the release of neutrophils, such as lithium, should be used with caution."
 DDI-DrugBank.d339.s0,Carbamazepine: Elevated carbamazepine levels have been reported in postmarketing experience when SUPRAX is administered concomitantly.
@@ -747,14 +730,10 @@ DDI-DrugBank.d40.s7,Phenytoin is metabolized by hepatic cytochrome P450 enzymes 
 DDI-DrugBank.d40.s8,Inhibition of metabolism may produce significant increases in circulating phenytoin concentrations and enhance the risk of drug toxicity.
 DDI-DrugBank.d40.s9,Phenytoin is a potent inducer of hepatic drug-metabolizing enzymes.
 DDI-DrugBank.d40.s10,"The most commonly occurring drug interactions are listed below: - Drugs that may increase plasma phenytoin concentrations include: acute alcohol intake, amiodarone, chboramphenicol, chlordiazepoxide, cimetidine, diazepam, dicumarol, disulfiram, estrogens, ethosuximide, fluoxetine, H2-antagonists, halothane, isoniazid, methylphenidate, phenothiazines, phenylbutazone, salicylates, succinimides, sulfonamides, tolbutamide, trazodone"
-DDI-DrugBank.d40.s11,.
 DDI-DrugBank.d40.s12,"- Drugs that may decrease plasma phenytoin concentrations include: carbamazepine, chronic alcohol abuse, reserpine"
-DDI-DrugBank.d40.s13,.
 DDI-DrugBank.d40.s14,"- Drugs that may either increase or decrease plasma phenytoin concentrations include: phenobarbital, vaiproic acid, and sodium valproate."
 DDI-DrugBank.d40.s15,"Similarly, the effects of phenytoin on phenobarbital, valproic acid and sodium plasma valproate concentrations are unpredictable"
-DDI-DrugBank.d40.s16,.
 DDI-DrugBank.d40.s17,"- Although not a true drug interaction, tricyclic antidepressants may precipitate seizures in susceptible patients and Cerebyx dosage may need to be adjusted"
-DDI-DrugBank.d40.s18,.
 DDI-DrugBank.d40.s19,"- Drugs whose efficacy is impaired by phenytoin include: anticoagulants, corticosteroids, coumarin, digitoxin, doxycycline, estrogens, furosemide, oral contraceptives, rifampin, quinidine, theophylline, vitamin D."
 DDI-DrugBank.d40.s20,Monitoring of plasma phenytoin concentrations may be helpful when possible drug interactions are suspected.
 DDI-DrugBank.d40.s21,Drug/Laboratory Test Interactions Phenytoin may decrease serum concentrations of 14.
@@ -834,8 +813,6 @@ DDI-DrugBank.d347.s7,"Magnesium- and/or aluminum-containing antacids, products c
 DDI-DrugBank.d347.s8,Sucralfate should not be taken within 2 hours of FACTIVE.
 DDI-DrugBank.d259.s0,No drug interactions have been reported.
 DDI-DrugBank.d37.s0,No specific information available
-DDI-DrugBank.d37.s1,.
-DDI-DrugBank.d37.s2,
 DDI-DrugBank.d568.s0,"CNS Drugs - Given the primary CNS effects of escitalopram, caution should be used when it is taken in combination with other centrally acting drugs."
 DDI-DrugBank.d568.s1,"Alcohol - Although LEXAPRO did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking LEXAPRO is not recommended."
 DDI-DrugBank.d568.s2,Monoamine Oxidase Inhibitors (MAOIs)
@@ -878,26 +855,17 @@ DDI-DrugBank.d568.s38,Electroconvulsive Therapy (ECT) - There are no clinical st
 DDI-DrugBank.d568.s39,"Concomitant Administration with Racemic Citalopram Citalopram - Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered."
 DDI-DrugBank.d46.s0,When given concurrently the following drugs may interact with thiazide diuretics.
 DDI-DrugBank.d46.s1,"- Alcohol, barbiturates, or narcotics: Potentiation of otthostatic hypotension may occur"
-DDI-DrugBank.d46.s2,.
 DDI-DrugBank.d46.s3,- Antidiabetic drugs: (Oral agents and insulin) Dosage adjustment of the antidiabetic drug may be required
-DDI-DrugBank.d46.s4,.
 DDI-DrugBank.d46.s5,- Other antihypertensive drugs: Additive effect or potentiation
-DDI-DrugBank.d46.s6,.
 DDI-DrugBank.d46.s7,- Cholestyramine and colestipol resins: Cholestytamine and colestipol resins have the potential of binding thiazide diuretics and reducing diuretic absorption from the gastrointestinal tract
-DDI-DrugBank.d46.s8,.
 DDI-DrugBank.d46.s9,"- Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia"
-DDI-DrugBank.d46.s10,.
 DDI-DrugBank.d46.s11,"- Pressor amines (e.g., norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use"
-DDI-DrugBank.d46.s12,.
 DDI-DrugBank.d46.s13,"- Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant"
-DDI-DrugBank.d46.s14,.
 DDI-DrugBank.d46.s15,- Lithium: Generally should not be given with diuretics.
 DDI-DrugBank.d46.s16,Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 DDI-DrugBank.d46.s17,Refer to the package insert for lithium preparations before use of such preparations with chlorothiazide
-DDI-DrugBank.d46.s18,.
 DDI-DrugBank.d46.s19,"- Non-steroidal Anti-inflammatory Drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics."
 DDI-DrugBank.d46.s20,"Therefore, when chlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained"
-DDI-DrugBank.d46.s21,.
 DDI-DrugBank.d46.s22,- Drug/Laboratory Test Interactions: Thiazides should be discontinued before carrying out tests for parathyroid function.
 DDI-DrugBank.d330.s0,Caution should be taken in concurrent or serial use of other neurotoxic and/ or nephrotoxic drugs because of possible enhancement of the nephrotoxicity and/or ototoxicity of neomycin.
 DDI-DrugBank.d330.s1,Caution should also be taken in concurrent or serial use of other aminoglycosides and polymyxins because they may enhance neomycin s nephrotoxicity and/or ototoxicity and potentiate neomycin sulfate neuromuscular blocking effects.
@@ -931,7 +899,6 @@ DDI-DrugBank.d283.s3,HMG-CoA reductase inhibitors: The combined use of TRICOR an
 DDI-DrugBank.d283.s4,"Resins: Since bile acid sequestrants may bind other drugs given concurrently, patients should take TRICOR at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption."
 DDI-DrugBank.d283.s5,"Cyclosporine: Because cyclosporine can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including TRICOR, there is a risk that an interaction will lead to deterioration."
 DDI-DrugBank.d283.s6,"The benefits and risks of using TRICOR with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed"
-DDI-DrugBank.d283.s7,.
 DDI-DrugBank.d283.s8,"Drug-drug interactions In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2."
 DDI-DrugBank.d283.s9,"They are weak inhibitors of CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations."
 DDI-DrugBank.d283.s10,Potentiation of coumarin-type anticoagulants has been observed with prolongation of the prothrombin time/INR.
@@ -942,8 +909,6 @@ DDI-DrugBank.d283.s14,A single dose of pravastatin had no clinically important e
 DDI-DrugBank.d283.s15,Concomitant administration of fenofibrate (equivalent to 145 mg TRICOR) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC values in 22 healthy males.
 DDI-DrugBank.d283.s16,The atorvastatin Cmax values were not significantly affected by fenofibrate.
 DDI-DrugBank.d283.s17,The pharmacokinetics of fenofibric acid were not significantly affected by atorvastatin
-DDI-DrugBank.d283.s18,.
-DDI-DrugBank.d283.s19,
 DDI-DrugBank.d435.s0,"Exemestane is extensively metabolized by CYP 3A4, but coadministration of ketoconazole, a potent inhibitor of CYP 3A4, has no significant effect on exemestane pharmacokinetics."
 DDI-DrugBank.d435.s1,Significant pharmacokinetic interactions mediated by inhibition of CYP isoenzymes therefore appear unlikely.
 DDI-DrugBank.d435.s2,"Co-medications that induce CYP 3A4 (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital, or St. John s wort) may significantly decrease exposure to exemestane."
@@ -1153,7 +1118,6 @@ DDI-DrugBank.d219.s30,No dose relationship has been observed.
 DDI-DrugBank.d219.s31,Lodine treatment is associated with a small decrease in serum uric acid levels.
 DDI-DrugBank.d219.s32,"In clinical trials, mean decreases of 1 to 2 mg/dL were observed in arthritic patients receiving etodolac (600 mg to 1000 mg/day) after 4 weeks of therapy."
 DDI-DrugBank.d219.s33,These levels then remained stable for up to 1 year of therapy.
-DDI-DrugBank.d219.s34,
 DDI-DrugBank.d382.s0,"Aprepitant is a substrate, a moderate inhibitor, and an inducer of CYP3A4."
 DDI-DrugBank.d382.s1,Aprepitant is also an inducer of CYP2C9.
 DDI-DrugBank.d382.s2,Effect of aprepitant on the pharmacokinetics of other agents
@@ -1296,9 +1260,7 @@ DDI-DrugBank.d31.s8,avoid use if possible or closely monitor cardiovascular stat
 DDI-DrugBank.d399.s0,Preliminary data which suggest that dapsone may inhibit the anti-inflammatory activity of Lamprene have not been confirmed.
 DDI-DrugBank.d399.s1,"If leprosy-associated inflammatory reactions develop in patients being treated with dapsone and clofazimine, it is still advisable to continue treatment with both drugs."
 DDI-DrugBank.d454.s0,"- Lofexidine may enhance the CNS depressive effects of alcohol, barbiturates and other sedatives"
-DDI-DrugBank.d454.s1,.
 DDI-DrugBank.d454.s2,- Lofexidine may enhance the effects of anti-hypertensive drug therapy
-DDI-DrugBank.d454.s3,.
 DDI-DrugBank.d454.s4,- Concomitant use of tricyclic antidepressants may reduce the efficacy of lofexidine.
 DDI-DrugBank.d322.s0,"Amantadine, tricyclic antidepressants, and MAOIs may increase anticholinergic effect of clidinium."
 DDI-DrugBank.d322.s1,"Clidinium may decrease the effect of phenothiazines, levodopa, and ketoconazole."
@@ -1338,8 +1300,6 @@ DDI-DrugBank.d234.s12,"Because of the increased risk of adverse reactions in pat
 DDI-DrugBank.d228.s0,"Oral doses of Antizol (10-20 mg/kg), via alcohol dehydrogenase inhibition, significantly reduced the rate of elimination of ethanol (by approximately 40%) given to healthy volunteers in moderate doses."
 DDI-DrugBank.d228.s1,"Similarly, ethanol decreased the rate of elimination of Antizol (by approximately 50%) by the same mechanism."
 DDI-DrugBank.d228.s2,"Reciprocal interactions may occur with concomitant use of Antizol and drugs that increase or inhibit the cytochrome P450 system (e.g., phenytoin, carbamazepine, cimetidine, ketoconazole), though this has not been studied"
-DDI-DrugBank.d228.s3,.
-DDI-DrugBank.d228.s4,
 DDI-DrugBank.d425.s0,Medications that interfere with your bodys ability to use folate may also increase the need for this vitamin.
 DDI-DrugBank.d425.s1,"Medications can interfere with folate utilization, including: anticonvulsant medications (such as phenytoin, and primidone) metformin (sometimes prescribed to control blood sugar in type 2 diabetes) sulfasalazine (used to control inflammation associated with Crohns disease and ulcerative colitis) triamterene (a diuretic) Methotrexate There has been concern about the interaction between vitamin B12 and folic acid."
 DDI-DrugBank.d425.s2,Folic acid supplements can correct the anemia associated with vitamin B12 deficiency.
@@ -1612,8 +1572,6 @@ DDI-DrugBank.d466.s24,"Based on the literature reports, the same effects may be 
 DDI-DrugBank.d466.s25,The clinical significance of these observations is unknown.
 DDI-DrugBank.d466.s26,"In addition, based on the population pharmacokinetics analysis of the combined data from grapefruit and orange juices studies with the data from a bioequivalence study, the bioavailability of fexofenadine was reduced by 36%."
 DDI-DrugBank.d466.s27,"Therefore, to maximize the effects of fexofenadine, it is recommended that ALLEGRA should be taken with water"
-DDI-DrugBank.d466.s28,.
-DDI-DrugBank.d466.s29,
 DDI-DrugBank.d272.s0,"The risk of using bromocriptine mesylate in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of bromocriptine mesylate."
 DDI-DrugBank.d272.s1,"Bromocriptine mesylate may interact with dopamine antagonists, butyrophenones, and certain other agents."
 DDI-DrugBank.d272.s2,"Compounds in these categories result in a decreased efficacy of bromocriptine mesylate: phenothiazines, haloperidol, metoclopramide, pimozide."
@@ -1631,8 +1589,6 @@ DDI-DrugBank.d533.s7,"Co-administration of aliskiren did not significantly affec
 DDI-DrugBank.d533.s8,Warfarin: The effects of aliskiren on warfarin pharmacokinetics have not been evaluated in a well-controlled clinical trial.
 DDI-DrugBank.d533.s9,"Furosemide: When aliskiren was co-administered with furosemide, the AUC and Cmax of furosemide were reduced by about 30% and 50%, respectively."
 DDI-DrugBank.d555.s0,No information available
-DDI-DrugBank.d555.s1,.
-DDI-DrugBank.d555.s2,
 DDI-DrugBank.d226.s0,"Intravenous Adenocard (adenosine) has been effectively administered in the presence of other cardioactive drugs, such as quinidine, beta-adrenergic blocking agents, calcium channel blocking agents, and angiotensin converting enzyme inhibitors, without any change in the adverse reaction profile."
 DDI-DrugBank.d226.s1,Digoxin and verapamil use may be rarely associated with ventricular fibrillation when combined with Adenocard.
 DDI-DrugBank.d226.s2,"Because of the potential for additive or synergistic depressant effects on the SA and AV nodes, however, Adenocard should be used with caution in the presence of these agents."
@@ -1644,8 +1600,6 @@ DDI-DrugBank.d226.s7,"Thus, smaller doses of adenosine may be effective in the p
 DDI-DrugBank.d226.s8,Carbamazepine has been reported to increase the degree of heart block produced by other agents.
 DDI-DrugBank.d226.s9,"As the primary effect of adenosine is to decrease conduction through the A-V node, higher degrees of heart block may be produced in the presence of carbamazepine."
 DDI-DrugBank.d147.s0,No formal assessments of drug-drug interactions between Vidaza and other agents have been conducted
-DDI-DrugBank.d147.s1,.
-DDI-DrugBank.d147.s2,
 DDI-DrugBank.d397.s0,Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase in serum theophylline levels and potential theophylline toxicity.
 DDI-DrugBank.d397.s1,"In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy."
 DDI-DrugBank.d397.s2,Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.
@@ -1793,9 +1747,7 @@ DDI-DrugBank.d67.s0,"In two controlled crossover clinical pharmacology studies i
 DDI-DrugBank.d67.s1,"In three separate controlled, parallel group clinical pharmacology studies, desloratadine at the clinical dose of 5 mg has been coadministered with azithromycin 500 mg followed by 250 mg once daily for 4 days (n=18) or with fluoxetine 20 mg once daily for 7 days after a 23 day pretreatment period with fluoxetine (n=18) or with cimetidine 600 mg every 12 hours for 14 days (n=18) under steady state conditions to normal healthy male and female volunteers."
 DDI-DrugBank.d67.s2,"Although increased plasma concentrations (C max and AUC 0-24 hrs) of desloratadine and 3-hydroxydesloratadine were observed , there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events."
 DDI-DrugBank.d67.s3,Table 1 Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
-DDI-DrugBank.d67.s4,
 DDI-DrugBank.d67.s5,Desloratadine 3-Hydroxydesloratadine
-DDI-DrugBank.d67.s6,
 DDI-DrugBank.d67.s7,C max AUC 0-24 hrs C max AUC 0-24 hrs
 DDI-DrugBank.d67.s8,Erythromycin
 DDI-DrugBank.d67.s9,(500 mg Q8h)
@@ -2039,8 +1991,6 @@ DDI-DrugBank.d270.s84,Monitoring of anticoagulation levels is recommended.
 DDI-DrugBank.d270.s85,"Fat redistribution: Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and cushingoid appearance have been observed in patients receiving antiretroviral therapy."
 DDI-DrugBank.d270.s86,The mechanism and long-term consequences of these events are currently unknown.
 DDI-DrugBank.d270.s87,A causal relationship has not been established
-DDI-DrugBank.d270.s88,.
-DDI-DrugBank.d270.s89,
 DDI-DrugBank.d385.s0,It is not known if REGRANEX Gel interacts with other topical medications applied to the ulcer site.
 DDI-DrugBank.d385.s1,The use of REGRANEX Gel with other topical drugs has not been studied.
 DDI-DrugBank.d510.s0,"The concurrent use of Robinul Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects."
@@ -2325,66 +2275,36 @@ DDI-DrugBank.d32.s9,Drug/Laboratory Test Interactions: There have been no chemic
 DDI-DrugBank.d32.s10,False-positive direct Coombs tests have been reported during treatment with other cephalosporins.
 DDI-DrugBank.d32.s11,"Therefore, it should be recognized that a positive Coombs test could be due to the drug."
 DDI-DrugBank.d32.s12,The results of assays using red cells from healthy subjects to determine whether ceftibuten would cause direct Coombs reactions in vitro showed no positive reaction at ceftibuten concentrations as high as 40  g/mL.
-DDI-DrugBank.d490.s0,)
-DDI-DrugBank.d490.s1,
 DDI-DrugBank.d490.s2,Clinical Laboratory
-DDI-DrugBank.d490.s3,
 DDI-DrugBank.d490.s4,increased creatine
 DDI-DrugBank.d490.s5,positive antinuclear
-DDI-DrugBank.d490.s6,
 DDI-DrugBank.d490.s7,phosphokinase
 DDI-DrugBank.d490.s8,antibody
-DDI-DrugBank.d490.s9,
 DDI-DrugBank.d490.s10,increased bilirubin
-DDI-DrugBank.d490.s11,
-DDI-DrugBank.d490.s12,
 DDI-DrugBank.d490.s13,increased liver
-DDI-DrugBank.d490.s14,
-DDI-DrugBank.d490.s15,
 DDI-DrugBank.d490.s16,transaminases (AST
-DDI-DrugBank.d490.s17,
-DDI-DrugBank.d490.s18,
 DDI-DrugBank.d490.s19,"(SGOT), ALT (SGPT)"
-DDI-DrugBank.d490.s20,
-DDI-DrugBank.d490.s21,
 DDI-DrugBank.d490.s22,increased alkaline
-DDI-DrugBank.d490.s23,
-DDI-DrugBank.d490.s24,
 DDI-DrugBank.d490.s25,phophatase
-DDI-DrugBank.d490.s26,
 DDI-DrugBank.d490.s27,Hematopoietic
 DDI-DrugBank.d490.s28,anemia
 DDI-DrugBank.d490.s29,thrombocytopenia
-DDI-DrugBank.d490.s30,
 DDI-DrugBank.d490.s31,leukopenia
-DDI-DrugBank.d490.s32,
-DDI-DrugBank.d490.s33,
 DDI-DrugBank.d490.s34,bone marrow hypoplasia
-DDI-DrugBank.d490.s35,
-DDI-DrugBank.d490.s36,
 DDI-DrugBank.d490.s37,eosinophilia
-DDI-DrugBank.d490.s38,
 DDI-DrugBank.d490.s39,Immunologic
 DDI-DrugBank.d490.s40,angioedema
 DDI-DrugBank.d490.s41,anaphylaxis
-DDI-DrugBank.d490.s42,
 DDI-DrugBank.d490.s43,laryngeal edema
 DDI-DrugBank.d490.s44,Lupus-like syndrome
-DDI-DrugBank.d490.s45,
 DDI-DrugBank.d490.s46,urticaria
 DDI-DrugBank.d490.s47,vasculitis
 DDI-DrugBank.d490.s48,Integumentary
 DDI-DrugBank.d490.s49,exfoliative dermatitis
 DDI-DrugBank.d490.s50,alopecia
-DDI-DrugBank.d490.s51,
 DDI-DrugBank.d490.s52,rash
-DDI-DrugBank.d490.s53,
-DDI-DrugBank.d490.s54,
 DDI-DrugBank.d490.s55,dermatitis
-DDI-DrugBank.d490.s56,
-DDI-DrugBank.d490.s57,
 DDI-DrugBank.d490.s58,pruritus
-DDI-DrugBank.d490.s59,
 DDI-DrugBank.d98.s0,"Interactions for vitamin D analogues (Vitamin D2, Vitamin D3, Calcitriol, and Calcidiol): Cholestyramine: Cholestyramine has been reported to reduce intestinal absorption of fat soluble vitamins;"
 DDI-DrugBank.d98.s1,as such it may impair intestinal absorption of any of vitamin D.
 DDI-DrugBank.d98.s2,"Phenytoin/Phenobarbital: The coadministration of phenytoin or phenobarbital will not affect plasma concentrations of vitamin D, but may reduce endogenous plasma levels of calcitriol/ergocalcitriol by accelerating metabolism."
@@ -2482,8 +2402,6 @@ DDI-DrugBank.d3.s19,"Psychoactive Drugs: Hallucinations have been reported when 
 DDI-DrugBank.d3.s20,Morphine: TORADOLIV/IM has been administered concurrently with morphine in several clinical trials of postoperative pain without evidence of adverse interactions.
 DDI-DrugBank.d3.s21,Do not mix TORADOL and morphine in the same syringe.
 DDI-DrugBank.d3.s22,There is no evidence in animal or human studies that TORADOL induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs
-DDI-DrugBank.d3.s23,.
-DDI-DrugBank.d3.s24,
 DDI-DrugBank.d132.s0,"Oral Anticoagulants: In some normal volunteers, the concomitant administration of diflunisal and warfarin, acenocoumarol, or phenprocoumon resulted in prolongation of prothrombin time."
 DDI-DrugBank.d132.s1,This may occur because diflunisal competitively displaces coumarins from protein binding sites.
 DDI-DrugBank.d132.s2,"Accordingly, when diflunisal is administered with oral anticoagulants, the prothrombin time should be closely monitored during and for several days after concomitant drug administration."
@@ -2693,8 +2611,6 @@ DDI-DrugBank.d350.s11,Patients on rifampin should receive 70 mg of CANCIDAS dail
 DDI-DrugBank.d350.s12,"In addition, results from regression analyses of patient pharmacokinetic data suggest that co-administration of other inducers of drug clearance (efavirenz, nevirapine, phenytoin, dexamethasone, or carbamazepine) with CANCIDAS may result in clinically meaningful reductions in caspofungin concentrations."
 DDI-DrugBank.d350.s13,It is not known which drug clearance mechanism involved in caspofungin disposition may be inducible.
 DDI-DrugBank.d350.s14,"When CANCIDAS is co-administered with inducers of drug clearance, such as efavirenz, nevirapine, phenytoin, dexamethasone, or carbamazepine, use of a daily dose of 70 mg of CANCIDAS should be considered"
-DDI-DrugBank.d350.s15,.
-DDI-DrugBank.d350.s16,
 DDI-DrugBank.d412.s0,"In one survey, 2.3% of patients taking labetalol HCl in combination with tricyclic antidepressants experienced tremor, as compared to 0.7% reported to occur with labetalol HCl alone."
 DDI-DrugBank.d412.s1,The contribution of each of the treatments to this adverse reaction is unknown but the possibility of a drug interaction cannot be excluded.
 DDI-DrugBank.d412.s2,Drugs possessing beta-blocking properties can blunt the bronchodilator effect of beta-receptor agonist drugs in patients with bronchospasm;
@@ -2739,8 +2655,6 @@ DDI-DrugBank.d503.s6,Choose particular low doses of these drugs.
 DDI-DrugBank.d503.s7,"Exert particular caution in combining chlorprothixene with other anticholinergic drugs (tricyclic antidepressants and antiparkinsonian agents): Particularly the elderly may develop delirium, high fever, severe obstipation, even ileus and glaucoma."
 DDI-DrugBank.d23.s0,HEMABATE may augment the activity of other oxytocic agents.
 DDI-DrugBank.d23.s1,Concomitant use with other oxytocic agents is not recommended
-DDI-DrugBank.d23.s2,.
-DDI-DrugBank.d23.s3,
 DDI-DrugBank.d340.s0,Nelfinavir is an inhibitor of CYP3A (cytochrome P450 3A).
 DDI-DrugBank.d340.s1,"Coadministration of VIRACEPT and drugs primarily metabolized by CYP3A (e.g., dihydropyridine calcium channel blockers) may result in increased plasma concentrations of the other drug that could increase or prolong both its therapeutic and adverse effects."
 DDI-DrugBank.d340.s2,Nelfinavir is metabolized in proof by C.P.A.
@@ -2896,8 +2810,6 @@ DDI-DrugBank.d286.s1,"It may increase excretion of barbiturates, lithium, and AS
 DDI-DrugBank.d286.s2,"Coadministration of ethoxzolamide with other diuretics, amphotericin B, and corticosteroids may cause hypokalemia."
 DDI-DrugBank.d375.s0,"The potential for drug interactions with EMTRIVA has been studied in combination with indinavir, stavudine, famciclovir, and tenofovir disoproxil fumarate."
 DDI-DrugBank.d375.s1,There were no clinically significant drug interactions for any of these drugs
-DDI-DrugBank.d375.s2,.
-DDI-DrugBank.d375.s3,
 DDI-DrugBank.d146.s0,Colchicine is inhibited by acidifying agents.
 DDI-DrugBank.d146.s1,The action of colchicine is potentiated by alkalinizing agents.
 DDI-DrugBank.d146.s2,Colchicine may increase sensitivity to the CNS depressants.
@@ -3153,8 +3065,6 @@ DDI-DrugBank.d456.s10,Patients with Hepatic Impairment In vitro and in vivo evid
 DDI-DrugBank.d456.s11,"Therefore, erlotinib exposure may be increased in patients with hepatic dysfunction."
 DDI-DrugBank.d456.s12,"Elevated International Normalized Ratio and Potential Bleeding International Normalized Ratio (INR) elevations and infrequent reports of bleeding events including gastrointestinal and non-gastrointestinal bleedings have been reported in clinical studies, some associated with concomitant warfarin administration."
 DDI-DrugBank.d456.s13,Patients taking warfarin or other coumarin-derivative anticoagulants should be monitored regularly for changes in prothrombin time or INR
-DDI-DrugBank.d456.s14,.
-DDI-DrugBank.d456.s15,
 DDI-DrugBank.d423.s0,"In patients receiving nonselective monoamine oxidase inhibitors (MAOIs) (e.g., selegiline hydrochloride) in combination with serotoninergic agents (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, venlafaxine), there have been reports of serious, sometimes fatal, reactions."
 DDI-DrugBank.d423.s1,"Because dexfenfluramine is a serotonin releaser and reuptake inhibitor, dexfenfluramine should not be used concomitantly with a MAO inhibitor."
 DDI-DrugBank.d423.s2,At least 14 days should elapse between discontinuation of a MAO inhibitor and initiation of treatment with dexfenfluramine.
@@ -3417,8 +3327,6 @@ DDI-DrugBank.d30.s6,"Subjects who do not metabolize losartan to active metabolit
 DDI-DrugBank.d30.s7,These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4.
 DDI-DrugBank.d30.s8,"As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium."
 DDI-DrugBank.d30.s9,"As with other antihypertensive agents, the antihypertensive effect of losartan may be blunted by the non-steroidal anti-inflammatory drug indomethacin"
-DDI-DrugBank.d30.s10,.
-DDI-DrugBank.d30.s11,
 DDI-DrugBank.d5.s0,"Few systemic data have been collected on the metabolism of WELLBUTRIN following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of WELLBUTRIN on the metabolism of other drugs."
 DDI-DrugBank.d5.s1,"Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity."
 DDI-DrugBank.d5.s2,In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
@@ -3446,8 +3354,6 @@ DDI-DrugBank.d5.s23,Low initial dosing and small gradual dose increases should b
 DDI-DrugBank.d5.s24,Nicotine Transdermal System: .
 DDI-DrugBank.d5.s25,"Alcohol: In post-marketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN."
 DDI-DrugBank.d5.s26,The consumption of alcohol during treatment with WELLBUTRIN should be minimized or avoided (also see  a href= bupropz_od.htm#CI CONTRAINDICATIONS)
-DDI-DrugBank.d5.s27,.
-DDI-DrugBank.d5.s28,
 DDI-DrugBank.d235.s0,"Substrate of CYP2D6 (minor), 3A4 (major);"
 DDI-DrugBank.d235.s1,Inhibits CYP2D6 (weak).
 DDI-DrugBank.d235.s2,"Increased toxicity (CNS depression): CNS depressants, MAO inhibitors, tricyclic antidepressants, phenothiazines."
@@ -3629,8 +3535,6 @@ DDI-DrugBank.d509.s25,"In in vivo studies, 10- to 30-mg/day doses of aripiprazol
 DDI-DrugBank.d509.s26,"Additionally, aripiprazole and dehydroaripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro."
 DDI-DrugBank.d509.s27,Alcohol: There was no significant difference between aripiprazole coadministered with ethanol and placebo coadministered with ethanol on performance of gross motor skills or stimulus response in healthy subjects.
 DDI-DrugBank.d509.s28,"As with most psychoactive medications, patients should be advised to avoid alcohol while taking ABILIFY"
-DDI-DrugBank.d509.s29,.
-DDI-DrugBank.d509.s30,
 DDI-DrugBank.d44.s0,No formal drug interaction studies have been performed with RAPTIVA.
 DDI-DrugBank.d44.s1,RAPTIVA should not be used with other immunosuppressive drugs.
 DDI-DrugBank.d44.s2,"Acellular, live and live-attenuated vaccines should not be administered during RAPTIVA treatment."
@@ -3664,8 +3568,6 @@ DDI-DrugBank.d10.s1,"Although studies designed to examine drug interactions have
 DDI-DrugBank.d10.s2,Betaseron administration to three cancer patients over a dose range of 0.025 mg to 2.2 mg led to a dose-dependent inhibition of antipyrine elimination.14 The effect of alternate-day administration of 0.25 mg of Betaseron on drug metabolism in MS patients is unknown.
 DDI-DrugBank.d407.s0,Drug/Laboratory Interactions No formal drug interaction studies have been performed with Campath.
 DDI-DrugBank.d407.s1,An immune response to Campath may interfere with subsequent diagnostic serum tests that utilize antibodies
-DDI-DrugBank.d407.s2,.
-DDI-DrugBank.d407.s3,
 DDI-DrugBank.d214.s0,No information available.
 DDI-DrugBank.d276.s0,"Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption."
 DDI-DrugBank.d276.s1,The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate.
@@ -3747,8 +3649,6 @@ DDI-DrugBank.d438.s40,Effect of Probenecid: Probenecid is a blocker of renal tub
 DDI-DrugBank.d438.s41,Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 DDI-DrugBank.d438.s42,This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.
 DDI-DrugBank.d438.s43,"Drug/Laboratory Tests Interactions Because false positive readings were reported with the Ames N-Multistix SG dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein"
-DDI-DrugBank.d438.s44,.
-DDI-DrugBank.d438.s45,
 DDI-DrugBank.d195.s0,"Anastrozole inhibited in vitro metabolic reactions catalyzed by cytochromes P450 1A2, 2C8/9, and 3A4 but only at relatively high concentrations."
 DDI-DrugBank.d195.s1,Anastrozole did not inhibit P450 2A6 or the polymorphic P450 2D6 in human liver microsomes.
 DDI-DrugBank.d195.s2,Anastrozole did not alter the pharmacokinetics of antipyrine.
@@ -3760,8 +3660,6 @@ DDI-DrugBank.d195.s7,"Based on clinical and pharmacokinetic results from the ATA
 DDI-DrugBank.d195.s8,Co-administration of anastrozole and tamoxifen resulted in a reduction of anastrozole plasma levels by 27% compared with those achieved with anastrozole alone.
 DDI-DrugBank.d195.s9,Estrogen-containing therapies should not be used with ARIMIDEX as they may diminish its pharmacologic action.
 DDI-DrugBank.d195.s10,Drug/Laboratory Test Interactions No clinically significant changes in the results of clinical laboratory tests have been observed
-DDI-DrugBank.d195.s11,.
-DDI-DrugBank.d195.s12,
 DDI-DrugBank.d170.s0,"Agents Affecting Cytochrome P450 3A4 Isoenzyme System Fentanyl is metabolized mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when DURAGESIC  is given concurrently with agents that affect CYP3A4 activity."
 DDI-DrugBank.d170.s1,Coadminstration with agents that induce 3A4 activity may reduce the efficacy of DURAGESIC .
 DDI-DrugBank.d170.s2,"The concomitant use of transdermal fentanyl with ritonavir or other potent 3A4 inhibitors such as ketoconazole, itraconazole, troleandomycin, clarithromycin, nelfinavir, and nefazadone may result in an increase in fentanyl plasma concentrations."
@@ -3770,8 +3668,6 @@ DDI-DrugBank.d170.s4,"In this situation, special patient care and observation ar
 DDI-DrugBank.d170.s5,"Central Nervous System Depressants: The concomitant use of DURAGESIC  (fentanyl transdermal system) with other central nervous system depressants, including but not limited to other opioids, sedatives, hypnotics, tranquilizers (e.g., benzodiazepines), general anesthetics, phenothiazines, skeletal muscle relaxants, and alcohol, may cause respiratory depression, hypotension, and profound sedation, or potentially result in coma or death."
 DDI-DrugBank.d170.s6,"When such combined therapy is contemplated, the dose of one or both agents should be significantly reduced."
 DDI-DrugBank.d170.s7,MAO Inhibitors: DURAGESIC  is not recommended for use in patients who have received MAOI within 14 days because severe and unpredictable potentiation by MAO inhibitors has been reported with opioid analgesics
-DDI-DrugBank.d170.s8,.
-DDI-DrugBank.d170.s9,
 DDI-DrugBank.d54.s0,Oral Anticoagulants: Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors.
 DDI-DrugBank.d54.s1,"If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired."
 DDI-DrugBank.d54.s2,Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started.
@@ -3805,9 +3701,7 @@ DDI-DrugBank.d54.s29,"Decreases in TBg concentrations are observed in nephrosis,
 DDI-DrugBank.d54.s30,Familial hyper- or hypo-thyroxine-binding-globulinemias have been described.
 DDI-DrugBank.d54.s31,The incidence of TBg deficiency approximates 1 in 9000.
 DDI-DrugBank.d54.s32,The binding of thyroxine by thyroxine-binding prealbumin (TBPA) is inhibited by salicylates
-DDI-DrugBank.d54.s33,.
 DDI-DrugBank.d54.s34,- Medicinal or dietary iodine interferes with all in vivo tests of radio-iodine uptake producing low uptakes which may not be reflective of a true decrease in hormone synthesis
-DDI-DrugBank.d54.s35,.
 DDI-DrugBank.d54.s36,"- The persistence of clinical and laboratory evidence of hypothyroidism in spite of adequate dosage replacement indicates either poor patient compliance, poor absorption, excessive fecal loss, or inactivity of the preparation."
 DDI-DrugBank.d54.s37,Intracellular resistance to thyroid hormone is quite rare.
 DDI-DrugBank.d126.s0,Drug interaction studies with decitabine have not been conducted.
@@ -3836,8 +3730,6 @@ DDI-DrugBank.d561.s9,"If a diuretic is also used, the risk of lithium toxicity m
 DDI-DrugBank.d561.s10,"Other No clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, naproxen, or cimetidine."
 DDI-DrugBank.d561.s11,"Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions."
 DDI-DrugBank.d561.s12,"Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system"
-DDI-DrugBank.d561.s13,.
-DDI-DrugBank.d561.s14,
 DDI-DrugBank.d156.s0,None Reported
 DDI-DrugBank.d335.s0,"If TRANXENE is to be combined with other drugs acting on the central nervous system, careful consideration should be given to the pharmacology of the agents to be employed."
 DDI-DrugBank.d335.s1,"Animal experience indicates that clorazepate dipotassium prolongs the sleeping time after hexobarbital or after ethyl alcohol, increases the inhibitory effects of chlorpromazine, but does not exhibit monoamine oxidase inhibition."
@@ -3896,24 +3788,17 @@ DDI-DrugBank.d142.s2,Administer LEVSIN before meals;
 DDI-DrugBank.d142.s3,antacids after meals.
 DDI-DrugBank.d570.s0,Drug/ Laboratory Test Interactions Certain endocrine and liver function tests may be affected by estrogen-containing oral contraceptives.
 DDI-DrugBank.d570.s1,The following similar changes may be expected with larger doses of estrogen: - Increased sulfobromophthalein retention
-DDI-DrugBank.d570.s2,.
 DDI-DrugBank.d570.s3,"- Increased prothrombin and factors VII, VIII, IX, and X;"
 DDI-DrugBank.d570.s4,decreased antithrombin 3;
 DDI-DrugBank.d570.s5,increased norepinephrine-induced platelet aggregability
-DDI-DrugBank.d570.s6,.
 DDI-DrugBank.d570.s7,- Increased thyroid-binding globulin (TBG) leading to in-creased circulating total thyroid hormone;
 DDI-DrugBank.d570.s8,"as measured by PBI, T4 by column, or T4 by radioimmunoassay."
 DDI-DrugBank.d570.s9,"Free T3 resin uptake is decreased, reflecting the elevated TBG;"
 DDI-DrugBank.d570.s10,free T4 concentration is unaltered
-DDI-DrugBank.d570.s11,.
 DDI-DrugBank.d570.s12,- Impaired glucose tolerance
-DDI-DrugBank.d570.s13,.
 DDI-DrugBank.d570.s14,- Decreased pregnanediol excretion
-DDI-DrugBank.d570.s15,.
 DDI-DrugBank.d570.s16,- Reduced response to metyrapone test
-DDI-DrugBank.d570.s17,.
 DDI-DrugBank.d570.s18,- Reduced serum folate concentration
-DDI-DrugBank.d570.s19,.
 DDI-DrugBank.d570.s20,- Increased serum triglyceride and phospholipid concentration.
 DDI-DrugBank.d329.s0,"When ertapenem is co-administered with probenecid (500 mg p.o. every 6 hours), probenecid competes for active tubular secretion and reduces the renal clearance of ertapenem."
 DDI-DrugBank.d329.s1,"Based on total ertapenem concentrations, probenecid increased the AUC by 25% and reduced the plasma and renal clearances by 20% and 35%, respectively."
@@ -3923,8 +3808,6 @@ DDI-DrugBank.d329.s4,In vitro studies indicate that ertapenem does not inhibit P
 DDI-DrugBank.d329.s5,"In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the following six cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4."
 DDI-DrugBank.d329.s6,Drug interactions caused by inhibition of P-glycoprotein-mediated drug clearance or CYP-mediated drug clearance with the listed isoforms are unlikely.
 DDI-DrugBank.d329.s7,"Other than with probenecid, no specific clinical drug interaction studies have been conducted"
-DDI-DrugBank.d329.s8,.
-DDI-DrugBank.d329.s9,
 DDI-DrugBank.d410.s0,"Vasoconstrictors: D.H.E. 45  (dihydroergotamine mesylate) Injection, USP should not be used with peripheral vasoconstrictors because the combination may cause synergistic elevation of blood pressure."
 DDI-DrugBank.d410.s1,"Sumatriptan: Sumatriptan has been reported to cause coronary artery vasospasm, and its effect could be additive with D.H.E. 45  (dihydroergotamine mesylate) Injection, USP."
 DDI-DrugBank.d410.s2,"Sumatriptan and D.H.E. 45  (dihydroergotamine mesylate) Injection, USP should not be taken within 24 hours of each other.."
@@ -4000,8 +3883,6 @@ DDI-DrugBank.d413.s25,"The clinical significance, if any, of these observations 
 DDI-DrugBank.d16.s0,Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.
 DDI-DrugBank.d16.s1,Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events.
 DDI-DrugBank.d16.s2,"Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary"
-DDI-DrugBank.d16.s3,.
-DDI-DrugBank.d16.s4,
 DDI-DrugBank.d152.s0,Certain endocrine and liver function tests may be affected by estrogen-containing oral contraceptives.
 DDI-DrugBank.d152.s1,The following similar changes may be expected with larger doses of estrogen: Increased sulfobromophthalein retention;
 DDI-DrugBank.d152.s2,"increased prothrombin and factors VII, VIII, IX, and X;"
@@ -4111,14 +3992,10 @@ DDI-DrugBank.d338.s9,Drug Interaction with Fluoxetine: A multiple-dose study was
 DDI-DrugBank.d338.s10,"The pharmacokinetics of estazolam (Cmax and AUC) were not affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction."
 DDI-DrugBank.d338.s11,"Estazolam: Interaction with Other Drugs that are Metabolized by Cytochrome P450 (CYP): At clinically relevant concentrations, in vitro studies indicate that estazolam (0.6 M) was not inhibitory towards the major cytochrome P450 isoforms CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A."
 DDI-DrugBank.d338.s12,"Therefore, based on these in vitro data, estazolam is very unlikely to inhibit the biotransformation of other drugs metabolized by these CYP isoforms"
-DDI-DrugBank.d338.s13,.
-DDI-DrugBank.d338.s14,
 DDI-DrugBank.d150.s0,FLEXERIL may have life-threatening interactions with MAO inhibitors.
 DDI-DrugBank.d150.s1,"FLEXERIL may enhance the effects of alcohol, barbiturates, and other CNS depressants."
 DDI-DrugBank.d150.s2,Tricyclic antidepressants may block the antihypertensive action of guanethidine and similarly acting compounds.
 DDI-DrugBank.d150.s3,Tricyclic antidepressants may enhance the seizure risk in patients taking tramadol
-DDI-DrugBank.d150.s4,.
-DDI-DrugBank.d150.s5,
 DDI-DrugBank.d243.s0,"No drug, nutritional supplement, food or herb interactions are known."
 DDI-DrugBank.d262.s0,The concomitant use of alcohol or other central nervous system depressants may have an additive effect.
 DDI-DrugBank.d470.s0,No formal assessments of pharmacokinetic drug-drug interactions between TRISENOX and other agents have been conducted.
@@ -4252,8 +4129,6 @@ DDI-DrugBank.d71.s3,There is no information regarding the effect on lamivudine p
 DDI-DrugBank.d71.s4,No data are available regarding interactions with other drugs that have renal clearance mechanisms similar to that of lamivudine.
 DDI-DrugBank.d71.s5,Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another.
 DDI-DrugBank.d71.s6,"Therefore, use of lamivudine in combination with zalcitabine is not recommended"
-DDI-DrugBank.d71.s7,.
-DDI-DrugBank.d71.s8,
 DDI-DrugBank.d471.s0,"Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations."
 DDI-DrugBank.d471.s1,Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia.
 DDI-DrugBank.d137.s0,Nitrates: The concomitant use of Bepridil with long- and short-acting nitrates has been safely tolerated in patients with stable angina pectoris.
@@ -4325,8 +4200,6 @@ DDI-DrugBank.d224.s7,Systemic clonidine may inhibit the production of catecholam
 DDI-DrugBank.d224.s8,"Since apraclonidine may reduce pulse and blood pressure, caution in using drugs such as beta-blockers (ophthalmic and systemic), antihypertensives, and cardiac glycosides is advised."
 DDI-DrugBank.d224.s9,Patients using cardiovascular drugs concurrently with IOPIDINE 0.5% Ophthalmic Solution should have pulse and blood pressures frequently monitored.
 DDI-DrugBank.d224.s10,Caution should be exercised with simultaneous use of clonidine and other similar pharmacologic agents
-DDI-DrugBank.d224.s11,.
-DDI-DrugBank.d224.s12,
 DDI-DrugBank.d360.s0,Reduced efficacy and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.
 DDI-DrugBank.d360.s1,"A similar association, though less marked, has been suggested with barbiturates, phenylbutazone, phenytoin sodium, carbamazepine, griseofulvin, topiramate, and possibly with ampicillin and tetracyclines 72."
 DDI-DrugBank.d360.s2,A possible interaction has been suggested with hormonal contraceptives and the herbal supplement St. Johns Wort based on some reports of oral contraceptive users experiencing breakthrough bleeding shortly after starting St. Johns Wort.
@@ -4498,7 +4371,6 @@ DDI-DrugBank.d531.s9,Drugs Within Class Not To Be Coadministered With SUSTIVA
 DDI-DrugBank.d531.s10,Antihistamines: Benzodiazepines GI Motility Agents Anti-Migraine Antifungal
 DDI-DrugBank.d531.s11,"astemizole midazolam, triazolam cisapride ergot derivatives voriconazole"
 DDI-DrugBank.d531.s12,Established Drug Interactions
-DDI-DrugBank.d531.s13,
 DDI-DrugBank.d531.s14,Drug Name
 DDI-DrugBank.d531.s15,Effect
 DDI-DrugBank.d531.s16,Clinical Comment
@@ -4518,7 +4390,6 @@ DDI-DrugBank.d531.s29,"In uninfected volunteers, 46% developed rash while receiv
 DDI-DrugBank.d531.s30,No dose adjustment of SUSTIVA is recommended when given with clarithromycin.
 DDI-DrugBank.d531.s31,"Alternatives to clarithromycin, such as azithromycin, should be considered."
 DDI-DrugBank.d531.s32,"Other macrolide antibiotics, such as erythromycin, have not been studied in combination with SUSTIVA."
-DDI-DrugBank.d531.s33,
 DDI-DrugBank.d531.s34,14-OH metabolite concentration
 DDI-DrugBank.d531.s35,Indinavir
 DDI-DrugBank.d531.s36,indinavir concentration
@@ -4581,8 +4452,6 @@ DDI-DrugBank.d531.s92,Clinically significant interactions would not be expected 
 DDI-DrugBank.d474.s0,"Unless really needed, agents which may enhance the risk of hemorrhage should be discontinued prior to initiation of Lovenox Injection therapy."
 DDI-DrugBank.d474.s1,"These agents include medications such as: anticoagulants, platelet inhibitors including acetylsalicylic acid, sali-cylates, NSAIDs (including ketorolac tromethamine), dipyridamole, or sulfinpyrazone."
 DDI-DrugBank.d474.s2,"If co-administration is essential, conduct close clinical and laboratory monitoring"
-DDI-DrugBank.d474.s3,.
-DDI-DrugBank.d474.s4,
 DDI-DrugBank.d308.s0,"THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES."
 DDI-DrugBank.d308.s1,Therefore when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced.
 DDI-DrugBank.d308.s2,"Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking Atarax."
@@ -4806,7 +4675,6 @@ DDI-DrugBank.d97.s93,Vardenafil dose should not exceed a maximum of 2.5 mg in a 
 DDI-DrugBank.d97.s94,Note:
 DDI-DrugBank.d97.s95,= increase;
 DDI-DrugBank.d97.s96,= decrease
-DDI-DrugBank.d97.s97,
 DDI-DrugBank.d15.s0,"In clinical studies performed with Fondaparinux, the concomitant use of oral anticoagulants (warfarin), platelet inhibitors (acetylsalicylic acid), NSAIDs (piroxicam), and digoxin did not significantly affect the pharmacokinetics/pharmacodynamics of fondaparinux sodium."
 DDI-DrugBank.d15.s1,"In addition, Fondaparinux neither influenced the pharmacodynamics of warfarin, acetylsalicylic acid, piroxicam, and digoxin, nor the pharmacokinetics of digoxin at steady state."
 DDI-DrugBank.d15.s2,Agents that may enhance the risk of hemorrhage should be discontinued prior to initiation of Fondaparinux therapy.
@@ -4947,15 +4815,11 @@ DDI-DrugBank.d227.s0,"Isoflurane potentiates the muscle relaxant effect of all m
 DDI-DrugBank.d227.s1,See CLINICAL PHARMACOLOGY.
 DDI-DrugBank.d291.s0,When Bezalip or Bezalip retard is used at the same time as other medicines or substances the following interactions must be taken into account: - Bezalip and Bezalip retard may enhance the action of anticoagulants of the coumarin type.
 DDI-DrugBank.d291.s1,"For this reason, the dose of the anticoagulant should be reduced by 30 - 50% at the start of treatment with Bezalip or Bezalip retard and then titrated according to the blood clotting parameters"
-DDI-DrugBank.d291.s2,.
 DDI-DrugBank.d291.s3,- The action of sulphonylureas and insulin may be enhanced by Bezalip or Bezalip retard.
 DDI-DrugBank.d291.s4,This may be due to an improved glucose utilization with simultaneous reduction in insulin requirement
-DDI-DrugBank.d291.s5,.
 DDI-DrugBank.d291.s6,"- In isolated cases, a pronounced though reversible, impairment of renal function (accompanied by a corresponding increase in the serum creatinine level) has been reported in organ transplant patients receiving immuno-suppressant therapy and concomitant bezafibrate."
 DDI-DrugBank.d291.s7,"Accordingly, renal function should be closely monitored in these patients and, in the event of relevant significant changes in laboratory parameters, bezafibrate should, if necessary, be discontinued"
-DDI-DrugBank.d291.s8,.
 DDI-DrugBank.d291.s9,"- When Bezalip or Bezalip retard is used concurrently with anion-exchange resins (e.g. cholestryramine), an interval of at least 2 hours should be maintained between the two medicines, since the absorption of Bezalip or Bezalip retard is impaired"
-DDI-DrugBank.d291.s10,.
 DDI-DrugBank.d291.s11,- Perhexiline hydrogen maleate or MAO-inhibitors (with hepatotoxic potential) must not be administered together with Bezalip or Bezalip retard.
 DDI-DrugBank.d191.s0,There is no known drug interference with standard clinical laboratory tests.
 DDI-DrugBank.d191.s1,Steroids enhance the renal toxicity of edetate calcium disodium in animals. 7 Edetate calcium disodium interferes with the action of zinc insulin preparations by chelating the zinc. 7
@@ -5042,8 +4906,6 @@ DDI-DrugBank.d196.s40,"Adverse reactions related to alpha interferons, such as C
 DDI-DrugBank.d196.s41,"PEGASYS and COPEGUS are excreted by the kidney, and the risk of toxic reactions to this therapy may be greater in patients with impaired renal function."
 DDI-DrugBank.d196.s42,"Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function."
 DDI-DrugBank.d196.s43,PEGASYS should be used with caution in patients with creatinine clearance  50 mL/min and COPEGUS should not be administered to patients with creatinine clearance  50 mL/min
-DDI-DrugBank.d196.s44,.
-DDI-DrugBank.d196.s45,
 DDI-DrugBank.d252.s0,"Although BETAGAN used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with BETAGAN and epinephrine may occur."
 DDI-DrugBank.d252.s1,"Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may produce vertigo, syncope or postural hypotension."
 DDI-DrugBank.d252.s2,"Patients receiving beta-adrenergic blocking agents along with either oral or intravenous calcium antagonists should be monitored for possible atrioventricular conduction disturbances, left ventricular failure and hypotension."
@@ -5341,8 +5203,6 @@ DDI-DrugBank.d526.s22,"Estrogen increased levels of corticosteroid-binding globu
 DDI-DrugBank.d526.s23,this effect is at least balanced by decreased metabolism of corticosteroids.
 DDI-DrugBank.d526.s24,"When estrogen therapy is initiated, a reduction in corticosteroid dosage may be required, and increased amounts may be required when estrogen is terminated."
 DDI-DrugBank.d526.s25,Drug/Laboratory Test Interactions Corticosteroids may affect the nitrobluetetrazolium test for bacterial infection and produce false-negative results
-DDI-DrugBank.d526.s26,.
-DDI-DrugBank.d526.s27,
 DDI-DrugBank.d559.s0,The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors.
 DDI-DrugBank.d559.s1,"Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
 DDI-DrugBank.d559.s2,Drug/Laboratory Test Interactions Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
@@ -5427,8 +5287,6 @@ DDI-DrugBank.d494.s0,"Concomitant use with other calcium-containing medicines (i
 DDI-DrugBank.d494.s1,"Using calcium acetate with digitalis glycosides (heart medicine) may cause hypercalcemia (too much calcium in the blood), which could increase the chance of developing an irregular heartbeat."
 DDI-DrugBank.d278.s0,Enoxaparin dosed as a 1.0 mg/kg subcutaneous injection q12h for four doses did not alter the pharmacokinetics of eptifibatide or the level of platelet aggregation in healthy adults.
 DDI-DrugBank.d280.s0,No specific information available
-DDI-DrugBank.d280.s1,.
-DDI-DrugBank.d280.s2,
 DDI-DrugBank.d13.s0,"Drug Interactions: Flupenthixol may interact with some drugs, like Monoamine oxidase inhibitors (MAOI): MAOI could theoretically affect flupenthixol pharmacodynamics - Arecoline - Eproxindine - Ethanol: Flupenthixol and Ethanol cause additive CNS depression - Tricyclic antidepressants: Flupenthixol increases the effect of Tricyclic antidepressants"
 DDI-DrugBank.d524.s0,"Albuterol, Antihistamines, antidiabetic drugs, diuretics, digitalis."
 DDI-DrugBank.d446.s0,"Chlorotrianisene may interact with antidepressants, aspirin, barbiturates, bromocriptine, calcium supplements, corticosteroids, corticotropin, cyclosporine, dantrolene, nicotine, somatropin, tamoxifen, and warfarin."
@@ -5550,8 +5408,6 @@ DDI-DrugBank.d27.s2,"However, in clinical studies the consequences of concomitan
 DDI-DrugBank.d27.s3,"Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isozymes 1A1, 1A2,2A6,2B6,2D6,2E1,or 3A4."
 DDI-DrugBank.d27.s4,"In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin."
 DDI-DrugBank.d27.s5,The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide
-DDI-DrugBank.d27.s6,.
-DDI-DrugBank.d27.s7,
 DDI-DrugBank.d485.s0,"Ethinyl estradiol: Substrate of CYP3A4 (major), 3A5-7 (minor);"
 DDI-DrugBank.d485.s1,"Inhibits CYP1A2 (weak), 2B6 (weak), 2C19 (weak), 3A4 (weak)."
 DDI-DrugBank.d485.s2,"Acetaminophen: May increase plasma concentration of synthetic estrogens, possibly by inhibiting conjugation."
