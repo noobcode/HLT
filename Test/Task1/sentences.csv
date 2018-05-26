@@ -1,0 +1,717 @@
+sentenceID,sentenceText
+DDI-DrugBank.d768.s0,Palonosetron is eliminated from the body through both renal excretion and metabolic pathways with the latter mediated via multiple CYP enzymes. 
+DDI-DrugBank.d768.s1,"In vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5. "
+DDI-DrugBank.d768.s2,"Therefore, the potential for clinically significant drug interactions with palonosetron appears to be low. "
+DDI-DrugBank.d768.s3,A study in healthy volunteers involving single-dose IV palonosetron (0.75 mg) and steady state oral metoclopramide (10 mg four times daily) demonstrated no significant pharmacokinetic interaction. 
+DDI-DrugBank.d768.s4,"In controlled clinical trials, ALOXI injection has been safely administered with corticosteroids, analgesics, antiemetics/antinauseants, antispasmodics and anticholinergic agents. "
+DDI-DrugBank.d768.s5,"Palonosetron did not inhibit the antitumor activity of the five chemotherapeutic agents tested (cisplatin, cyclophosphamide, cytarabine, doxorubicin and mitomycin C) in murine tumor models."
+DDI-DrugBank.d667.s0,Severe hypertension has been reported when oxytocin was given three to four hours following prophylactic administration of a vasoconstrictor in conjunction with caudal block anesthesia. 
+DDI-DrugBank.d667.s1,"Cyclopropane anesthesia may modify oxytocin   s cardiovascular effects, so as to produce unexpected results such as hypotension. "
+DDI-DrugBank.d667.s2,Maternal sinus bradycardia with abnormal atrioventricular rhythms has also been noted when oxytocin was used concomitantly with cyclopropane anesthesia.    
+DDI-DrugBank.d729.s0,Potential drug interactions between OXISTAT and other drugs have not been systematically evaluated.
+DDI-DrugBank.d672.s0,Digoxin: Sparfloxacin has no effect on the pharmacokinetics of digoxin. 
+DDI-DrugBank.d672.s1,Methylxanthines: Sparfloxacin does not increase plasma theophylline concentrations. 
+DDI-DrugBank.d672.s2,"Since there is no interaction with theophylline, interaction with other methylxanthines such as caffeine is unlikely. "
+DDI-DrugBank.d672.s3,Warfarin: Sparfloxacin does not increase the anti-coagulant effect of warfarin. 
+DDI-DrugBank.d672.s4,Cimetidine: Cimetidine does not affect the pharmacokinetics of sparfloxacin. 
+DDI-DrugBank.d672.s5,The oral bioavailability of sparfloxacin is not reduced when the aluminum-magnesium suspension is administered 4 hours following sparfloxacin administration. 
+DDI-DrugBank.d672.s6,Zinc/iron salts: Absorption of quinolones is reduced significantly by these preparations. 
+DDI-DrugBank.d672.s7,These products may be taken 4 hours after sparfloxacin administration. 
+DDI-DrugBank.d672.s8,Probenecid: Probenecid does not alter the pharmacokinetics of sparfloxacin.
+DDI-DrugBank.d612.s0,In vivo drug-drug interaction studies have suggested that pioglitazone may be a weak inducer of CYP 450 isoform 3A4 substrate.
+DDI-DrugBank.d760.s0,"Concomitant Therapy  Special care should be exercised in treating patients who are receiving concomitant therapy (either topically or systemically) with known photosensitizing agents such as anthralin, coal tar or coal tar derivatives, griseofulvin, phenothiazines, nalidixic acid, halogenated salicylanilides (bacteriostatic soaps), sulfonamides, tetracyclines, thiazides, and certain organic staining dyes such as methylene blue, toluidine blue, rose bengal and methyl orange."
+DDI-DrugBank.d644.s0,Drug Interactions --------------------------------------------------------------------------------  This medicine may be affected by the drug cholestyramine and should not be taken with any form of estrogen therapy. 
+DDI-DrugBank.d644.s1,Talk to your pharmacist for more information. 
+DDI-DrugBank.d644.s2,Drugs that may decrease the effects of this medicine include: Rifampin barbiturates phenytoin (Dilantin) carbamazepine (Tegretol) Estrogens may decrease the effects of benzodiazepines (lorezepam oxezepam temezepam). 
+DDI-DrugBank.d644.s3,If you are taking these medicines together or you have further questions about drug interactions talk to your doctor or pharmacist. 
+DDI-DrugBank.d644.s4,Consult your doctor or pharmacist if you are taking any of the following: seizure medications antibiotics warfarin medications to help you sleep
+DDI-DrugBank.d664.s0,"May increase the effect of oral blood thinners, for example warfarin (Coumadin). "
+DDI-DrugBank.d664.s1,"Therefore, warfarin dose changes and monitoring for the effects of warfarin on blood clotting are necessary."
+DDI-DrugBank.d589.s0,Concomitant glucocorticoid therapy may inhibit the response to Geref   . There was no evidence in the controlled studies of Geref   's interaction with drugs commonly used in the treatment of routine pediatric problems/illnesses. 
+DDI-DrugBank.d589.s1,"However, formal drug interactions studies have not been conducted."
+DDI-DrugBank.d764.s0,"There have been no studies of the interaction of methyl aminolevulinate cream with any other drugs, including local anesthetics. "
+DDI-DrugBank.d764.s1,It is possible that concomitant use of other known photosensitizing agents might increase the photosensitivity reaction of actinic keratoses treated with methyl aminolevulinate cream.
+DDI-DrugBank.d730.s0,The pharmacokinetic profile of temazepam does not appear to be altered by orally administered cimetidine dosed according to labeling.
+DDI-DrugBank.d767.s0,Dosage adjustment should be based on serial blood level monitoring. 
+DDI-DrugBank.d767.s1,The contribution of vincristine sulfate to this interaction is not certain. 
+DDI-DrugBank.d767.s2,The interaction may result from reduced absorption of phenytoin and an increase in the rate of its metabolism and elimination.
+DDI-DrugBank.d662.s0,"Mitoxantrone and its metabolites are excreted in bile and urine, but it is not known whether the metabolic or excretory pathways are saturable, may be inhibited or induced, or if mitoxantrone and its metabolites undergo enterohepatic circulation. "
+DDI-DrugBank.d662.s1,"To date, post-marketing experience has not revealed any significant drug interactions in patients who have received NOVANTRONE    for treatment of cancer. "
+DDI-DrugBank.d662.s2,Information on drug interactions in patients with multiple sclerosis is limited. 
+DDI-DrugBank.d662.s3,"Following concurrent administration of NOVANTRONE    with corticosteroids, no evidence of drug interactions has been observed."
+DDI-DrugBank.d660.s0,No formal drug-drug interaction studies were conducted. 
+DDI-DrugBank.d660.s1,"In Trial 1, the proportions of patients in the placebo and Synagis    groups who received routine childhood vaccines, influenza vaccine, bronchodilators or corticosteroids were similar and no incremental increase in adverse reactions was observed among patients receiving these agents.    "
+DDI-DrugBank.d592.s0,Interactions for Sodium Tetradecyl Sulfate:  No well-controlled studies have been performed on patients taking antiovulatory agents. 
+DDI-DrugBank.d592.s1,The physician must use judgment and evaluate any patient taking antiovulatory drugs prior to initiating treatment with Sotradecol.  
+DDI-DrugBank.d592.s2,"Heparin should not be included in the same syringe as Sodium Tetradecyl Sulfate, since the two are incompatible."
+DDI-DrugBank.d692.s0,Drug-drug interaction studies have not been conducted with VIGAMOX    solution. 
+DDI-DrugBank.d692.s1,"In vitro studies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes."
+DDI-DrugBank.d701.s0,"Drug Interactions:  Pirenzepine may interact with the following drugs, which may affect the effect of Pirenzepine or whose effects may be affected. "
+DDI-DrugBank.d701.s1,"- Antacids - Diarrhea medicine containing kaolin or attapulgite - Ketoconazole - Central nervous system (CNS) depressants - Other anticholinergics - Tricyclic antidepressants (e.g., Elavil, Asendin, Anafranil, Pertofrane, Sinequan, Tofranil, Aventyl, Surmontil) - Potassium chloride (e.g., Kay Ciel)"
+DDI-DrugBank.d691.s0,"Because systemic exposure to Valstar    is negligible following intravesical administration, the potential for drug interactions is low. "
+DDI-DrugBank.d691.s1,No drug interaction studies were conducted.
+DDI-DrugBank.d731.s0,Drug/Laboratory Interactions: There have been no formal drug interaction studies performed with RITUXAN. 
+DDI-DrugBank.d731.s1,"However, renal toxicity was seen with this drug in combination with cisplatin in clinical trials."
+DDI-DrugBank.d718.s0,"Interactions  Interaction may occur with Antacids, Calcium supplements, Cholestyramine, Choline and magnesium salicylates, Colestipol, Iron-containing drugs, Laxatives, Magnesium salicylate: these drugs may decrease the potency of tetracyclines. "
+DDI-DrugBank.d718.s1,Oral contraceptives containing estrogen: tetracyclines may decrease the contraceptive effect and increase the chance of unwanted pregnancy.
+DDI-DrugBank.d708.s0,No formal drug-drug interaction studies have been conducted with Vectibix.
+DDI-DrugBank.d663.s0,Drug interaction studies have not been conducted with LUCENTIS. 
+DDI-DrugBank.d663.s1,LUCENTIS intravitreal injection has been used adjunctively with verteporfin photodynamic therapy (PDT). 
+DDI-DrugBank.d663.s2,Twelve of 105 (11%) patients developed serious intraocular inflammation; 
+DDI-DrugBank.d663.s3,"in 10 of the 12 patients, this occurred when LUCENTIS was administered 7 days (   2 days) after verteporfin PDT."
+DDI-DrugBank.d620.s0,Pyrazinamide has been reported to interfere with ACETEST    and KETOSTIX    urine tests to produce a pink-brown color. 
+DDI-DrugBank.d683.s0,"There are, as yet, no known drug interactions, but further study is required."
+DDI-DrugBank.d724.s0,No formal drug interaction studies have been conducted with Infergen. 
+DDI-DrugBank.d724.s1,Infergen should be used cautiously in patients who are receiving agents that are known to cause myelosuppression or with agents known to be metabolized via the cytochrome P-450 pathway.9 Patients taking drugs that are metabolized by this pathway should be monitored closely for changes in the therapeutic and/or toxic levels of concomitant drugs.
+DDI-DrugBank.d574.s0,"This medicine is generally safe with other medications, but patient should consult doctor or pharmacist if patient is taking a blood thinner (anticoagulant), cyclosporin, phenytoin, or methotrexate."
+DDI-DrugBank.d621.s0,- Increased action of oral anticoagulants. 
+DDI-DrugBank.d621.s1,"- Decreased absorption of colestipol, cholestyramine, mineral oil, and sucralfate."
+DDI-DrugBank.d685.s0,No formal drug interaction studies have been performed. 
+DDI-DrugBank.d685.s1,"Due to the frequent occurrence of severe and prolonged thrombocytopenia, the potential benefits of medications that interfere with platelet function and/or anticoagulation should be weighed against the potential increased risk of bleeding and hemorrhage. "
+DDI-DrugBank.d685.s2,Drug/Laboratory Test Interactions Administration of the BEXXAR therapeutic regimen may result in the development of human anti-murine antibodies (HAMA). 
+DDI-DrugBank.d685.s3,The presence of HAMA may affect the accuracy of the results of in vitro and in vivo diagnostic tests and may affect the toxicity profile and efficacy of therapeutic agents that rely on murine antibody technology. 
+DDI-DrugBank.d685.s4,Patients who are HAMA positive may be at increased risk for serious allergic reactions and other side effects if they undergo in vivo diagnostic testing or treatment with murine monoclonal antibodies.
+DDI-DrugBank.d673.s0,No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers. 
+DDI-DrugBank.d673.s1,The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2]. 
+DDI-DrugBank.d673.s2,Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; 
+DDI-DrugBank.d673.s3,"thus, interactions with drugs that inhibit, induce or are metabolized by those enzymes are not expected."
+DDI-DrugBank.d626.s0,Alcohol (this combination may make you very sick) and primaquine
+DDI-DrugBank.d733.s0,Misoprostol has not been shown to interfere with the beneficial effects of aspirin on signs and symptoms of rheumatoid arthritis. 
+DDI-DrugBank.d733.s1,"Misoprostol does not exert clinically significant effects on the absorption, blood levels, and anti-platelet effects of therapeutic doses of aspirin. "
+DDI-DrugBank.d733.s2,Misoprostol has no clinically significant effect on the kinetics of diclofenac or ibuprofen.
+DDI-DrugBank.d614.s0,There have been no formal interaction studies of PHOTOFRIN    and any other drugs. 
+DDI-DrugBank.d614.s1,"However, it is possible that concomitant use of other photosensitizing agents (e.g., tetracyclines, sulfonamides, phenothiazines, sulfonylurea hypoglycemia agents, thiazide diuretics, and griseofulvin) could increase the photosensitivity reaction. "
+DDI-DrugBank.d614.s2,PHOTOFRIN    PDT causes direct intracellular damage by initiating radical chain reactions that damage intracellular membranes and mitochondria. 
+DDI-DrugBank.d614.s3,"Tissue damage also results from ischemia secondary to vasoconstriction, platelet activation and aggregation and clotting. "
+DDI-DrugBank.d614.s4,"Research in animals and in cell culture has suggested that many drugs could influence the effects of PDT, possible examples of which are described below. "
+DDI-DrugBank.d614.s5,There are no human data that support or rebut these possibilities. 
+DDI-DrugBank.d614.s6,"Compounds that quench active oxygen species or scavenge radicals, such as dimethyl sufloxide, b-carotene, ethanol, formate and mannitol would be expected to decrease PDT activity. "
+DDI-DrugBank.d614.s7,"Preclinical data also suggest that tissue ischemia, allopurinol, calcium channel blockers and some prostaglandin synthesis inhibitors could interfere with PHOTOFRIN    PDT. "
+DDI-DrugBank.d614.s8,"Drugs that decrease clotting, vasoconstriction or platelet aggregation, e.g., thromboxane A2 inhibitors, could decrease the efficacy of PDT. "
+DDI-DrugBank.d614.s9,Glucocorticoid hormones given before or concomitant with PDT may decrease the efficacy of the treatment.
+DDI-DrugBank.d594.s0,"Interactions with cylcopholsphamide, fludarabine and vidarabine"
+DDI-DrugBank.d778.s0,No data are available regarding interaction of BILTRICIDE    with other drugs.
+DDI-DrugBank.d748.s0,No specific interactions are known at this time.
+DDI-DrugBank.d617.s0,No untoward clinical manifestations have been observed in limited experience with patients in whom PRIMACOR was used concurrently with the following drugs: digitalis glycosides; 
+DDI-DrugBank.d617.s1,"lidocaine, quinidine; "
+DDI-DrugBank.d617.s2,"hydralazine, prazosin; "
+DDI-DrugBank.d617.s3,"isosorbide dinitrate, nitroglycerin; "
+DDI-DrugBank.d617.s4,"chlorthalidone, furosemide, hydrochlorothiazide, spironolactone; "
+DDI-DrugBank.d617.s5,captopril; 
+DDI-DrugBank.d617.s6,"heparin, warfarin, diazepam, insulin; "
+DDI-DrugBank.d617.s7,and potassium supplements. 
+DDI-DrugBank.d617.s8,Chemical Interactions There is an immediate chemical interaction which is evidenced by the formation of a precipitate when furosemide is injected into an intravenous line of an infusion of PRIMACOR. 
+DDI-DrugBank.d617.s9,"Therefore, furosemide should not be administered in intravenous lines containing PRIMACOR."
+DDI-DrugBank.d749.s0,Drug interaction studies have not been conducted with Macugen. 
+DDI-DrugBank.d749.s1,Pegaptanib is metabolized by nucleases and is generally not affected by the cytochrome P450 system. 
+DDI-DrugBank.d749.s2,Two early clinical studies conducted in patients who received Macugen alone and in combination with PDT revealed no apparent difference in the plasma pharmacokinetics of pegaptanib.
+DDI-DrugBank.d583.s0,In animals the duration of muscle paralysis from succinylcholine is not prolonged by remifentanil. 
+DDI-DrugBank.d583.s1,"Remifentanil clearance is not altered by concomitant administration of thiopental, isoflurane, propofol, or temazepam during anesthesia. "
+DDI-DrugBank.d583.s2,"In vitro studies with atracurium, mivacurium, esmolol, echothiophate, neostigmine, physostigmine, and midazolam revealed no inhibition of remifentanil hydrolysis in whole human blood by these drugs."
+DDI-DrugBank.d719.s0,Combined usage of MAO inhibitors should be avoided
+DDI-DrugBank.d772.s0,TERAZOL 7 Vaginal Cream 0.4% and TERAZOL 3 Vaginal Suppositories 80 mg The therapeutic effect of these products is not affected by oral contraceptive usage. 
+DDI-DrugBank.d772.s1,TERAZOL 3 Vaginal Cream 0.8% The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive.    
+DDI-DrugBank.d674.s0,Diagnosis of pheochromocytoma - phentolamine blocking test.  
+DDI-DrugBank.d674.s1,The test is most reliable in detecting pheochromocytoma in patients with sustained hypertension and least reliable in those with paroxysmal hypertension. 
+DDI-DrugBank.d674.s2,False-positive tests may occur in patients with hypertension without pheochromocytoma.
+DDI-DrugBank.d755.s0,No reported significant interactions
+DDI-DrugBank.d740.s0,"Drug/Laboratory Test Interaction: The concomitant use of anticholinergic agents may make patients hyporesponsive, i.e. "
+DDI-DrugBank.d740.s1,may produce a false positive result.
+DDI-DrugBank.d646.s0,"Drug-Drug Interactions Although in vitro studies demonstrated the potential of rifaximin to interact with cytochrome P450 3A4 (CYP3A4), a clinical drug-drug interaction study demonstrated that rifaximin did not significantly affect the pharmacokinetics of midazolam either presystemically or systemically. "
+DDI-DrugBank.d646.s1,An additional clinical drug-drug interaction study showed no effect of rifaximin on the presystemic metabolism of an oral contraceptive containing ethinyl estradiol and norgestimate. 
+DDI-DrugBank.d646.s2,"Therefore, clinical interactions with drugs metabolized by human cytochrome P450 isoenzymes are not expected.    "
+DDI-DrugBank.d754.s0,"Drug/Laboratory Test Interactions: Potential interactions between ERTACZOTM Cream, 2%, and other drugs or laboratory tests have not been systematically evaluated."
+DDI-DrugBank.d593.s0,"Clinical studies of interactions of VIRAZOLE with other drugs commonly used to treat infants with RSV infections, such as digoxin, bronchodilators, other antiviral agents, antibiotics, or anti-metabolites have not been conducted. "
+DDI-DrugBank.d593.s1,Interference by VIRAZOLE with laboratory tests has not been evaluated.
+DDI-DrugBank.d684.s0,Formal topical drug interaction studies with PROTOPIC Ointment have not been conducted. 
+DDI-DrugBank.d684.s1,"Based on its minimal extent of absorption, interactions of PROTOPIC Ointment with systemically administered drugs are unlikely to occur but cannot be ruled out. "
+DDI-DrugBank.d684.s2,The concomitant administration of known CYP3A4 inhibitors in patients with widespread and/or erythrodermic disease should be done with caution. 
+DDI-DrugBank.d684.s3,"Some examples of such drugs are erythromycin, itraconazole, ketoconazole, fluconazole, calcium channel blockers and cimetidine.    "
+DDI-DrugBank.d714.s0,Not compatible with CNS depressants or trycyclic antidepressants
+DDI-DrugBank.d657.s0,"Interactions for Dronabinol:  In studies involving patients with AIDS and/or cancer, MARINOL (Dronabinol) Capsules has been co-administered with a variety of medications (e.g., cytotoxic agents, anti-infective agents, sedatives, or opioid analgesics) without resulting in any clinically significant drug/drug interactions. "
+DDI-DrugBank.d657.s1,"Although no drug/drug interactions were discovered during the clinical trials of MARINOL Capsules, cannabinoids may interact with other medications through both metabolic and pharmacodynamic mechanisms. "
+DDI-DrugBank.d657.s2,"Dronabinol is highly protein bound to plasma proteins, and therefore, might displace other protein-bound drugs. "
+DDI-DrugBank.d657.s3,"Although this displacement has not been confirmed in vivo, practitioners should monitor patients for a change in dosage requirements when administering dronabinol to patients receiving other highly protein-bound drugs."
+DDI-DrugBank.d681.s0,"May interact with cimetidine, digoxin, medicines to control heart rhythm, sevelamer, and theophylline."
+DDI-DrugBank.d707.s0,Concomitant administration of a loop diuretic had no effect on the calcium-lowering action of Aredia. 
+DDI-DrugBank.d707.s1,Caution is indicated when Aredia is used with other potentially nephrotoxic drugs. 
+DDI-DrugBank.d707.s2,Also see CLINICAL PHARMACOLOGY
+DDI-DrugBank.d705.s0,Telbivudine is excreted mainly by passive diffusion so the potential for interactions between telbivudine and other drugs eliminated by renal excretion is low. 
+DDI-DrugBank.d705.s1,"However, because telbivudine is eliminated primarily by renal excretion, co   administration of telbivudine with drugs that alter renal function may alter plasma concentrations of telbivudine."
+DDI-DrugBank.d745.s0,"There are so far no reported adverse interactions with SAMe and other drugs, dietary supplements or foods."
+DDI-DrugBank.d586.s0,"Potential interactions between Elidel and other drugs, including immunizations, have not been systematically evaluated. "
+DDI-DrugBank.d586.s1,"Due to the very low blood levels of pimecrolimus detected in some patients after topical application, systemic drug interactions are not expected, but cannot be ruled out. "
+DDI-DrugBank.d586.s2,The concomitant administration of known CYP3A family of inhibitors in patients with widespread and/or erythrodermic disease should be done with caution. 
+DDI-DrugBank.d586.s3,"Some examples of such drugs are erythromycin, itraconazole, ketoconazole, fluconazole, calcium channel blockers and cimetidine."
+DDI-MedLine.d146.s0,"Post-exposure prophylaxis for H1N1 with oseltamivir in renal allograft recipient--safe and effective without any immunosuppresive drug interaction.
+"
+DDI-MedLine.d146.s1,Kidney transplant recipients are at a high risk for H1N1 infection associated complications during the current pandemic. 
+DDI-MedLine.d146.s2,"Prevention of infection by immunization, together with early recognition and prompt antiviral treatment are critical. "
+DDI-MedLine.d146.s3,"Post-exposure prophylaxis of H1N1 with oseltamivir was safe, effective and well tolerated to prevent H1N1 influenza A virus infection in newly transplanted renal allograft recipient receiving triple immunosuppression without any interaction with tacrolimus level. "
+DDI-MedLine.d146.s4,Oseltamivir was effective for post-exposure prophylaxis of H1N1 in close contact.
+DDI-MedLine.d160.s0,"[Summary of revised contents of medical standards of preparation recorded in Chinese Pharmacopeia (I division, 2010 edition)].
+"
+DDI-MedLine.d160.s1,China pharmacopoeia is a civil code which is to ensure pharmaceutical quality and protect people's drug safety and effectiveness. 
+DDI-MedLine.d160.s2,"Drug standards are consist of two parts, the pharmaceutical standards and medical standards. "
+DDI-MedLine.d160.s3,"Medical standards include four contents, such as prescription, function and indications, usage and dosage and attentions. "
+DDI-MedLine.d160.s4,This paper summarized the revised contents of medical standards and suggested some propositions.
+DDI-MedLine.d172.s0,"Clarity and applicability of drug-drug interaction management guidelines: a systematic appraisal by general practitioners and community pharmacists in the Netherlands.
+"
+DDI-MedLine.d172.s1,"Despite the availability and daily use of computerized drug-drug interaction surveillance systems, exposure to potentially relevant drug-drug interactions (DDIs) continues. "
+DDI-MedLine.d172.s2,"DDI management guidelines are often inadequate and clear management options are lacking, which attributes to overriding of DDI signals. "
+DDI-MedLine.d172.s3,"Although general criteria for the development and reporting of high-quality clinical practice guidelines have been identified, it appears these have not yet been applied to DDI management guidelines."
+DDI-MedLine.d172.s4,The aim of the study was to assess the clarity and applicability of guidelines for the management of potentially harmful DDIs. 
+DDI-MedLine.d172.s5,We selected 13 DDIs that are potentially harmful for patients and frequently occur in community pharmacy practice in the Netherlands. 
+DDI-MedLine.d172.s6,"The clarity and applicability of the management guidelines of these DDIs were appraised using the appropriate two domains - 'Clarity and presentation' and 'Applicability', of the validated Appraisal of Guidelines for Research and Evaluation (AGREE) Instrument. "
+DDI-MedLine.d172.s7,The appraisal was performed by 12 community pharmacists and 12 general practitioners. 
+DDI-MedLine.d172.s8,The standardized domain scores and mean item scores for 'Clarity and presentation' and 'Applicability' were compared. 
+DDI-MedLine.d172.s9,"All DDI management guidelines were generally found to score well on 'Clarity and presentation', but poorly with respect to 'Applicability' (standardized domain scores 68.0 vs 26.1%). "
+DDI-MedLine.d172.s10,"Within the domain 'Clarity and presentation', the item 'tools for application' received the lowest scores. "
+DDI-MedLine.d172.s11,"Within the domain 'Applicability', cost implications, organizational barriers and key review criteria were all poorly documented. "
+DDI-MedLine.d172.s12,All guidelines presented non-directive advice using words such as 'consider' and 'regularly'. 
+DDI-MedLine.d172.s13,Developers of DDI management guidelines should take the appropriate domains of the AGREE Instrument into consideration in their development processes. 
+DDI-MedLine.d172.s14,The applicability of DDI management guidelines should be pretested before publishing. 
+DDI-MedLine.d172.s15,"To improve guideline quality, more attention should particularly be paid to the available tools for applications and cost implications."
+DDI-MedLine.d165.s0,"CPP-ACP complex as a new adjunctive agent for remineralisation: a review.
+"
+DDI-MedLine.d165.s1,"In addition to regular professional oral hygiene visits and the application of appropriate preventive medications, successful preventive strategies involve oral health promotion, patient education and patient compliance. "
+DDI-MedLine.d165.s2,The Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) complex has been shown to remineralise tooth surfaces in situ when delivered in oral care products. 
+DDI-MedLine.d165.s3,This complex has a unique ability to deliver bio-available calcium and phosphate when they are needed most. 
+DDI-MedLine.d165.s4,"The effectiveness of casein derivatives, specifically CCP-ACP, in caries prevention and lesion reversal has been supported by many controlled clinical studies. "
+DDI-MedLine.d165.s5,This review summarises the research on Casein phosphopeptide-amorphous calcium phosphate complex and provides information related to its benefit in dentistry. 
+DDI-MedLine.d165.s6,Further research is required to provide a scientifically supported recommendation for other clinical applications.
+DDI-MedLine.d221.s0,"An autopsy case of multiple psychotropic drug poisoning.
+"
+DDI-MedLine.d221.s1,"A fatal poisoning case involving etizolam, phenobarbital, promethazine and chlorpromazine is presented. "
+DDI-MedLine.d221.s2,"Quantitative toxicological analysis showed that the concentrations of etizolam, phenobarbital, promethazine and chlorpromazine in the femoral blood were 86 ng/ml, 5082 microg/ml, 0.107 microg/ml and 0.144 microg/ml, respectively, and large amounts of drugs were also detected in the stomach contents. "
+DDI-MedLine.d221.s3,We conclude that the cause of death was due to the interaction of multiple psychotropic drugs.
+DDI-MedLine.d157.s0,"Tradition and toxicity: evidential cultures in the kava safety debate.
+"
+DDI-MedLine.d157.s1,"This paper examines the debate about the safety of kava (Piper methysticum Forst. f, Piperaceae), a plant native to Oceania, where it has a long history of traditional use. "
+DDI-MedLine.d157.s2,"Kava became popular as an anti-anxiety treatment in Western countries in the late 1990s, but it was subsequently banned in many places due to adverse reports of liver toxicity. "
+DDI-MedLine.d157.s3,"This paper focuses on the responses to the bans by scientists involved in kava research, contrasting their evidential culture with that employed by clinicians and regulatory officials. "
+DDI-MedLine.d157.s4,"Cultural constructions and social negotiations of risk are shown to be context-specific, and are shaped by professional, disciplinary, and organizational factors, among others. "
+DDI-MedLine.d157.s5,"Though the science of hepatotoxicity is uncertain enough to allow for multiple interpretations of the same data, the biomedical/clinical narrative about kava remains dominant. "
+DDI-MedLine.d157.s6,"This case study explores the influence of these cultural, social, and political factors on the production of scientific knowledge and the assessment of benefit/risk posed by comestibles."
+DDI-MedLine.d207.s0,"Approach to the evaluation of a patient with an increased serum osmolal gap and high-anion-gap metabolic acidosis.
+"
+DDI-MedLine.d207.s1,"An increase in serum osmolality and serum osmolal gap with or without high-anion-gap metabolic acidosis is an important clue to exposure to one of the toxic alcohols, which include methanol, ethylene glycol, diethylene glycol, propylene glycol, or isopropanol. "
+DDI-MedLine.d207.s2,"However, the increase in serum osmolal gap and metabolic acidosis can occur either together or alone depending on several factors, including baseline serum osmolal gap, molecular weight of the alcohol, and stage of metabolism of the alcohol. "
+DDI-MedLine.d207.s3,"In addition, other disorders, including diabetic or alcoholic ketoacidosis, acute kidney injury, chronic kidney disease, and lactic acidosis, can cause high-anion-gap metabolic acidosis associated with an increased serum osmolal gap and therefore should be explored in the differential diagnosis. "
+DDI-MedLine.d207.s4,It is essential for clinicians to understand the value and limitations of osmolal gap to assist in reaching the correct diagnosis and initiating appropriate treatment. 
+DDI-MedLine.d207.s5,"In this teaching case, we present a systematic approach to diagnosing high serum osmolality and increased serum osmolal gap with or without high-anion-gap metabolic acidosis."
+DDI-MedLine.d150.s0,"Network neighbors of drug targets contribute to drug side-effect similarity.
+"
+DDI-MedLine.d150.s1,"In pharmacology, it is essential to identify the molecular mechanisms of drug action in order to understand adverse side effects. "
+DDI-MedLine.d150.s2,These adverse side effects have been used to infer whether two drugs share a target protein. 
+DDI-MedLine.d150.s3,"However, side-effect similarity of drugs could also be caused by their target proteins being close in a molecular network, which as such could cause similar downstream effects. "
+DDI-MedLine.d150.s4,"In this study, we investigated the proportion of side-effect similarities that is due to targets that are close in the network compared to shared drug targets. "
+DDI-MedLine.d150.s5,"We found that only a minor fraction of side-effect similarities (5.8 %) are caused by drugs targeting proteins close in the network, compared to side-effect similarities caused by overlapping drug targets (64%). "
+DDI-MedLine.d150.s6,"Moreover, these targets that cause similar side effects are more often in a linear part of the network, having two or less interactions, than drug targets in general. "
+DDI-MedLine.d150.s7,"Based on the examples, we gained novel insight into the molecular mechanisms of side effects associated with several drug targets. "
+DDI-MedLine.d150.s8,"Looking forward, such analyses will be extremely useful in the process of drug development to better understand adverse side effects."
+DDI-MedLine.d188.s0,"It makes scents.
+"
+DDI-MedLine.d188.s1,"Aromatherapy, and the claims made for it, is the subject of the second article in our six-part series on alternative and complementary therapies."
+DDI-MedLine.d151.s0,"[Seniors and cardiovascular medications].
+"
+DDI-MedLine.d151.s1,Authors analyze the situation in the therapy of cardiovascular diseases--unsatisfactory situation especially from the dyslipidaemia point of view. 
+DDI-MedLine.d151.s2,Different groups of medications are discussed and their risks for elderly patients. 
+DDI-MedLine.d151.s3,"Angiotensin converting enzyme blockers and their influence on the endothelial dysfunction, but the risk of hyperpotassemia are showed. "
+DDI-MedLine.d151.s4,"The risk of gastrointestinal bleeding during the treatment with antiagregants and anticoagulants, the risk of bradycardia in beta-blockade, possible interactions with other medications lowering the heart rate are discussed. "
+DDI-MedLine.d151.s5,"Attention is paid to calcium channel blockers, diuretics and digoxin. "
+DDI-MedLine.d151.s6,The table containing possible clinical symptoms of unwanted side effect of most frequently used cardiovascular medications in elderly is added as the conclusion of the article.
+DDI-MedLine.d173.s0,"[Medical treatment of tuberculosis - update 2011].
+"
+DDI-MedLine.d173.s1,Tuberculosis is the second most common cause of death from an infectious disease after HIV/AIDS and the leading cause of death from an infectious disease in HIV-co-infected patients. 
+DDI-MedLine.d173.s2,"Currently, drug susceptible TB is treated with a four drug regimen given over a period of two months followed by two drugs for four months. "
+DDI-MedLine.d173.s3,Drug resistant tuberculosis requires more complex and longer treatment with alternative substances. 
+DDI-MedLine.d173.s4,New antituberculosis drugs are currently being developed and investigated and are urgently needed to treat drug susceptible and drug resistant TB.
+DDI-MedLine.d219.s0,"[Tuberculosis and HIV - features of the co-infection].
+"
+DDI-MedLine.d219.s1,The human immunodeficiency virus (HIV) epidemic has allowed the incidence of tuberculosis to rise globally and particularly in sub-Saharan Africa. 
+DDI-MedLine.d219.s2,Diagnosis and treatment of tuberculosis is more complex in patients with HIV/AIDS. 
+DDI-MedLine.d219.s3,"Sputum smear microscopy is performing poorly in HIV-infected individuals, who are often started on antituberculosis treatment on clinical grounds. "
+DDI-MedLine.d219.s4,The treatment of coinfected patients requires antituberculosis and antiretroviral drugs to be administered concomittantly; 
+DDI-MedLine.d219.s5,"challenges include pill burden and patient compliance, drug interactions, overlapping toxic effects, and immune reconstitution inflammatory syndrome. "
+DDI-MedLine.d219.s6,Current guidelines recommend starting antiretroviral treatment within a few weeks of antituberculosis therapy for patients with CD4 cell counts
+DDI-MedLine.d219.s7,350 cells/ul.
+DDI-MedLine.d187.s0,"[Variability of cannabinoid findings in blood].
+"
+DDI-MedLine.d187.s1,Cannabis products have been administered for many centuries; 
+DDI-MedLine.d187.s2,"today, cannabis is the most widely used illegal drug all over the world. "
+DDI-MedLine.d187.s3,"Nevertheless, the interpretation of cannabis findings in blood with regard to consumption behaviour and/or estimating the elapsed time since the last cannabis use is still a very challenging task. "
+DDI-MedLine.d187.s4,A wide variation of pharmacokinetic parameters has been observed even in experimental studies. 
+DDI-MedLine.d187.s5,"Different chemical structures of precursors, smoking dynamics, pyrolysis of phytocannabinoids and frequency of drug use affect the amount of THC absorbed. "
+DDI-MedLine.d187.s6,Polymorphic enzymes are involved in phase-I-metabolism of THC. 
+DDI-MedLine.d187.s7,Pharmacological effects of other cannabinoids or medication on the pharmacokinetics of THC have not yet been studied in detail. 
+DDI-MedLine.d187.s8,Hydrolysis of cannabis conjugates may occur during storage of blood samples and processing of specimens for analysis; 
+DDI-MedLine.d187.s9,knowledge on the stability of cannabinoids in forensic specimens is still poor. 
+DDI-MedLine.d187.s10,Whether determination of cannabinoid conjugates may be useful is a matter of further consideration. 
+DDI-MedLine.d187.s11,"At present, the broad variation of pharmacokinetic parameters and the limiting factors discussed in the present paper should be taken into account when using data from experimental studies for interpretation of analytical results in forensic case work."
+DDI-MedLine.d148.s0,"A circadian clock in hippocampus is regulated by interaction between oligophrenin-1 and Rev-erb  .
+Oligophrenin-1 regulates dendritic spine morphology in the brain. "
+DDI-MedLine.d148.s1,Mutations in the oligophrenin-1 gene (OPHN1) cause intellectual disability. 
+DDI-MedLine.d148.s2,"We discovered a previously unknown partner of oligophrenin-1, Rev-erb  , a nuclear receptor that represses the transcription of circadian oscillators. "
+DDI-MedLine.d148.s3,"We found that oligophrenin-1 interacts with Rev-erb   in the mouse brain, causing it to locate to dendrites, reducing its repressor activity and protecting it from degradation. "
+DDI-MedLine.d148.s4,"Our results indicate the presence of a circadian oscillator in the hippocampus, involving the clock gene Bmal1 (also known as Arntl), that is modulated by Rev-erb   and requires oligophrenin-1 for normal oscillation. "
+DDI-MedLine.d148.s5,"We also found that synaptic activity induced Rev-erb   localization to dendrites and spines, a process that is mediated by AMPA receptor activation and requires oligophrenin-1. "
+DDI-MedLine.d148.s6,"Our data reveal new interactions between synaptic activity and circadian oscillators, and delineate a new means of communication between nucleus and synapse that may provide insight into normal plasticity and the etiology of intellectual disability."
+DDI-MedLine.d158.s0,"Combining chondroitinase ABC and growth factors promotes the integration of murine retinal progenitor cells transplanted into Rho(-/-) mice.
+"
+DDI-MedLine.d158.s1,The aim of this study is to investigate the synergistic effect of chondroitinase ABC and growth factors in the integration of murine retinal progenitor cells (mRPCs) transplanted into Rho(-/-) mice.
+DDI-MedLine.d158.s2,mRPCs from P1 green fluorescent protein-transgenic mice were isolated and expanded for transplantation. 
+DDI-MedLine.d158.s3,"All mRPCs of 20 passages or less were transplanted into the subretinal space of B6 mice together with chondroitinase ABC, and into Rho(-/-) mice combined with chondroitinase ABC, N-[N-(3, 5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl ester (DAPT), and insulin growth factor (IGF)-1. "
+DDI-MedLine.d158.s4,Cell counts were used to examine the migration and survival rate of mRPCs in B6 mice. 
+DDI-MedLine.d158.s5,Immunohistochemistry was used to evaluate the differentiation and integration of mRPCs in B6 and Rho(-/-) mice. 
+DDI-MedLine.d158.s6,Our results show that substantial numbers of mRPCs migrated and survived in the retina when transplanted with chondroitinase ABC into B6 and Rho(-/-) mice. 
+DDI-MedLine.d158.s7,Chondroitinase ABC disrupted the glial scar around the mRPCs in the subretinal space. 
+DDI-MedLine.d158.s8,Only a few mRPCs expressed recoverin in B6 mice. 
+DDI-MedLine.d158.s9,"More mRPCs expressed rhodopsin, recoverin, and synaptophysin after transplantation into Rho(-/-) mice when combined with chondroitinase ABC and growth factors. "
+DDI-MedLine.d158.s10,The synergistic effect of chondroitinase ABC and growth factors facilitates the anatomic integration of mRPCs transplanted into Rho(-/-) mice.
+DDI-MedLine.d175.s0,"Unrecognized fatalities related to colchicine in hospitalized patients.
+"
+DDI-MedLine.d175.s1,Colchicine is commonly used for the treatment of gout and occasionally for other inflammatory diseases. 
+DDI-MedLine.d175.s2,It has a narrow therapeutic index and the potential for severe or fatal toxicity.
+DDI-MedLine.d175.s3,"We sought to determine (1) the frequency of colchicine toxicity among hospitalized patients taking colchicine who died during an admission, (2) the likelihood that colchicine contributed to death, (3) whether patients were taking interacting medications that could have contributed to toxicity, and (4) whether colchicine dosing among these patients adhered to established guidelines. "
+DDI-MedLine.d175.s4,"We conducted an IRB-approved, retrospective chart review at an urban, tertiary care, 1228-bed, university hospital. "
+DDI-MedLine.d175.s5,Subjects included hospitalized patients who received colchicine and died in hospital between 1 January 2000 and 28 February 2007. 
+DDI-MedLine.d175.s6,We reviewed charts for signs and symptoms of colchicine toxicity. 
+DDI-MedLine.d175.s7,"An expert panel reviewed each case and classified the likelihood of colchicine toxicity, the likelihood of a causal role of colchicine in the death using the WHO classification system, and the appropriateness of colchicine dosing. "
+DDI-MedLine.d175.s8,Thirty-seven hospitalized patients who died during the 86-month study period received colchicine. 
+DDI-MedLine.d175.s9,"Toxicity was unlikely in 20/37, possible in 8/37, likely in 5/37, and certain in 4/37. "
+DDI-MedLine.d175.s10,"A contributing role for colchicine in causing death was unlikely in 24/37, possible in 7/37, likely in 3/37, and certain in 3/37. "
+DDI-MedLine.d175.s11,"Colchicine doses (based on creatinine clearance) exceeded the accepted range for 12 patients, including 10 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. "
+DDI-MedLine.d175.s12,"Seventeen patients received interacting medications, including 8 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. "
+DDI-MedLine.d175.s13,Colchicine toxicity was frequent in this cohort and may have contributed to about one-third of the deaths. 
+DDI-MedLine.d175.s14,Inappropriate dosing of colchicine occurred frequently and was related to toxicity and death.
+DDI-MedLine.d192.s0,Identification of a dopamine receptor-mediated opiate reward memory switch in the basolateral amygdala-nucleus accumbens circuit.
+DDI-MedLine.d192.s1,"The basolateral amygdala (BLA), ventral tegmental area (VTA), and nucleus accumbens (NAc) play central roles in the processing of opiate-related associative reward learning and memory. "
+DDI-MedLine.d192.s2,"The BLA receives innervation from dopaminergic fibers originating in the VTA, and both dopamine (DA) D1 and D2 receptors are expressed in this region. "
+DDI-MedLine.d192.s3,"Using a combination of in vivo single-unit extracellular recording in the NAc combined with behavioral pharmacology studies, we have identified a double dissociation in the functional roles of DA D1 versus D2 receptor transmission in the BLA, which depends on opiate exposure state; "
+DDI-MedLine.d192.s4,"thus, in previously opiate-naive rats, blockade of intra-BLA D1, but not D2, receptor transmission blocked the acquisition of associative opiate reward memory, measured in an unbiased conditioned place preference procedure. "
+DDI-MedLine.d192.s5,"In direct contrast, in rats made opiate dependent and conditioned in a state of withdrawal, intra-BLA D2, but not D1, receptor blockade blocked opiate reward encoding. "
+DDI-MedLine.d192.s6,This functional switch was dependent on cAMP signaling as comodulation of intra-BLA cAMP levels reversed or replicated the functional effects of intra-BLA D1 or D2 transmission during opiate reward processing. 
+DDI-MedLine.d192.s7,Single-unit in vivo extracellular recordings performed in neurons of the NAc confirmed an opiate-state-dependent role for BLA D1/D2 transmission in NAc neuronal response patterns to morphine. 
+DDI-MedLine.d192.s8,Our results characterize and identify a novel opiate addiction switching mechanism directly in the BLA that can control the processing of opiate reward information as a direct function of opiate exposure state via D1 or D2 receptor signaling substrates.
+DDI-MedLine.d232.s0,"Stroke prevention in atrial fibrillation: current status and near-future directions.
+"
+DDI-MedLine.d232.s1,Prevention of atrial fibrillation-related stroke is an important part of atrial fibrillation management. 
+DDI-MedLine.d232.s2,"However, stroke risk is not homogeneous and varies with associated morbidities and risk factors. "
+DDI-MedLine.d232.s3,Risk stratification schemes have been developed that categorize patients' stroke risk into classes based on a combination of risk factors. 
+DDI-MedLine.d232.s4,"According to the calculated level of risk, guidelines recommend patients with atrial fibrillation receive antithrombotic therapy either as a vitamin K antagonist or aspirin. "
+DDI-MedLine.d232.s5,"Despite recommendations, however, many patients with atrial fibrillation do not receive adequate thromboprophylaxis. "
+DDI-MedLine.d232.s6,"We will discuss some of the underlying reasons, in part related to the drawbacks associated with vitamin K antagonists. "
+DDI-MedLine.d232.s7,These highlight the need for new anticoagulants in atrial fibrillation. 
+DDI-MedLine.d232.s8,The novel oral anticoagulants in development may overcome some of the limitations of vitamin K antagonists and address their underuse and safety concerns.
+DDI-MedLine.d155.s0,"The role of interneurons in shaping Purkinje cell responses in the cerebellar cortex.
+"
+DDI-MedLine.d155.s1,The well established anatomy of the cerebellar cortex has led to suggestions that cerebellar molecular layer interneurons laterally inhibit Purkinje cells. 
+DDI-MedLine.d155.s2,"In support of the anatomical predictions, on-beam excitation and off-beam inhibition of Purkinje cells have been shown to occur when the surface of the cerebellum is electrically excited. "
+DDI-MedLine.d155.s3,Patchy excitation of Purkinje cells with flanking inhibition of sagittally oriented Purkinje cells have also been demonstrated following peripheral stimulation in vivo. 
+DDI-MedLine.d155.s4,"To extend these observations, we mapped the functional connectivity between granule cells, molecular layer interneurons, and Purkinje cells in rats. "
+DDI-MedLine.d155.s5,Patches of granule cells were asynchronously activated by photostimulation to mimic their excitation by a mossy fiber as it occurs in vivo. 
+DDI-MedLine.d155.s6,"We found with remarkable consistency that, in the sagittal orientation, granule cells elicit a stereotypic set of responses. "
+DDI-MedLine.d155.s7,Granule cells immediately underneath a Purkinje cell provide pure excitation. 
+DDI-MedLine.d155.s8,"Granule cells positioned 340-400   m laterally provided pure inhibition, consistent with the lateral inhibition proposed earlier. "
+DDI-MedLine.d155.s9,"The net effect of exciting granule cells in between these two extremes was to provide a systematic change in the response of Purkinje cells, from net excitation to net inhibition moving laterally from the Purkinje cell. "
+DDI-MedLine.d155.s10,"In contrast to the sagittal orientation, in the coronal orientation the organization of Purkinje cell responses with granule cell activation was remarkably different. "
+DDI-MedLine.d155.s11,"Independent of the location of granule cells, within the 480   m lateral distance examined, molecular layer interneurons reduced the strength of granule cell inputs to Purkinje cells to a comparable extent."
+DDI-MedLine.d191.s0,"[Study on synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation on cisplatin].
+"
+DDI-MedLine.d191.s1,The synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation (MWCHCP) on cisplatin were investigated in sarcoma 180 (S180) mice.
+DDI-MedLine.d191.s2,"The S180 mice were treated for 5 days with intraperitoneal injection of cisplatin(7.33 mg x kg(-1)) and oral administration of MWCHCP(1 925, 3 850, 7 700 mg x kg(-1)). "
+DDI-MedLine.d191.s3,"Then the mice were killed and the tumor growth inhibition rate, organ index, diarrhea index were determined. "
+DDI-MedLine.d191.s4,Observe pathological sections of stomach to study the protective effect of MWCHCP. 
+DDI-MedLine.d191.s5,Reverse transcription-polymerase chain reaction (RT-PCR) was applied to investigate the tumour necrosis factor-alpha (TNF-alpha) expression level of the intestine. 
+DDI-MedLine.d191.s6,"Combining with cisplatin and MWCHCP caused a tendency of increasing the tumor growth inhibition rate and significant attenution of cisplatin-induced diarrhea, visceral organ injury, gastric mucosal injury and decreased TNF-alpha mRNA level of intestine. "
+DDI-MedLine.d191.s7,The present findings suggest that MWCHCP increases the inhibition rate of tumor growth of cisplatin and has a beneficial influence on gastrointestinal lesion induced by cisplatin.
+DDI-MedLine.d183.s0,"Neuropharmacological approach against MPTP (1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine)-induced mouse model of Parkinson's disease.
+"
+DDI-MedLine.d183.s1,Parkinson's disease (PD) is a common neurodegenerative disease that appears essentially as a sporadic condition. 
+DDI-MedLine.d183.s2,PD is well known to be a chronic and progressive neurodegenerative disease produced by a selective degeneration of dopaminergic neurons in the substantia nigra pars compacta. 
+DDI-MedLine.d183.s3,"The main clinical features of PD include tremor, bradykinesia, rigidity and postural instability. "
+DDI-MedLine.d183.s4,"Most insights into pathogenesis of PD come from investigations performed in experimental models of PD, especially those produced by neurotoxins. "
+DDI-MedLine.d183.s5,"The biochemical and cellular alterations that occur after 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment are remarkably similar to that observed in idiopathic PD. "
+DDI-MedLine.d183.s6,"Furthermore, it is well known that acute treatment with MPTP can cause a severe loss of tyrosine hydroxylase and dopamine transporter protein levels and dopamine contents in the striatum of mice, as compared to continuous MPTP treatment. "
+DDI-MedLine.d183.s7,Thus these findings may support the validity of acute MPTP treatment model for unraveling in the neurodegenerative processes in PD. 
+DDI-MedLine.d183.s8,"In this review, we discuss the neuroprotective effects of various compounds against neuronal cell loss in an MPTP model of PD. "
+DDI-MedLine.d183.s9,This review may lead to a much better understanding of PD as well as provide novel clues to new targets for therapeutic interventions in PD patients.
+DDI-MedLine.d225.s0,"Pharmacological drugs inducing ototoxicity, vestibular symptoms and tinnitus: a reasoned and updated guide.
+"
+DDI-MedLine.d225.s1,"The present work on drug-induced ototoxicity, tinnitus and vertigo represents the update and revision of a previous guide to adverse drug reactions for italian physicians (2005). "
+DDI-MedLine.d225.s2,"The panorama of drug-induced side effects causing ototoxicity or symptoms such as tinnitus or dizziness and vertigo has enlarged in recent years, thanks to a better knowledge and a more specific attention of pharmaceutical firms and drug-control institutions. "
+DDI-MedLine.d225.s3,"In daily clinical practice, there is a need for the family physician and the ENT specialist or audiologist (also in consideration of the possible medico-legal implications) to focus the attention on the possible risk of otological side effects. "
+DDI-MedLine.d225.s4,"This would allow a clinical risk-benefit evaluation, weighing the possible clinical advantage in their field of competence against possible otological side-effects. "
+DDI-MedLine.d225.s5,"The list of active ingredients and drugs is subdivided in categories based on their audiological and otoneurological side-effects, that have been signaled by the drug companies and/or ministerial notes. "
+DDI-MedLine.d225.s6,"Drugs have also been subcategorized with regards to the field in which they are applied, the therapeutic indications and the clinical behaviour. "
+DDI-MedLine.d225.s7,"They have also been organized in alphabetical order, for an easier consultation. "
+DDI-MedLine.d225.s8,"The guide above, even if initially conceived for being used in Italy, also presents a more general and international interest, expecially as for as the concepts of pharmacology and the features of the active ingredients are concerned. "
+DDI-MedLine.d225.s9,"The guide is, therefore, useful as for as we are concerned to any physician, regardless of the country he/she operates in."
+DDI-MedLine.d149.s0,"[Protective effects of ginseng-ginko extracts combination on rat primary cultured neurons induced by Abeta(1-40)].
+"
+DDI-MedLine.d149.s1,To observe the injury in rat primary cultured neurons induced by Abeta(1-40) and the protective effects of combination of ginseng and ginko extracts.
+DDI-MedLine.d149.s2,Primary neurons were induced by Abeta(1-40) to establish the cell model of toxic injury. 
+DDI-MedLine.d149.s3,"Using flow cytometry with Annexin V-FITC/PI double staining, MTP assay, transmission electron microscopy and Western blot, the appropriate concentration and duration of AP for cell model establishment were determined. "
+DDI-MedLine.d149.s4,"The effects of extracts of ginseng and ginko (EGGB) on cellular proliferative activity, apoptotic rate, ultrastructure and caspase-3 expression were detected. "
+DDI-MedLine.d149.s5,The apoptotic rate was increased significantly after neurons were induced by 1 micromol x L(-1) Abeta(-40) for 24 h (P < 0.01). 
+DDI-MedLine.d149.s6,"EGGB (5, 50 mg L(-1)) significantly enhanced the proliferative activity (P < 0.05). "
+DDI-MedLine.d149.s7,"Meanwhile, EGGB (50 mg L(-1)) inhibited neuronal apoptosis and caspase-3 overexpression and improved cellular ultrastructure remarkably (P < 0.05, P < 0.01). "
+DDI-MedLine.d149.s8,Abeta(1-40) could significantly induce primary cultured neurons to apoptosis in vitro. 
+DDI-MedLine.d149.s9,"EGGB showed beneficial neuroprotective effects against neuronal apoptosis, which might be due to improving the structures of neuron and its subcellular organelles, enhancing cellular proliferative activity and inhibiting caspase-3 overexpression in neurons."
+DDI-MedLine.d162.s0,"Placebo effect in patients with irritable bowel syndrome.
+"
+DDI-MedLine.d162.s1,The placebo effect has evolved from being considered a nuisance factor in clinical research to a hot topic of scientific investigation. 
+DDI-MedLine.d162.s2,New research findings show that a placebo has real psychobiological and biological effects that are attributable to the overall therapeutic context. 
+DDI-MedLine.d162.s3,Irritable bowel syndrome (IBS) is a functional disorder of the gastrointestinal tract that shows a significant placebo response of around 40   50% among different clinical trials.A positive patient-practitioner relationship can enhance the placebo effect in IBS patients.
+DDI-MedLine.d162.s4,"Emerging literature using functional brain imaging has started to document the neuronal changes associated with the placebo phenomenon in IBS patients, showing aberrant neural network during visceral placebo analgesia when compared to controls. "
+DDI-MedLine.d162.s5,Further promotion and integration of laboratory and clinical research are encouraged to advance the understanding of placebo mechanisms in IBS patients.
+DDI-MedLine.d203.s0,"Potential underuse, overuse, and inappropriate use of antidepressants in older veteran nursing home residents.
+"
+DDI-MedLine.d203.s1,"To examine prevalence and resident- and site-level factors associated with potential underuse, overuse, and inappropriate use of antidepressants in older Veterans Affairs (VA) Community Living Center (CLC) residents."
+DDI-MedLine.d203.s2,Longitudinal study. 
+DDI-MedLine.d203.s3,One hundred thirty-three VA CLCs. 
+DDI-MedLine.d203.s4,"Three thousand six hundred ninety-two veterans aged 65 and older admitted between January 1, 2004, and June 3, 2005, with long stays (    90 days). "
+DDI-MedLine.d203.s5,"Prevalence of potential underuse, inappropriate use, and overuse of antidepressants in residents with and without depression (as documented according to International Classification of Diseases, Ninth Revision, Clinical Modification, codes or Depression Rating Scale). "
+DDI-MedLine.d203.s6,Selective serotonin reuptake inhibitors were the most commonly prescribed antidepressant. 
+DDI-MedLine.d203.s7,"Of the 877 residents with depression, 25.4% did not receive an antidepressant, suggesting potential underuse. "
+DDI-MedLine.d203.s8,"Of residents with depression who received antidepressants, 57.5% had potential inappropriate use due primarily to problems seen with drug-drug and drug-disease interactions. "
+DDI-MedLine.d203.s9,"Of the 2,815 residents who did not have depression, 1,190 (42.3%) were prescribed one or more antidepressants; "
+DDI-MedLine.d203.s10,"only 48 (4.0%) of these had a Food and Drug Administration-approved labeled indication, suggesting potential overuse. "
+DDI-MedLine.d203.s11,"Overall, only 17.6% of antidepressant use was appropriate (324/1,844). "
+DDI-MedLine.d203.s12,"The only consistent resident factor associated with potential underuse and overuse use was taking an antipsychotic without evidence of schizophrenia (underuse: adjusted relative risk ratio (ARRR)=0.56, 95% confidence interval (CI)=0.33-0.94; overuse: adjusted odds ratio=1.52, 95% CI=1.21-1.91). "
+DDI-MedLine.d203.s13,"Having moderate to severe pain (ARRR=1.54, 95% CI=1.08-2.20) and the prescribing of an anxiolytic or hypnotic (ARRR=1.33, 95% CI=1.02-1.74) increased the risk of potential inappropriate antidepressant use. "
+DDI-MedLine.d203.s14,Potential problems with the use of antidepressants were frequently observed in older U.S. 
+DDI-MedLine.d203.s15,veteran CLC residents. 
+DDI-MedLine.d203.s16,Future studies are needed to examine the true risks and benefits of antidepressant use in CLC and non-VA nursing homes.
+DDI-MedLine.d167.s0,"Opportunities and challenges in the development of experimental drug combinations for cancer.
+"
+DDI-MedLine.d167.s1,It is becoming increasingly evident that cancers are dependent on a number of altered molecular pathways and can develop diverse mechanisms of resistance to therapy with single agents. 
+DDI-MedLine.d167.s2,"Therefore, combination regimens may provide the best hope for effective therapies with durable effects. "
+DDI-MedLine.d167.s3,"Despite preclinical data to support this notion, there are many challenges to the development of targeted combinations including scientific, economic, legal, and regulatory barriers. "
+DDI-MedLine.d167.s4,A discussion of these challenges and identification of models and best practices are presented with intent of aiding the research community in addressing real and perceived barriers to the development of combination therapies for cancer.
+DDI-MedLine.d226.s0,[Does implementation of benchmarking in quality circles improve the quality of care of patients with asthma and reduce drug interaction ].
+DDI-MedLine.d226.s1,The purpose of this cluster-randomised controlled trial was to evaluate the efficacy of quality circles (QCs) working either with general data-based feedback or with an open benchmark within the field of asthma care and drug-drug interactions.
+DDI-MedLine.d226.s2,"Twelve QCs, involving 96 general practitioners from 85 practices, were randomised. "
+DDI-MedLine.d226.s3,Six QCs worked with traditional anonymous feedback and six with an open benchmark. 
+DDI-MedLine.d226.s4,"Two QC meetings supported with feedback reports were held covering the topics ""drug-drug interactions"""
+DDI-MedLine.d226.s5,"and ""asthma"";"
+DDI-MedLine.d226.s6,in both cases discussions were guided by a trained moderator. 
+DDI-MedLine.d226.s7,"Outcome measures included health-related quality of life and patient satisfaction with treatment, asthma severity and number of potentially inappropriate drug combinations as well as the general practitioners' satisfaction in relation to the performance of the QC. "
+DDI-MedLine.d226.s8,A significant improvement in the treatment of asthma was observed in both trial arms. 
+DDI-MedLine.d226.s9,"However, there was only a slight improvement regarding inappropriate drug combinations. "
+DDI-MedLine.d226.s10,There were no relevant differences between the group with open benchmark (B-QC) and traditional quality circles (T-QC). 
+DDI-MedLine.d226.s11,The physicians' satisfaction with the QC performance was significantly higher in the T-QCs. 
+DDI-MedLine.d226.s12,General practitioners seem to take a critical perspective about open benchmarking in quality circles. 
+DDI-MedLine.d226.s13,Caution should be used when implementing benchmarking in a quality circle as it did not improve healthcare when compared to the traditional procedure with anonymised comparisons.
+DDI-MedLine.d168.s0,"Spontaneous spiking and synaptic depression underlie noradrenergic control of feed-forward inhibition.
+"
+DDI-MedLine.d168.s1,"Inhibitory interneurons across diverse brain regions commonly exhibit spontaneous spiking activity, even in the absence of external stimuli. "
+DDI-MedLine.d168.s2,It is not well understood how stimulus-evoked inhibition can be distinguished from background inhibition arising from spontaneous firing. 
+DDI-MedLine.d168.s3,We found that noradrenaline simultaneously reduced spontaneous inhibitory inputs and enhanced evoked inhibitory currents recorded from principal neurons of the mouse dorsal cochlear nucleus (DCN). 
+DDI-MedLine.d168.s4,"Together, these effects produced a large increase in signal-to-noise ratio for stimulus-evoked inhibition. "
+DDI-MedLine.d168.s5,"Surprisingly, the opposing effects on background and evoked currents could both be attributed to noradrenergic silencing of spontaneous spiking in glycinergic interneurons. "
+DDI-MedLine.d168.s6,"During spontaneous firing, glycine release was decreased due to strong short-term depression. "
+DDI-MedLine.d168.s7,Elimination of background spiking relieved inhibitory synapses from depression and thereby enhanced stimulus-evoked inhibition. 
+DDI-MedLine.d168.s8,Our findings illustrate a simple yet powerful neuromodulatory mechanism to shift the balance between background and stimulus-evoked signals.
+DDI-MedLine.d224.s0,"The influence of chemical activation on tooth bleaching using 10% carbamide peroxide.
+"
+DDI-MedLine.d224.s1,"The aim of this study was to assess the influence of manganese gluconate, a chemical activator of bleaching agents, at a concentration of 0.01% on the efficiency of a 10% carbamide peroxide-based bleaching agent. "
+DDI-MedLine.d224.s2,Forty bovine incisors were immersed in a 25% instant coffee solution for seven days and randomly divided into two groups. 
+DDI-MedLine.d224.s3,Group 1 was the control group and consisted of 10% carbamide peroxide-based bleaching gel only. 
+DDI-MedLine.d224.s4,Group 2 consisted of 10% carbamide peroxide-based bleaching gel and 0.01% manganese gluconate. 
+DDI-MedLine.d224.s5,"Three readings of color were taken using the Vita Easyshade spectrophotometer: the initial reading, a reading at seven days, and a reading at 14 days. "
+DDI-MedLine.d224.s6,Total color variation was calculated by   E*Lab. 
+DDI-MedLine.d224.s7,"Data were submitted to the statistical t-test (5%), which showed that after seven days group 2 had a significant increase in the degree of tooth bleaching compared with group 1. "
+DDI-MedLine.d224.s8,The mean values (  SD) were 16.33 (  3.95) for group 1 and 19.29 (  4.97) for group 2. 
+DDI-MedLine.d224.s9,"However, the results for group 1 and group 2 were similar after 14 days. "
+DDI-MedLine.d224.s10,Adding 0.01% manganese gluconate to 10% carbamide peroxide bleaching gel increased the degree of tooth bleaching after a seven-day treatment and did not influence the resulting shade after 14 days.
+DDI-MedLine.d177.s0,"[Polypharmacy and drug interactions].
+"
+DDI-MedLine.d177.s1,The growing consumption of drugs and other numerous factors relates to the increasing incidence of polypharmacy. 
+DDI-MedLine.d177.s2,The proportion of patients currently treated with 5 or more medicines at the elderly population in particular is 30-60% of patients. 
+DDI-MedLine.d177.s3,"Repeatedly has been proven the dependence between the number of concomitant drugs and occurrence of adverse effects, patients requiring hospitalization, or incidence of moderate and serious drug interactions. "
+DDI-MedLine.d177.s4,"Some works show that it is possible to satisfactorily address the issues of polypharmacy, but it requires great courage and an interdisciplinary approach involving modern information technology."
+DDI-MedLine.d144.s0,"Older adults with multi-morbidity: medication management processes and design implications for personal health applications.
+"
+DDI-MedLine.d144.s1,Older adults often have multiple chronic problems requiring them to manage complex medication regimens overseen by various clinicians. 
+DDI-MedLine.d144.s2,"Personal health applications (PHAs) show promise assisting in medication self-management, but adoption of new computer technologies by this population is challenging. "
+DDI-MedLine.d144.s3,"Optimizing the utility of PHAs requires a thorough understanding of older adults' needs, preferences, and practices."
+DDI-MedLine.d212.s0,"Improvement of colchicine oral bioavailability by incorporating eugenol in the nanoemulsion as an oil excipient and enhancer.
+"
+DDI-MedLine.d212.s1,The effect of eugenol on colchicine transport across an isolated rat intestinal membrane was studied using an in vitro diffusion chamber system. 
+DDI-MedLine.d212.s2,We found that eugenol increased the absorptive transport of the drug efficiently. 
+DDI-MedLine.d212.s3,The effect of eugenol on intestinal absorption of colchicine in an oral administrative nanoemulsion formulation was also demonstrated in vivo. 
+DDI-MedLine.d212.s4,"The colchicine nanoemulsion was prepared with isopropyl myristate, eugenol, Tween80, ethanol and water, and eugenol was used as an oil phase in the formulation; "
+DDI-MedLine.d212.s5,an average particle size of this nanoemulsion was 41.2    7.2 nm. 
+DDI-MedLine.d212.s6,The permeation of colchicine in the nanoemulsion across the intestinal membrane was significantly different from that of the control group (0.2 mM colchicine). 
+DDI-MedLine.d212.s7,"Finally, co-administration of eugenol in colchicine nanoemulsion to enhance the colchicine bioavailability was investigated by an oral administration method. "
+DDI-MedLine.d212.s8,"After oral administration of colchicine (8 mg/kg) in the form of either the nanoemulsion or in free colchicine solution, the relative bioavailability of nanoemulsion and eugenol-nanoemulsion were enhanced by about 1.6- and 2.1-fold, respectively, compared with free colchicine solution. "
+DDI-MedLine.d212.s9,The procedure indicated that the intestinal absorption of colchicine was enhanced significantly by eugenol in the tested nanoemulsion. 
+DDI-MedLine.d212.s10,All the results suggested that eugenol is an efficient component in an oral administrative formulation for improving the intestinal absorption of colchicine.
+DDI-MedLine.d220.s0,"Evaluation of hepatic clearance and drug-drug interactions of luteolin and apigenin by using primary cultured rat hepatocytes.
+"
+DDI-MedLine.d220.s1,The hepatic clearance and drug-drug interactions of luteolin and apigenin were studied by using primary cultured rat hepatocytes. 
+DDI-MedLine.d220.s2,Luteolin and apigenin experienced extensive first-pass metabolism. 
+DDI-MedLine.d220.s3,The elimination percent of luteolin and apigenin was found to be 91.9% and 86.7% after 120 min of incubation. 
+DDI-MedLine.d220.s4,"The predicted % liver blood flow was 82.3% and 85.4% for luteolin and apigenin, respectively. "
+DDI-MedLine.d220.s5,Total glucuronidated/sulfated conjugates of luteolin/apigenin were determined by an enzyme hydrolysis method. 
+DDI-MedLine.d220.s6,"Compared with the elimination of pure luteolin and apigenin, the elimination of luteolin and apigenin was much lower in hydrolyzed Flos Chrysanthemi extract (FCE) containing comparable amounts of luteolin and apigenin. "
+DDI-MedLine.d220.s7,"The effect of a series of flavonoids, including flavonols, flavones, isoflavone, flavanone, flavanonols and catechins, on the elimination of luteolin and apigenin was studied. "
+DDI-MedLine.d220.s8,"At least four key determinants in the chemical structures of flavonoids are necessary for exerting the inhibitory effects on the conjugation: 1) catechol structure (3',4'-dihydroxylation) in the B-ring; "
+DDI-MedLine.d220.s9,2) B-ring is attached to the C-2 position on the C-ring; 
+DDI-MedLine.d220.s10,3) the C2-3 double bond in conjunction with the C4 carbonyl group on the C-ring; 
+DDI-MedLine.d220.s11,4) no glycoside present. 
+DDI-MedLine.d220.s12,"Investigation of clearance and interaction among flavonoids could help us better understand their bioavailability and offer insight into the approaches to be taken to minimize competitive effects, and to design appropriate bioavailability studies in humans."
+DDI-MedLine.d228.s0,"Pulmonary tuberculosis: clinical features and patient management.
+"
+DDI-MedLine.d228.s1,"Pulmonary tuberculosis (TB) is a common infectious disease and a major cause of illness and death throughout the world, particularly in developing countries. "
+DDI-MedLine.d228.s2,"This article explores the difference between latent TB infection and active TB disease, and discusses the pharmacological management of TB and issues around adherence to medication. "
+DDI-MedLine.d228.s3,Although TB is usually managed by specialist teams it is essential that all practitioners have an understanding of the signs and symptoms of the disease to ensure early referral and accurate diagnosis.
+DDI-MedLine.d230.s0,"Effects of neferine on the pharmacokinetics of amiodarone in rats.
+"
+DDI-MedLine.d230.s1,"Amiodarone, an iodinated benzofuran derivative with predominantly class III anti-arrhythmic effects, is used to treat supraventricular and ventricular arrhythmias. "
+DDI-MedLine.d230.s2,"The purpose of this study was to assess the potential of neferine, an effective anti-pulmonary fibrosis drug isolated from the embryo of Nelumbo nucifera Gaertner's seeds, to alter the pharmacokinetic profile of amiodarone. "
+DDI-MedLine.d230.s3,Experimental Sprague-Dawley rats were randomly divided into two groups. 
+DDI-MedLine.d230.s4,"In groups 1 and 2, amiodarone was given to rats by intragastric and intravenous administration, respectively, while neferine was co-administratered by intragastric administration. "
+DDI-MedLine.d230.s5,Blood samples were collected from the orbital venous plexus at indicated time points and were analyzed for amiodarone concentration using RP-HPLC. 
+DDI-MedLine.d230.s6,The geometric mean ratio for C(max) and AUC(0-96) was calculated. 
+DDI-MedLine.d230.s7,"There were no significant differences between the pharmacokinetics parameters of amiodarone administered intravenously or intragastrically and the control (without neferine) group (with ratios of 0.7-1.4 in all experimental groups), suggesting that neferine had no effect on amiodarone plasma pharmacokinetics. "
+DDI-MedLine.d230.s8,The dosage regimen of amiodarone does not need to be taken into consideration when combined with neferine.
+DDI-MedLine.d182.s0,"Antimicrobial effects of o-cymen-5-ol and zinc, alone &"
+DDI-MedLine.d182.s1,"in combination in simple solutions and toothpaste formulations.
+"
+DDI-MedLine.d182.s2,This study aimed to evaluate antimicrobial effects of an o-cymen-5-ol/zinc system.
+DDI-MedLine.d182.s3,"o-Cymen-5-ol and zinc gluconate minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) were determined against Streptococcus mutans, Actinomyces viscosus, Porphyromonas gingivalis, Fusobacterium nucleatum and Candida albicans. "
+DDI-MedLine.d182.s4,Synergy was investigated by checkerboard MIC/MBC; 
+DDI-MedLine.d182.s5,inhibition of P. 
+DDI-MedLine.d182.s6,gingivalis protease activity and S. 
+DDI-MedLine.d182.s7,mutans glycolysis were investigated. 
+DDI-MedLine.d182.s8,Slurried toothpastes containing the system were assessed in kill time assays against S. 
+DDI-MedLine.d182.s9,mutans and E. 
+DDI-MedLine.d182.s10,coli. 
+DDI-MedLine.d182.s11,o-Cymen-5-ol MIC was between 1.7 mM to 3.4 mM; 
+DDI-MedLine.d182.s12,MBC was 3.4 mM to 6.7 mM. 
+DDI-MedLine.d182.s13,Zinc gluconate MIC was 2.8 mM to 11 mM; 
+DDI-MedLine.d182.s14,MBC was between 11 mM and >44 mM. 
+DDI-MedLine.d182.s15,The two agents in solution showed synergy (FICI   0.50) against P. 
+DDI-MedLine.d182.s16,gingivalis and F. 
+DDI-MedLine.d182.s17,"nucleatum, with MIC of 0.42 mM/0.69 mM for o-cymen-5-ol/zinc gluconate, respectively. "
+DDI-MedLine.d182.s18,Zinc inhibited glycolysis and protease to a greater degree than o-cymen-5-ol; 
+DDI-MedLine.d182.s19,glycolysis inhibition by the two agents was additive. 
+DDI-MedLine.d182.s20,"o-Cymen-5-ol/zinc chloride in toothpaste showed greater effects than placebo (120s log10 kill=7.35  0.40 and 4.02  0.40, respectively). "
+DDI-MedLine.d182.s21,The zinc/o-cymen-5-ol system has direct antimicrobial effects and inhibits oral disease-related processes. 
+DDI-MedLine.d182.s22,Synergistic effects were seen against anaerobes. 
+DDI-MedLine.d182.s23,A system combining o-cymen-5-ol and zinc shows properties desirable for incorporation in toothpastes.
+DDI-MedLine.d170.s0,"Positive shifts of the GABAA receptor reversal potential due to altered chloride homeostasis is widespread after status epilepticus.
+  "
+DDI-MedLine.d170.s1,-Aminobutyric acid (GABA)ergic transmission plays an important role in the initiation of epileptic activity and the generation of ictal discharges.
+DDI-MedLine.d170.s2,The functional alterations in the epileptiform hippocampus critically depend on GABAergic mechanisms and cation-chloride cotransporters.
+DDI-MedLine.d170.s3,"To understand the cellular basis of specific functional alterations in the epileptic hippocampus, we studied physiologic characteristics and pharmacologically isolated evoked GABA(A) receptor-mediated inhibitory postsynaptic currents (IPSCs) recorded from principal neurons in hippocampal slices from status epilepticus (SE) and control rats using whole-cell and gramicidin perforated patch-clamp recordings. "
+DDI-MedLine.d170.s4,"Whereas the resting membrane potential and input resistance were not significantly different between control and epileptic tissue, the reversal potential (E(GABA) ) of IPSCs was significantly shifted to more positive values in SE rats with regard to the resting membrane potential. "
+DDI-MedLine.d170.s5,"Pharmacologic experiments and quantitative reverse transcriptase polymerase chain reaction (RT-PCR) showed that the observed changes in the epileptic tissue were due to a decreased ratio of the main Cl(-) extrusion transporter (K(+) -Cl(-) cotransporter, KCC2) to the main Cl(-) uptake transporter (Na(+) -K(+) -2Cl(-) cotransporter, NKCC1). "
+DDI-MedLine.d170.s6,"Our results suggest that alterations of cation-chloride cotransporter functions, comprising a higher NKCC1 action, contribute to hyperexcitability within the hippocampus following SE."
+DDI-MedLine.d229.s0,"Novel insights into the synergistic interaction of Bortezomib and TRAIL: tBid provides the link.
+"
+DDI-MedLine.d229.s1,The proteasome inhibitor Bortezomib has been identified as a potent enhancer of TRAIL-induced apoptosis in several human cancers. 
+DDI-MedLine.d229.s2,"However, the identification of the underlying molecular mechanisms of this synergistic cell death induction has been ongoing over the last years. "
+DDI-MedLine.d229.s3,A recent study identifies a new mechanism of action for the synergism of TRAIL and Bortezomib.
+DDI-MedLine.d197.s0,[Vitamin D and drugs].;
+DDI-MedLine.d197.s1,Interactions between drugs and vitamin D have received only little or no attention in the medical and pharmaceutical world in the past. 
+DDI-MedLine.d197.s2,"Since more and more drugs are used for the treatment of patients, this topic is increasingly relevant. "
+DDI-MedLine.d197.s3,"As such interactions impact the health of the patient and the action and side effects of the drug, physicians and pharmacists should pay more attention to such interactions in the future. "
+DDI-MedLine.d197.s4,A number of drugs can interfere with the vitamin D and bone metabolism. 
+DDI-MedLine.d197.s5,"The drug-induced activation of the pregnane X receptor (PXR) is likely to enhance CYP24 expression and the catabolism of 25(OH)D, leading to vitamin D deficiency. "
+DDI-MedLine.d197.s6,"PXR-ligands include a wide variety of pharmaceutical agents, such as antiepileptic drugs, taxol, rifampicin, and human immunodeficiency virus protease inhibitors such as ritonavir and saquinavir. "
+DDI-MedLine.d197.s7,"Beside this, the medication oriented supplementation of vitamin D can also ameliorate the pharmacologic action of many drugs, such as bisphosphonates, statins and cytostatic drugs."
+DDI-MedLine.d153.s0,"Determination of propiverine hydrochloride in human plasma by high performance liquid chromatography-tandem mass spectrometry: application to the pharmacokinetic study of a sustained release formulation.
+"
+DDI-MedLine.d153.s1,"A rapid, sensitive and reliable high performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS) method was developed and validated for the determination of propiverine hydrochloride (CAS 54556-98-8) in human plasma using cetirizine di-hydrochloride as internal standard (IS, CAS 8388-51-0). "
+DDI-MedLine.d153.s2,"Following liquid-liquid extraction with ethyl acetate, the separation was performed on a reverse phase C18 column with a mobile phase consisted of methanol-ammonium acetate (pH 4.0; 10 mM) (70:30, v/v). "
+DDI-MedLine.d153.s3,"The detection was performed by a triple-quadrupole mass spectrometer in the positive ion and multiple reaction monitoring (MRM) mode, m/z 368.3 --> "
+DDI-MedLine.d153.s4,116.1 for propiverine and m/z 389.2 --> 
+DDI-MedLine.d153.s5,201.0 for the IS. 
+DDI-MedLine.d153.s6,The calibration curve fitted well over the concentration range of 0.2-200 ng/mL (all the concentration data in this study are related to salt (propiverine hydrochloride)). 
+DDI-MedLine.d153.s7,"The limit of detection (LOD) and lower limit of quantification (LLOQ) in human plasma were 0.05 and 0.2 ng/mL, respectively. "
+DDI-MedLine.d153.s8,"The method was proved to be rapid, sensitive, specific, accurate and reproducible and has been successfully applied to a pharmacokinetic study of propiverine hydrochloride sustained release capsules (the 30 mg dose in this"
+DDI-MedLine.d198.s0,"Structural basis for alcohol modulation of a pentameric ligand-gated ion channel.
+"
+DDI-MedLine.d198.s1,"Despite its long history of use and abuse in human culture, the molecular basis for alcohol action in the brain is poorly understood. "
+DDI-MedLine.d198.s2,"The recent determination of the atomic-scale structure of GLIC, a prokaryotic member of the pentameric ligand-gated ion channel (pLGIC) family, provides a unique opportunity to characterize the structural basis for modulation of these channels, many of which are alcohol targets in brain. "
+DDI-MedLine.d198.s3,"We observed that GLIC recapitulates bimodal modulation by n-alcohols, similar to some eukaryotic pLGICs: methanol and ethanol weakly potentiated proton-activated currents in GLIC, whereas n-alcohols larger than ethanol inhibited them. "
+DDI-MedLine.d198.s4,"Mapping of residues important to alcohol modulation of ionotropic receptors for glycine,   -aminobutyric acid, and acetylcholine onto GLIC revealed their proximity to transmembrane cavities that may accommodate one or more alcohol molecules. "
+DDI-MedLine.d198.s5,"Site-directed mutations in the pore-lining M2 helix allowed the identification of four residues that influence alcohol potentiation, with the direction of their effects reflecting   -helical structure. "
+DDI-MedLine.d198.s6,"At one of the potentiation-enhancing residues, decreased side chain volume converted GLIC into a highly ethanol-sensitive channel, comparable to its eukaryotic relatives. "
+DDI-MedLine.d198.s7,"Covalent labeling of M2 positions with an alcohol analog, a methanethiosulfonate reagent, further implicated residues at the extracellular end of the helix in alcohol binding. "
+DDI-MedLine.d198.s8,"Molecular dynamics simulations elucidated the structural consequences of a potentiation-enhancing mutation and suggested a structural mechanism for alcohol potentiation via interaction with a transmembrane cavity previously termed the ""linking tunnel."""
+DDI-MedLine.d198.s9,These results provide a unique structural model for independent potentiating and inhibitory interactions of n-alcohols with a pLGIC family member.
+DDI-MedLine.d210.s0,"[Drug interactions on P-glycoprotein transport level and its application].
+"
+DDI-MedLine.d210.s1,Potential drug interactions on P-glycoprotein transport level were discussed in this article. 
+DDI-MedLine.d210.s2,"As an efflux transporter protein widely distributed in various tissues, P-glycoprotein plays an important role in many drugs interactions, via affecting the metabolic process to alter the concentration of drug in plasma and tissue. "
+DDI-MedLine.d210.s3,"Interactions between herb and western drug may occur by inducing or inhibiting P-glycoprotein, resulting in either efficacy enhancement or adverse effects. "
+DDI-MedLine.d210.s4,So it is important for clinical drug use by rational utilization of the interaction between herb and western drug which medicated by P-glycoprotein.
+DDI-MedLine.d215.s0,In-vitro antimicrobial activity and synergistic/antagonistic effect of interactions between antibiotics and some spice essential oils.
+DDI-MedLine.d215.s1,Spices and herbs have been used for many years by different cultures. 
+DDI-MedLine.d215.s2,"The aim of the present study is (1) to investigate in-vitro antimicrobial effects of different spices and herbs (5 species: Rosmarinus officinalis (Rosemary), Coriandrum sativum (coriander), Micromeria fruticosa (L.) "
+DDI-MedLine.d215.s3,Druce subsp. 
+DDI-MedLine.d215.s4,Brachycalyx P.H. 
+DDI-MedLine.d215.s5,"Davis (White micromeria), Cumium cyminum (cumin), Mentha piperita (Peppermint) against different bacteria and fungi species, and (2) to discuss the in-vitro possible effects between the plants and antibiotics. "
+DDI-MedLine.d215.s6,"The microorganisms used were Micrococcus luteus LA 2971, Bacillus megaterium NRS, Bacillus brevis FMC 3, Enterococcus faecalis ATCC 15753, Pseudomonas pyocyaneus DC 127, Mycobacterium smegmatis CCM 2067, Escherichia coil DM, Aeromonas hydrophila ATCC 7966, Yersinia enterocolitica AU 19, Staphylococcus aureus Cowan 1, Streptococcus faecalis DC 74 bacteria, and Saccharomyces cerevisiae WET 136, Kluvyeromyces fragilis DC 98 fungi in this study. "
+DDI-MedLine.d215.s7,"The results indicated that essential oils of Rosmarinus officinalis, Coriandrum sativum L., Micromeria fruticosa (L.) "
+DDI-MedLine.d215.s8,Druce subsp. 
+DDI-MedLine.d215.s9,brachycalyx P.H. 
+DDI-MedLine.d215.s10,"Davis, Cumium cyminum L., Mentha piperita L. "
+DDI-MedLine.d215.s11,"were shown antimicrobial activity in the range of 7-60 mm 2 microl(-1) inhibition zone to the microorganisms tested, using disc diffusion method. "
+DDI-MedLine.d215.s12,"Standard antibiotic such as Gentamicin (10 microg), Cephalothin (30 microg), Ceftriaxone (10 microg), Nystatin (10 U) discs were used for comparison with the antimicrobial activities of essential oils of these plants. "
+DDI-MedLine.d215.s13,"In addition, antibacterial activity of essential oils of these plants was researched by effects when it was used together with these standard antibiotics in vitro. "
+DDI-MedLine.d215.s14,"However, antibacterial activity changed also by in vitro interactions between these standard antibiotics and essential oils of these plants. "
+DDI-MedLine.d215.s15,"Synergic, additive or antagonist effects were observed in antibacterial activity."
+DDI-MedLine.d156.s0,"ABC transporters influence sensitivity of Brugia malayi to moxidectin and have potential roles in drug resistance.
+"
+DDI-MedLine.d156.s1,Some ABC transporters play a significant role in human health and illness because they confer multidrug resistance (MDR) through their overexpression. 
+DDI-MedLine.d156.s2,Compounds that inhibit the drug efflux mechanism can improve efficacy or reverse resistance. 
+DDI-MedLine.d156.s3,"Of the eight described ABC transporter subfamilies, those proteins conferring MDR in humans are in subfamilies A, B, C, and G. "
+DDI-MedLine.d156.s4,"In nematodes, transporters in subfamilies B and C are suggested to confer resistance to ivermectin. "
+DDI-MedLine.d156.s5,The Brugia malayi ABC transporter superfamily was examined to assess their potential to influence sensitivity to moxidectin. 
+DDI-MedLine.d156.s6,"There was an increase in expression of ABC transporters in subfamilies A, B, C, and G following treatment. "
+DDI-MedLine.d156.s7,Co-administration of moxidectin with inhibitors of ABC transporter function did not enhance sensitivity to moxidectin in males; 
+DDI-MedLine.d156.s8,"however, sensitivity was significantly enhanced in females and microfilariae. "
+DDI-MedLine.d156.s9,The work suggests that ABC transporters influence sensitivity to moxidectin and have a potential role in drug resistance.
+DDI-MedLine.d176.s0,"Nitric oxide is an activity-dependent regulator of target neuron intrinsic excitability.
+"
+DDI-MedLine.d176.s1,"Activity-dependent changes in synaptic strength are well established as mediating long-term plasticity underlying learning and memory, but modulation of  target neuron excitability could complement changes in synaptic strength and regulate network activity. "
+DDI-MedLine.d176.s2,"It is thought that homeostatic mechanisms match intrinsic excitability to the incoming synaptic drive, but evidence for involvement of voltage-gated conductances is sparse. "
+DDI-MedLine.d176.s3,"Here, we show that glutamatergic synaptic activity modulates target neuron excitability and switches the basis of action potential repolarization from Kv3 to Kv2 potassium channel dominance, thereby adjusting neuronal signaling between low and high activity states, respectively. "
+DDI-MedLine.d176.s4,This nitric oxide-mediated signaling dramatically increases Kv2 currents in both the auditory brain stem and hippocampus (&gt;3-fold) transforming synaptic integration and information transmission but with only modest changes in action potential waveform. 
+DDI-MedLine.d176.s5,"We conclude that nitric oxide is a homeostatic regulator, tuning neuronal excitability to the recent history of excitatory synaptic inputs over intervals of minutes to hours."
+DDI-MedLine.d142.s0,"[Effects of glycyrrhiza extract on pharmacokinetics property of daphnetin in rats].
+"
+DDI-MedLine.d142.s1,"To research the influence of glycyrrhiza extract on the pharmacokinetics characteristic parameters of daphnetin, which was aimed to explore the rationality of concert application of drugs."
+DDI-MedLine.d142.s2,The rats received intragastric administration of daphnetin and glycyrrhiza extract containing the same daphnetin respectively. 
+DDI-MedLine.d142.s3,The blood concentration of daphnetin was assayed by LC-MS. 
+DDI-MedLine.d142.s4,The data was processed by program DAS2.1.1. 
+DDI-MedLine.d142.s5,"Glycyrrhiza extract can reduce the t(1/2), tmax and Ke of daphnetin, while increased the Ka and AUC(0-infinity). "
+DDI-MedLine.d142.s6,"Glycyrrhiza extract promoted the oral absorption of daphnetin, slowed down the elimination and increased the biological availability."
+DDI-MedLine.d223.s0,"Polypharmacy in older adults.
+"
+DDI-MedLine.d223.s1,This article explores the issue of polypharmacy in older adults. 
+DDI-MedLine.d223.s2,The physiological changes in organ function in older people and the effect of this on pharmacokinetics and pharmacodynamics are discussed. 
+DDI-MedLine.d223.s3,The risks of adverse drug reactions and adverse drug interactions linked to polypharmacy are explored. 
+DDI-MedLine.d223.s4,Strategies to achieve optimal prescribing in older people are considered.
+DDI-MedLine.d174.s0,"[Cyclooxygenase inhibitors and antiplatelet effect of acetylsalicylic acid. selective approach to nonsteroidal anti-inflammatory drugs in cardiological practice].
+"
+DDI-MedLine.d174.s1,Nonsteroidal anti-inflammatory drugs (NSAIDs) represent class of medicines which is wide concerning chemical structure and mechanism of action. 
+DDI-MedLine.d174.s2,In the light of contradictory data on efficacy and safety of NSAID in cardiovascular patients selection of most appropriate NSAID (basing on profile of efficacy and safety) in patients receiving continuous therapy with low dose aspirin appears to be a problem. 
+DDI-MedLine.d174.s3,"In this paper we discuss peculiarities of drug interaction between cyclooxygenase inhibitors and acetylsalicylic acid, and principles of selection of adequate NSAI."
+DDI-MedLine.d186.s0,"Motor deficits and recovery in rats with unilateral spinal cord hemisection mimic the Brown-Sequard syndrome.
+"
+DDI-MedLine.d186.s1,Cervical incomplete spinal cord injuries often lead to severe and persistent impairments of sensorimotor functions and are clinically the most frequent type of spinal cord injury. 
+DDI-MedLine.d186.s2,Understanding the motor impairments and the possible functional recovery of upper and lower extremities is of great importance. 
+DDI-MedLine.d186.s3,Animal models investigating motor dysfunction following cervical spinal cord injury are rare. 
+DDI-MedLine.d186.s4,"We analysed the differential spontaneous recovery of fore- and hindlimb locomotion by detailed kinematic analysis in adult rats with unilateral C4/C5 hemisection, a lesion that leads to the Brown-S  quard syndrome in humans. "
+DDI-MedLine.d186.s5,The results showed disproportionately better performance of hindlimb compared with forelimb locomotion; 
+DDI-MedLine.d186.s6,"hindlimb locomotion showed substantial recovery, whereas the ipsilesional forelimb remained in a very poor functional state. "
+DDI-MedLine.d186.s7,Such a differential motor recovery pattern is also known to occur in monkeys and in humans after similar spinal cord lesions. 
+DDI-MedLine.d186.s8,"On the lesioned side, cortico-, rubro-, vestibulo- and reticulospinal tracts and the important modulatory serotonergic, dopaminergic and noradrenergic fibre systems were interrupted by the lesion. "
+DDI-MedLine.d186.s9,"In an attempt to facilitate locomotion, different monoaminergic agonists were injected intrathecally. "
+DDI-MedLine.d186.s10,"Injections of specific serotonergic and noradrenergic agonists in the chronic phase after the spinal cord lesion revealed remarkable, although mostly functionally negative, modulations of particular parameters of hindlimb locomotion. "
+DDI-MedLine.d186.s11,"In contrast, forelimb locomotion was mostly unresponsive to these agonists. "
+DDI-MedLine.d186.s12,"These results, therefore, show fundamental differences between fore- and hindlimb spinal motor circuitries and their functional dependence on remaining descending inputs and exogenous spinal excitation. "
+DDI-MedLine.d186.s13,Understanding these differences may help to develop future therapeutic strategies to improve upper and lower limb function in patients with incomplete cervical spinal cord injuries.
+DDI-MedLine.d145.s0,"IGF1R-targeted therapy and its enhancement of doxorubicin chemosensitivity in human osteosarcoma cell lines.
+"
+DDI-MedLine.d145.s1,"Type-I insulin-like growth factor receptor (IGF1R) and its signaling play an important role in osteosarcomagenesis, tumor progression, and chemoresistance. "
+DDI-MedLine.d145.s2,The purpose of this study was to investigate both the effect and mechanisms of IGF1R inhibition by tyrphostin AG1024 in the presence or absence of doxorubicin in a panel of six osteosarcoma cell lines and a self-established doxorubicin-resistant cell line. 
+DDI-MedLine.d145.s3,"We are the first to indicate that targeting IGF1R together with doxorubicin achieved additive anti-osteosarcoma growth effect, accompanied with increased apoptosis, cytotoxicity, and dual cell cycle arrests. "
+DDI-MedLine.d145.s4,"In conclusion, IGF1R inhibition can enhance doxorubicin chemotherapy in some osteosarcoma cell lines."
+DDI-MedLine.d206.s0,"Evaluation of antidepressant like activity of curcumin and its combination with fluoxetine and imipramine: an acute and chronic study.
+"
+DDI-MedLine.d206.s1,Curcumin is the active ingredient of commonly used spice Curuma longa Linn. 
+DDI-MedLine.d206.s2,"In the present study, the antidepressant like activity of curcumin and its combination with fluoxetine and imipramine was studied in acute model (three doses 24, 5 and 1 h before test) of forced swimming test (FST) in glass jar and tail suspension test (TST) in mice and in chronic model (14 day study) of FST with water wheel in rats. "
+DDI-MedLine.d206.s3,"All the tests were carried out in the following seven groups (n = 6 in each group), drugs being given orally (doses for mice): Group 1 (vehicle), group 2 (curcumin 50 mg/kg), group 3 (curcumin 100 mg/kg), group 4 (fluoxetine 20 mg/kg), group 5 (imipramine 15 mg/kg), group 6 (curcumin 100 mg/kg plus fluoxetine 20 mg/kg) and group 7 (curcumin 100 mg/kg plus imipramine 15 mg/kg). "
+DDI-MedLine.d206.s4,Equivalent doses for rats were used. 
+DDI-MedLine.d206.s5,"Both the acute model of FST and TST, and the chronic model of FST with water wheel showed significant antidepressant like activity of curcumin in 100 mg/kg dose as compared to vehicle control (p < 0.05). "
+DDI-MedLine.d206.s6,The effect of curcumin (100 mg/kg) was similar to that of fluoxetine and imipramine (p > 0.05) but its addition to fluoxetine and imipramine did not improve their antidepressant activity (p > 0.05). 
+DDI-MedLine.d206.s7,"Curcumin increased both the swimming and climbing behavior in FST, thus its antidepressant like activity could be due to an increase in serotonin, norepinephrine and dopamine levels in the brain. "
+DDI-MedLine.d206.s8,Curcumin can be a useful antidepressant especially in cases which respond to drugs having mixed effects on serotonin and catecholamines levels in the brain.
+DDI-MedLine.d202.s0,Flow cytometry-based pharmacodynamic monitoring after organ transplantation.
+DDI-MedLine.d202.s1,Conventional therapeutic drug monitoring based on measuring immunosupressive drug concentrations in blood is important in the clinical management of immunosuppressive therapy in transplantation medicine. 
+DDI-MedLine.d202.s2,Since rejection or infection occurs at irregular drug concentrations immunosuppressive drug therapy is often empiric and prophylactic in nature. 
+DDI-MedLine.d202.s3,"In addition, blood immunosuppressant levels are only indirect predictors of the pharmacologic effects on immune cells, because the genetic heterogeneity the immune systems of transplant recipients are not equally sensitive to drug effects. "
+DDI-MedLine.d202.s4,"Therefore, therapeutic drug monitoring requires the application of reliable and effective methods to study the pharmacodynamic variability by direct measurements of drug effects on immune cell functions. "
+DDI-MedLine.d202.s5,"Flow cytometry offers a multiplicity of quantitative analysis possibilities, from detection of phosphorylated molecules up to complex multicolor analysis of whole blood samples. "
+DDI-MedLine.d202.s6,A large spectrum of flow cytometry-based applications for pharmacodynamic monitoring is available and allows detection and analysis of diverse function of T cells and dendritic cell subsets. 
+DDI-MedLine.d202.s7,"By combining several assays, it is possible to generate a broad picture of the immune status of every single transplanted recipient. "
+DDI-MedLine.d202.s8,"Furthermore, it is even possible to differentiate between synergistic and antagonistic pharmacodynamic effects of immunosuppressive drug combination therapy in vitro and to predict the pharmacodynamic drug effects in transplanted recipients. "
+DDI-MedLine.d202.s9,"Such a pharmacodynamic drug monitoring may offer the opportunity to complete conventional therapeutic drug monitoring and, therefore, to tailor immunosuppressive therapy more individually."
+DDI-MedLine.d171.s0,"[Infections with human immunodeficiency viruses. Part II: Antiretroviral drugs, therapeutic options, and diagnostics]."
+DDI-MedLine.d171.s1,"Infections with the human immunodeficiency virus 1 (HIV- 1) lead to the acquired immunodeficiency syndrome (AIDS), resulting in the establishment of a wide range of severe opportunistic infections. "
+DDI-MedLine.d171.s2,"Since the introduction of the highly active antiretroviral therapy (HAART) into the treatment of HIV infections, in many cases a delayed appearance of AIDS-defining diseases is achievable. "
+DDI-MedLine.d171.s3,Life expectancy of antiretrovirally treated HIV-infected people applying HAART could be considerably extended and now resembles that of several other chronic diseases. 
+DDI-MedLine.d171.s4,"For the initial treatment of HIV-1 infection, an adjunction with three antiretroviral agents is generally used. "
+DDI-MedLine.d171.s5,"In most cases, the application of two nucleoside or nucleotide reverse transcriptase inhibitors (NRTI) together with a non-nucleoside reverse transcriptase inhibitor (NNRTI), a protease inhibitor (PI) or an integrase inhibitor (II) is recommended. "
+DDI-MedLine.d171.s6,"Before and during antiretroviral treatment, antiretroviral drug resistances, individual tolerance profiles and the needs of the individual patient, as well as several interactions with other drugs have to be considered. "
+DDI-MedLine.d171.s7,Diagnostics of HIV infection is based upon the proof of specific antibodies.
+DDI-MedLine.d222.s0,"Treatment of nicotine dependence with Chantix (varenicline).
+"
+DDI-MedLine.d222.s1,"Varenicline is the generic name for Chantix, the newest drug available for the treatment of tobacco dependence. "
+DDI-MedLine.d222.s2,"In a randomized controlled clinical trial, the abstinence rate at 1 year for patients using varencline was superior to that of patients in the group using bupropion SR (Zyban) and in the placebo group (11). "
+DDI-MedLine.d222.s3,"Varenicline reduces nicotine withdrawal symptoms, cigarette craving and nicotine satisfaction. "
+DDI-MedLine.d222.s4,Post-market reports prompted a warning of serious adverse neuropsychiatric events in patients taking varenicline. 
+DDI-MedLine.d222.s5,"As is the case with any surgical procedure and/or prescription medication, full disclosure of the risks and benefits should be discussed with the patient. "
+DDI-MedLine.d222.s6,The significant health benefits of quitting smoking should be weighed against the individual's risk of adverse events associated with the use of varenicline for smoking cessation.
+DDI-MedLine.d196.s0,"Single-dose bioequivalence of 105-mg fenofibric acid tablets versus 145-mg fenofibrate tablets under fasting and fed conditions: a report of two phase I, open-label, single-dose, randomized, crossover clinical trials.
+"
+DDI-MedLine.d196.s1,"Fenofibrate is used to treat primary hypercholesterolemia, mixed lipidemia, and hypertriglyceridemia in adults who do not respond to nonpharmacologic measures. "
+DDI-MedLine.d196.s2,"Fenofibrate is a prodrug that is rapidly and completely hydrolyzed to fenofibric acid, the active moiety. "
+DDI-MedLine.d196.s3,"A new orally administered agent, fenofibric acid, was developed as an alternative to fenofibrate."
+DDI-MedLine.d196.s4,"Two separate studies were conducted to evaluate the bioequivalence of fenofibric acid relative to fenofibrate under fasted and fed (standard breakfast) conditions, characterize the pharmacokinetic profile, and assess the safety and tolerability of fenofibric acid. "
+DDI-MedLine.d196.s5,"In study 1 (fasted), during each study period, volunteers received a single 105-mg dose of fenofibric acid or single 145-mg dose of fenofibrate (depending on their randomization scheme) after an overnight fast (a minimum fast of 10 hours). "
+DDI-MedLine.d196.s6,"A 7-day washout period followed the first treatment period, after which the volunteers received the alternate treatment. "
+DDI-MedLine.d196.s7,"Study 2 followed a similar dosing scheme and differed only in that volunteers received their single dose after being fed a standard meal (575 calories, of which 36% were contributed by fat). "
+DDI-MedLine.d196.s8,Serial blood samples in both studies were collected up to 72 hours after drug administration. 
+DDI-MedLine.d196.s9,"The pharmacokinetic parameters of interest for assessing bioequivalence were AUC(0-t), AUC(0-   ), C(max), and T(max). "
+DDI-MedLine.d196.s10,"The criterion for a lack of difference between products was a 90% CI between 0.80 and 1.25 for the fenofibric acid:fenofibrate ratios for AUC(0-t), AUC(0-   ), and C(max.) "
+DDI-MedLine.d196.s11,"Tolerability was assessed by adverse events (AEs), laboratory parameters, vital signs, and physical examinations. "
+DDI-MedLine.d196.s12,Volunteers in study 1 (fasted; n = 54) were aged 18 to 43 years; 
+DDI-MedLine.d196.s13,19 (35%) were men and 35 (65%) were women; 
+DDI-MedLine.d196.s14,"mean weight was 155.2 pounds (range, 103.0-267.0 pounds); "
+DDI-MedLine.d196.s15,"and 48 (89%) were white, 1 (2%) was black, and 5 (9%) were white/American Indian/Alaskan native/Asian. "
+DDI-MedLine.d196.s16,Volunteers in study 2 (fed; n = 54) were aged 18 to 43 years; 
+DDI-MedLine.d196.s17,27 (50%) were men and 27 (50%) were women; 
+DDI-MedLine.d196.s18,"mean weight was 161.9 pounds (range, 112.0-225.0 pounds); "
+DDI-MedLine.d196.s19,and 51 (94%) were white (including 2 Hispanic) and 3 (6%) were black. 
+DDI-MedLine.d196.s20,"The 90% CIs about the ratio of the fenofibric acid geometric mean to the fenofibrate geometric mean were within the 80% and 125% limits for the pharmacokinetic parameters C(max), AUC(0-t), and AUC(0-   ) of the ln-transformed data in both study 1 (fasted) and study 2. "
+DDI-MedLine.d196.s21,"In study 1 (fasted), 14 volunteers (26%) experienced a total of 29 AEs; "
+DDI-MedLine.d196.s22,the most common nonlaboratory AEs were dizziness (6%) and headache (4%). 
+DDI-MedLine.d196.s23,"In study 2, 12 volunteers (22%) experienced a total of 19 AEs; "
+DDI-MedLine.d196.s24,the most common nonlaboratory AEs were headache (17%) and dry throat (4%). 
+DDI-MedLine.d196.s25,AEs were generally mild or moderate in intensity. 
+DDI-MedLine.d196.s26,"In these 2 single-dose studies, these healthy volunteers administered a single oral dose of 105-mg fenofibric acid met the US Food and Drug Administration regulatory criteria for assuming bioequivalence to a single oral dose of 145-mg fenofibrate tablets with respect to the rate and extent of fenofibric acid absorption in both fed and fasted states. "
+DDI-MedLine.d196.s27,Fenofibric acid at the dose studied was well tolerated in this population.
+DDI-MedLine.d152.s0,"Mechanisms of drug toxicity or intolerance.
+"
+DDI-MedLine.d152.s1,"Classically, adverse drug reactions had been considered as type A reactions which are related to the main pharmacological action of the drug and therefore are predictable. "
+DDI-MedLine.d152.s2,"Such reactions are predictable, reversible, and usually can be managed by lowering the dose of the offending drug. "
+DDI-MedLine.d152.s3,"However, other adverse effects of drugs can occur which are unrelated to the main pharmacological action of the drug - type B reactions. "
+DDI-MedLine.d152.s4,Such adverse effects are termed idiosyncratic and are often initiated by metabolites of the parent drug or by other indirect mechanisms. 
+DDI-MedLine.d152.s5,The detailed understanding of adverse drug events has become a major focus of the regulatory agencies throughout the world. 
+DDI-MedLine.d152.s6,The pharmacotherapy of gastrointestinal and liver disorders is becoming increasingly complex. 
+DDI-MedLine.d152.s7,"In recent years, with the advent of novel therapeutic agents to treat a host of disorders, including viral hepatitis, gastrointestinal motility disorders, inflammatory bowel disease and others, the potential for serious clinically relevant drug reactions has increased. "
+DDI-MedLine.d152.s8,"In the pharmacotherapy of gastrointestinal and liver diseases, a significant number of adverse events that occur can be explained by drug interactions. "
+DDI-MedLine.d152.s9,"Some pharmacokinetic drug interactions are based on the competitive inhibition of the rate of drug metabolism of one of the drugs, leading to an increased concentration of the drug which was not intended. "
+DDI-MedLine.d152.s10,"In other examples, the interaction can be mechanistic in which one or more drugs when co-administered potentiate each other's actions without any change in drug levels, termed pharmacodynamic interactions."
+DDI-MedLine.d178.s0,"[Ticagrelor: a novel antiplatelet agent for patients with acute coronary syndrome].
+"
+DDI-MedLine.d178.s1,"Ticagrelor is an oral, reversible blocker of the P2Y12 adenosine receptor. "
+DDI-MedLine.d178.s2,In clinical trials the antiplatelet agent reduced significantly vascular mortality and death from any cause when compared to clopidogrel in patients with acute coronary syndrome.
+DDI-MedLine.d205.s0,"Tuberculosis and HIV co-infection: screening and treatment strategies.
+"
+DDI-MedLine.d205.s1,"Globally, tuberculosis (TB) and HIV interact in deadly synergy. "
+DDI-MedLine.d205.s2,"The high burden of TB among HIV-infected individuals underlies the importance of TB diagnosis, treatment and prevention for clinicians involved in HIV care. "
+DDI-MedLine.d205.s3,"Despite expanding access to antiretroviral therapy (ART) to treat HIV infection in resource-limited settings, many individuals in need of therapy initiate ART too late and have already developed clinically significant TB by the time they present for care. "
+DDI-MedLine.d205.s4,"Many co-infected individuals are in need of concurrent ART and anti-TB therapy, which dramatically improves survival, but also raises several management challenges, including drug interactions, shared drug toxicities and TB immune reconstitution inflammatory syndrome (IRIS). "
+DDI-MedLine.d205.s5,"Due to the survival benefits of promptly initiating ART among all HIV-infected individuals, including those with TB, it is recommended that co-infected individuals receive treatment for both diseases, regardless of CD4+ cell count. "
+DDI-MedLine.d205.s6,We review current screening and treatment strategies for TB and HIV co-infection. 
+DDI-MedLine.d205.s7,"Recent findings and ongoing studies will assist clinicians in managing the prevention and treatment of TB and HIV co-infection, which remains a major global health challenge."
