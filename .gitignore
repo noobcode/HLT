@@ -11,3 +11,6 @@
 
 #ignore w2v vectors
 word_vectors
+
+#ignore numpy files
+*.npy
