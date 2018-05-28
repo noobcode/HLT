@@ -1,1 +1,13 @@
 .idea/*
+
+#ignore python compiled files
+*.pyc
+
+#ignore csv files -- extracted sentences etc.
+*.csv
+
+#ignore jupyter notebook metadata
+.ipynb/*
+
+#ignore w2v vectors
+word_vectors
