@@ -6,5 +6,11 @@ class PrevLabeler(FeatureTransformer):
     pass
 
 
+class Embedder(FeatureTransformer):
+  
+  def transform(self, X, y=None, **fit_param):
+    word_vector = word_vectors[word]
+    pass
 
+    
 
