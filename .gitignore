@@ -15,3 +15,4 @@ word_vectors
 
 #ignore numpy files
 *.npy
+
