@@ -2,6 +2,7 @@
 
 #ignore python compiled files
 *.pyc
+__pycache__/*
 
 #ignore csv files -- extracted sentences etc.
 *.csv

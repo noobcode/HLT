@@ -29,6 +29,11 @@ def parse(xml):
     sentenceIDs.append(sentence.attrib['id'])
     sentenceTexts.append(sentence.attrib['text'])
 
+    for pair in sentence.iter('pair'):
+     pass
+     #build a dataframe with the pairs
+     # save pretrained model in a file and load it in a new notebook
+
     for entity in sentence.iter('entity'):
       entityIDs.append(entity.attrib['id'])
       entity_names.append(entity.attrib['text'])
