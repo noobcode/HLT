@@ -1,0 +1,5 @@
+#Wed Oct 03 11:05:59 CEST 2012
+xml.DDIunifiedPair.bean.Sentence=xml.DDIunifiedPair.bean.descriptors.SentenceDescriptor
+xml.DDIunifiedPair.bean.Document=xml.DDIunifiedPair.bean.descriptors.DocumentDescriptor
+xml.DDIunifiedPair.bean.Entity=xml.DDIunifiedPair.bean.descriptors.EntityDescriptor
+xml.DDIunifiedPair.bean.Pair=xml.DDIunifiedPair.bean.descriptors.PairDescriptor

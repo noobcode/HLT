@@ -19,10 +19,16 @@ DATA_DIRS = [TRAIN_DIRS, TEST1_DIRS, TEST2_DIRS]
 
 SENTENCE_PATH_train = os.path.join(ROOT_DIR, "Train", "sentences.csv")
 ENTITY_PATH_train = os.path.join(ROOT_DIR, "Train", "entities.csv")
-SENTENCE_PATH_test1 = os.path.join(ROOT_DIR, "Test", "Task1", "sentences.csv")
+PAIR_PATH_train = os.path.join(ROOT_DIR, "Train", "pairs.csv")
+
+SENTENCE_PATH_test1 = os.path.join(ROOT_DIR,"Test","Task1", "sentences.csv")
 ENTITY_PATH_test1 = os.path.join(ROOT_DIR, "Test", "Task1", "entities.csv")
+PAIR_PATH_test1 = os.path.join(ROOT_DIR, "Test", "Task1", "pairs.csv")
+
+
 SENTENCE_PATH_test2 = os.path.join(ROOT_DIR, "Test", "Task2", "sentences.csv")
 ENTITY_PATH_test2 = os.path.join(ROOT_DIR, "Test", "Task2", "entities.csv")
+PAIR_PATH_test2 = os.path.join(ROOT_DIR, "Test", "Task2", "pairs.csv")
 
 # Check directory paths
 #print(ROOT_DIR)

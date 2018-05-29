@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: labda.SemEval2013.task9.evaluation.EvaluatorDDI
+
+Name: org/exolab/castor
+Sealed: false
+
+Name: org.apache.log4j
+Implementation-Vendor: "Apache Software Foundation"
+Implementation-Title: log4j
+Implementation-Version: 1.2.15
+
+Name: org/castor
+Sealed: false
+

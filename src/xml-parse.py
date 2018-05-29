@@ -16,7 +16,12 @@ def parse(xml):
   entity_types = list()
   entity_names = list()
   entity_positions = list()
-  
+  entityID1 = list()
+  entityID2 = list()
+  sentenceID_DDI = list()
+  related = list()
+  types = list()
+
   root = xml.getroot()
   for sentence in root.iter('sentence'):
     if not sentence.attrib['id']:
@@ -30,9 +35,13 @@ def parse(xml):
     sentenceTexts.append(sentence.attrib['text'])
 
     for pair in sentence.iter('pair'):
-     pass
-     #build a dataframe with the pairs
-     # save pretrained model in a file and load it in a new notebook
+      entityID1.append(pair.attrib['e1'])
+      entityID2.append(pair.attrib['e2'])
+      related.append(pair.attrib['ddi'])
+      if "type" in pair.attrib:
+        types.append(pair.attrib['type'])
+      else:
+        types.append("null")
 
     for entity in sentence.iter('entity'):
       entityIDs.append(entity.attrib['id'])
@@ -43,9 +52,11 @@ def parse(xml):
   sentences_df = pd.DataFrame(data=s)
     #print(sentences_df, '\n')
   e = {'entityID':entityIDs, 'type':entity_types, 'name':entity_names, 'position':entity_positions}
+  p = {'entityID1':entityID1, 'entityID2':entityID2, 'ddi':related, 'type':types}
   entities_df = pd.DataFrame(data=e)
+  pair_df = pd.DataFrame(data=p)
   #print(entities_df_train)
-  return (sentences_df, entities_df)
+  return (sentences_df, entities_df, pair_df)
 
 
 if __name__ == "__main__":
@@ -55,26 +66,34 @@ if __name__ == "__main__":
     print(DATA_DIR)
     frames_sentences = list()
     frames_entities = list()
+    frames_pairs = list()
     for DIR in DATA_DIR:
       print(DIR)
       xmls = [f for f in os.listdir(DIR) if fnmatch.fnmatch(f, '*.xml')]
       for xml in xmls:
         print(xml) # name of the xml file
         xml = ET.parse(os.path.join(DIR, xml))
-        sentences_df, entities_df = parse(xml)
+        sentences_df, entities_df, pair_df = parse(xml)
         frames_sentences.append(sentences_df)
         frames_entities.append(entities_df)
+        frames_pairs.append(pair_df)
     if train:
       sentences_df_train = pd.concat(frames_sentences).drop_duplicates().reset_index(drop=True)
       entities_df_train = pd.concat(frames_entities).drop_duplicates().reset_index(drop=True)
+      pairs_df_train = pd.concat(frames_pairs).drop_duplicates().reset_index(drop=True)
     if test == 1:
       sentences_df_test1 = pd.concat(frames_sentences).drop_duplicates().reset_index(drop=True)
       entities_df_test1 = pd.concat(frames_entities).drop_duplicates().reset_index(drop=True)
+      pairs_df_test1 = pd.concat(frames_pairs).drop_duplicates().reset_index(drop=True)
     if test == 2:
       sentences_df_test2 = pd.concat(frames_sentences).drop_duplicates().reset_index(drop=True)
       entities_df_test2 = pd.concat(frames_entities).drop_duplicates().reset_index(drop=True)
+      pairs_df_test2 = pd.concat(frames_pairs).drop_duplicates().reset_index(drop=True)
     train = False
     test += 1
+
+  print(pairs_df_train.head(), pairs_df_test1.head(), pairs_df_test2.head())
+  print('**********************************************************************')
 
   print(sentences_df_train.head())
   print()
@@ -98,10 +117,13 @@ if __name__ == "__main__":
   # save DataFrames to .csv files
   sentences_df_train.to_csv(SENTENCE_PATH_train, index=False)
   entities_df_train.to_csv(ENTITY_PATH_train, index=False)
-  
+  pairs_df_train.to_csv(PAIR_PATH_train, index=False) 
+
   sentences_df_test1.to_csv(SENTENCE_PATH_test1, index=False)
   entities_df_test1.to_csv(ENTITY_PATH_test1, index=False)
+  pairs_df_test1.to_csv(PAIR_PATH_train, index=False) 
 
   sentences_df_test2.to_csv(SENTENCE_PATH_test2, index=False)
   entities_df_test2.to_csv(ENTITY_PATH_test2, index=False)
+  pairs_df_test2.to_csv(PAIR_PATH_train, index=False) 
 
