@@ -36,6 +36,15 @@ if __name__ == '__main__':
    # print(row['sentenceText'])
 
   #iterate over all entities
+
+  sentenceIDs = [row['sentenceID'] for index, row in sentences_df.iterrows()]
+  sentences = [row['sentenceText'] for index, row in sentences_df.iterrows()] 
+  for ID, sen in zip(sentenceIDs, sentences):
+    print(ID, sen)
+    words = word_tokenize(sen.lower())
+    label_dict[ID] = ['O' for word in words]
+  
+
   for index, row in entities_df.iterrows():
     #get the sentence ID to reach the sentence
     sentenceID = get_sentenceID(row['entityID'])
