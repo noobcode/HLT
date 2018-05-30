@@ -1,0 +1,83 @@
+\documentclass[11pt]{beamer}
+\usetheme{CambridgeUS}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\author{Carlo Alessi \& Doria Saric}
+\title{Extraction of Drug-Drug Interactions from Biomedical Texts}
+%\setbeamercovered{transparent} 
+%\setbeamertemplate{navigation symbols}{} 
+%\logo{} 
+%\institute{} 
+%\date{} 
+%\subject{} 
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\tableofcontents
+\end{frame}
+
+\section{Software}
+\begin{frame}{Software}
+\begin{itemize}
+\item Base language: Python
+\item XML parser: ElementTree
+\item Pandas
+\item Numpy
+\item Gensim: Word2Vec
+\item NLTK
+\begin{itemize}
+\item[a.] Word tokenizer
+\item[b.] Part-of-Speech tagger
+\item[c.] English stemmer
+\end{itemize}
+\item Scikit Learn
+\begin{itemize}
+\item[a.] Data preprocessing
+\item[b.] Pipelines
+\item[c.] SVM
+\end{itemize}
+\item Keras: ANN
+\end{itemize}
+\end{frame}
+
+\section{Method}
+\begin{frame}{Method}
+\begin{itemize}
+\item Task9.1
+\item Task9.2
+\end{itemize}
+\end{frame}
+
+\section{Learners}
+\begin{frame}{Learners}
+\begin{itemize}
+\item[1.] Feed-forward Neural Network
+\begin{itemize}
+\item Kernel: radial basis function
+\item $C=1$
+\item $\gamma = auto$
+\item $\alpha = 0.001$
+\end{itemize}
+\item[2.] Support Vector Machine
+\end{itemize}
+\end{frame}
+
+\section{Results}
+\begin{frame}{Results}
+
+\end{frame}
+
+\section{Conclusions}
+\begin{frame}{Conclusions}
+
+\end{frame}
+
+\end{document}
