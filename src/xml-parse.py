@@ -21,6 +21,7 @@ def parse(xml):
   sentenceID_DDI = list()
   related = list()
   types = list()
+  pair_sentenceIDs = list()
 
   root = xml.getroot()
   for sentence in root.iter('sentence'):
@@ -42,6 +43,8 @@ def parse(xml):
         types.append(pair.attrib['type'])
       else:
         types.append("null")
+      pair_sentenceIDs.append(get_sentenceID(pair.attrib['e1']))
+
 
     for entity in sentence.iter('entity'):
       entityIDs.append(entity.attrib['id'])
@@ -52,7 +55,7 @@ def parse(xml):
   sentences_df = pd.DataFrame(data=s)
     #print(sentences_df, '\n')
   e = {'entityID':entityIDs, 'type':entity_types, 'name':entity_names, 'position':entity_positions}
-  p = {'entityID1':entityID1, 'entityID2':entityID2, 'ddi':related, 'type':types}
+  p = {'entityID1':entityID1, 'entityID2':entityID2, 'ddi':related, 'type':types, 'sentenceID': pair_sentenceIDs}
   entities_df = pd.DataFrame(data=e)
   pair_df = pd.DataFrame(data=p)
   #print(entities_df_train)
@@ -121,9 +124,9 @@ if __name__ == "__main__":
 
   sentences_df_test1.to_csv(SENTENCE_PATH_test1, index=False)
   entities_df_test1.to_csv(ENTITY_PATH_test1, index=False)
-  pairs_df_test1.to_csv(PAIR_PATH_train, index=False) 
+  pairs_df_test1.to_csv(PAIR_PATH_test1, index=False) 
 
   sentences_df_test2.to_csv(SENTENCE_PATH_test2, index=False)
   entities_df_test2.to_csv(ENTITY_PATH_test2, index=False)
-  pairs_df_test2.to_csv(PAIR_PATH_train, index=False) 
+  pairs_df_test2.to_csv(PAIR_PATH_test2, index=False) 
 
