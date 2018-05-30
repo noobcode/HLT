@@ -16,3 +16,14 @@ word_vectors
 #ignore numpy files
 *.npy
 
+#ignore Train/ files
+Train/*
+
+#ignore Test/files
+Test/*
+
+#ignore evaluationDDI files
+EvaluateDDI/*
+
+#ignore evaluation scripts
+evaluate*.*
