@@ -58,11 +58,25 @@
 \end{itemize}
 \end{frame}
 
-\section{Method}
 \begin{frame}{Method}
 \begin{itemize}
-\item Task9.1
+\item Task9.1 -- 2 approaches
+\begin{itemize}
+	\item[a.] Embeddings: stemming, POS, puctuation removal, lowercase
+	\item[b.] Hand-crafted features:\\
+	\begin{itemize}
+		\item Is the word capitalized?
+		\item Is the part of speech NN?
+		\item Previous word, following word -- word2vec
+		\item If there are some \textbf{trigger} words surrounding this word?
+		\item Does the word have more consonants than vocals?
+	\end{itemize}
+	%\item[c.] (a) and (b) combined
+\end{itemize}
 \item Task9.2
+\begin{itemize}
+\item Hierarchical classification (binary + multiclass)
+\end{itemize}
 \end{itemize}
 \end{frame}
 
@@ -78,7 +92,7 @@
 \item Dropout fraction: 0.5
 \item Objective: Categorical cross-entropy
 \item Solver: Adam
-\item Number of parameters: XXXX
+\item Number of parameters: 175363
 \end{itemize}
 \item[2.] Support Vector Machine
 \begin{itemize}
@@ -219,7 +233,7 @@ MedLine & 0.51	& 0.29 & 0.37 & 0.51	& 0.35 &	0.41\\
 Both& 0.56	& 0.35	& 0.43	& 0.56	& 0.41	& 0.48\\
 \bottomrule
 \end{tabular}
-\caption{Results on gold test dataset.}
+\caption{Results Task1 on gold test dataset.}
 \end{table}
 \end{frame}
 
@@ -229,6 +243,10 @@ Both& 0.56	& 0.35	& 0.43	& 0.56	& 0.41	& 0.48\\
 \item Word vector size (too small, too big)
 \item stemming and PoS improved performance used individually, but not in conjuction
 \item Poor results (especially the recall)
+\begin{itemize}
+\item Poor features?
+\item Limited model capacity/expressivess?
+\end{itemize}
 \end{itemize}
 \end{frame}
 

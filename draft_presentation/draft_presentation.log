@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.16)  31 MAY 2018 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.16)  31 MAY 2018 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1314,39 +1314,32 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 
 [3
 
-] (./draft_presentation.toc)
+]
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [4
 
-]
+] (./draft_presentation.toc)
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [5
 
-] (./draft_presentation.toc)
-Overfull \hbox (39.38872pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[6
-
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+LaTeX Font Info:    Try loading font information for U+msa on input line 105.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+LaTeX Font Info:    Try loading font information for U+msb on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 91.
+line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1356,9 +1349,20 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[7
+[6
 
 ] (./draft_presentation.toc)
+Overfull \hbox (39.38872pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
+]
+Overfull \vbox (8.19733pt too high) detected at line 156
+ []
+
+
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1366,7 +1370,8 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 [8
 
 ]
-Overfull \vbox (8.19733pt too high) detected at line 142
+Overfull \hbox (50.14162pt too wide) in paragraph at lines 187--187
+[][] 
  []
 
 
@@ -1376,11 +1381,18 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 
 [9
 
-]
-Overfull \hbox (50.14162pt too wide) in paragraph at lines 173--173
-[][] 
- []
+] <./images/loss.png, id=340, 433.62pt x 289.08pt>
+File: ./images/loss.png Graphic file (type png)
+ <use ./images/loss.png>
+Package pdftex.def Info: ./images/loss.png used on input line 199.
+(pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
 
+<./images/accuracy.png, id=342, 433.62pt x 289.08pt>
+File: ./images/accuracy.png Graphic file (type png)
+
+<use ./images/accuracy.png>
+Package pdftex.def Info: ./images/accuracy.png used on input line 199.
+(pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
 
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
@@ -1388,18 +1400,12 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 
 [10
 
-] <./images/loss.png, id=382, 433.62pt x 289.08pt>
-File: ./images/loss.png Graphic file (type png)
- <use ./images/loss.png>
-Package pdftex.def Info: ./images/loss.png used on input line 185.
-(pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
-
-<./images/accuracy.png, id=384, 433.62pt x 289.08pt>
-File: ./images/accuracy.png Graphic file (type png)
-
-<use ./images/accuracy.png>
-Package pdftex.def Info: ./images/accuracy.png used on input line 185.
-(pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
+ <./images/loss.png> <./images/accuracy.png>]
+<./images/micro.png, id=374, 433.62pt x 289.08pt>
+File: ./images/micro.png Graphic file (type png)
+ <use ./images/micro.png>
+Package pdftex.def Info: ./images/micro.png used on input line 207.
+(pdftex.def)             Requested size: 273.83728pt x 182.56686pt.
 
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
@@ -1407,33 +1413,20 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 
 [11
 
- <./images/loss.png> <./images/accuracy.png>]
-<./images/micro.png, id=416, 433.62pt x 289.08pt>
-File: ./images/micro.png Graphic file (type png)
- <use ./images/micro.png>
-Package pdftex.def Info: ./images/micro.png used on input line 193.
-(pdftex.def)             Requested size: 273.83728pt x 182.56686pt.
-
-Overfull \hbox (39.38872pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[12
-
- <./images/micro.png>] <./images/macro.png, id=445, 433.62pt x 289.08pt>
+ <./images/micro.png>] <./images/macro.png, id=403, 433.62pt x 289.08pt>
 File: ./images/macro.png Graphic file (type png)
 
 <use ./images/macro.png>
-Package pdftex.def Info: ./images/macro.png used on input line 206.
+Package pdftex.def Info: ./images/macro.png used on input line 220.
 (pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
- <./images/weighted.png, id=446, 433.62pt x 289.08pt>
+ <./images/weighted.png, id=404, 433.62pt x 289.08pt>
 File: ./images/weighted.png Graphic file (type png)
 
 <use ./images/weighted.png>
-Package pdftex.def Info: ./images/weighted.png used on input line 206.
+Package pdftex.def Info: ./images/weighted.png used on input line 220.
 (pdftex.def)             Requested size: 171.14764pt x 114.09932pt.
 
-Overfull \hbox (7.29997pt too wide) in paragraph at lines 206--206
+Overfull \hbox (7.29997pt too wide) in paragraph at lines 220--220
  [][] 
  []
 
@@ -1442,35 +1435,35 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[13
+[12
 
  <./images/macro.png> <./images/weighted.png>] (./draft_presentation.toc)
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[14
+[13
 
 ]
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[15
+[14
 
 ] (./draft_presentation.toc)
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[16
+[15
 
 ]
 Overfull \hbox (39.38872pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[17
+[16
 
 ]
 \tf@nav=\write6
@@ -1482,26 +1475,26 @@ Overfull \hbox (39.38872pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `draft_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
  (./draft_presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 235.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `draft_presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 1C3AF73332867531B1D406381F2A06CA;387.
+(rerunfilecheck)             Checksum: 202A87CE2B166B4BA75EFFA8FB3597BC;346.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
  ) 
 Here is how much of TeX's memory you used:
- 18870 strings out of 493029
- 356971 string characters out of 6136233
+ 18892 strings out of 493029
+ 357938 string characters out of 6136233
  439086 words of memory out of 5000000
- 21908 multiletter control sequences out of 15000+600000
- 14484 words of font info for 53 fonts, out of 8000000 for 9000
+ 21935 multiletter control sequences out of 15000+600000
+ 14778 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,65p,420b,766s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
@@ -1512,10 +1505,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on draft_presentation.pdf (17 pages, 235745 bytes).
+Output written on draft_presentation.pdf (16 pages, 238918 bytes).
 PDF statistics:
- 640 PDF objects out of 1000 (max. 8388607)
- 582 compressed objects within 6 object streams
- 43 named destinations out of 1000 (max. 500000)
- 180 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 538 compressed objects within 6 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
