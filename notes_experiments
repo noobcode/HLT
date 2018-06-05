@@ -1,0 +1,28 @@
+
+
+features:	stem + pos
+architecture:	[vector_size, 512, 256, 3]
+activations:	Relu, softmax
+objective:	categorical cross-entropy
+solver:		Adam
+epochs:		30
+
+word2vec window:	5
+
+maximum value of metric
+size & micro f1	& macro f1 
+10 &	0.9481 & 0.5041
+20 &	0.9517 & 0.5435
+50 &	0.9495	& 0.5215
+100 &	0.9499	& 0.5232
+200 &	0.9479	& 0.4855
+
+----------------------------------------
+
+vector size : 20
+
+		micro f1 & macro f1 
+original	0.9499	& 0.5098
+original + PoS	0.9481 & 0.5105
+stem		0.9599	& 0.6144
+stem + PoS	0.9517 & 0.5435

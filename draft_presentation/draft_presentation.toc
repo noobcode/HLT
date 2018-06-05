@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Software}{2}{0}{1}
+\beamer@sectionintoc {2}{Learners}{5}{0}{2}
+\beamer@sectionintoc {3}{Experiments}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Word Vectors}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Learning curves}{10}{0}{3}
+\beamer@sectionintoc {4}{Results}{13}{0}{4}
+\beamer@sectionintoc {5}{Conclusions}{15}{0}{5}
