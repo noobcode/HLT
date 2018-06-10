@@ -6,6 +6,7 @@ from xml.etree import ElementTree as ET
 from paths import *
 from analize_text import get_sentenceID
 
+
 def parse(xml):
   ''' This function parses all needed information from given xml and returns two data frames
         -- one is with sentences (sentenceID, sentenceText) and the other with all the entities.
