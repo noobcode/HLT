@@ -41,7 +41,9 @@ if __name__ == '__main__':
   sentences = [row['sentenceText'] for index, row in sentences_df.iterrows()] 
   for ID, sen in zip(sentenceIDs, sentences):
     print(ID, sen)
-    words = word_tokenize(sen.lower())
+    words = word_tokenize(sen)
+    for word in words:
+      word = word.lower()
     label_dict[ID] = ['O' for word in words]
   
 
@@ -56,7 +58,10 @@ if __name__ == '__main__':
     if ';' in row['position']:
       continue
     position = row['position'].split('-')
-    words = word_tokenize(sentence.lower())
+    words = word_tokenize(sentence)
+    for word in words:
+      word = word.lower()
+
     entity_words = sentence[int(position[0]):int(position[1]) + 1].lower().split()
 
 
