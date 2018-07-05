@@ -1,0 +1,3 @@
+DDI-MedLine.d198.s4|91-103|-aminobutyric|null
+DDI-MedLine.d170.s1|0-12|-Aminobutyric|null
+DDI-MedLine.d153.s4|0-4|116.1|null
