@@ -6,6 +6,7 @@ from xml.etree import ElementTree as ET
 from paths import *
 from analize_text import get_sentenceID
 
+
 def parse(xml):
   ''' This function parses all needed information from given xml and returns two data frames
         -- one is with sentences (sentenceID, sentenceText) and the other with all the entities.
@@ -106,6 +107,18 @@ if __name__ == "__main__":
   print()
   print (entities_df_train.describe())  ## from here we can see that there are mostly drugs (9425 out of 14765 entities)
                                   ## the most common name is 'digoxin'
+
+
+  idxs = list()
+  for idx, row in pairs_df_train.iterrows():
+    entity1 = entities_df_train.loc[entities_df_train.entityID == row['entityID1']]['position'].values[0]
+    entity2 = entities_df_train.loc[entities_df_train.entityID == row['entityID2']]['position'].values[0]
+    if ";" in entity1 + entity2:
+        #print(entity1, '||', entity2)
+        idxs.append(idx)
+  pairs_df_train = pairs_df_train.drop(pairs_df_train.index[idxs]).reset_index()	
+  
+
   sentences_df_train.info()
   sentences_df_test1.info()
   sentences_df_test2.info()
